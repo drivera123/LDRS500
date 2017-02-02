@@ -1,5 +1,7 @@
 # Summary
 
 * [Syllabus](README.md)
-* [First Chapter](chapter1.md)
+* Assignments
+* [Unit 1](chapter1.md)
+* Unit 2
 
