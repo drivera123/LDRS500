@@ -1,6 +1,7 @@
 # Summary
 
 * [Syllabus](README.md)
+* Outcomes
 * [Assignments](assignments.md)
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 2. Themes, Theories, and Concepts ](unit-2.md)
@@ -10,6 +11,4 @@
 * Unit 6. People and Organizational Development
 * Unit 7. Leadership Ethics
 * [Unit 8. Women in Leadership](so-what-now-what.md)
-* Unit 9. Foresight and Traits as Related to Birkman
-* Unit 10. Conclusions
 
