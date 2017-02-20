@@ -8,7 +8,7 @@
 * Unit 4. Transformative and Servant Leadership
 * Unit 5. Team Leadership
 * Unit 6. People and Organizational Development
-* Unit 7. Leadership Ethics and Women in Leadership
+* Unit 7. Leadership Ethics
 * [Unit 8. Women in Leadership](so-what-now-what.md)
 * Unit 9. Foresight and Traits as Related to Birkman
 * Unit 10. Conclusions
