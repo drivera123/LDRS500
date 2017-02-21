@@ -1,3 +1,5 @@
+# ![](/assets/SA geography.JPG)
+
 # Leadership Foundations
 
 ## Description {#description}
