@@ -1,7 +1,7 @@
 # Summary
 
 * [Syllabus](README.md)
-* Outcomes
+* [Outcomes](outcomes.md)
 * [Assignments](assignments.md)
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 2. Themes, Theories, and Concepts ](unit-2.md)
