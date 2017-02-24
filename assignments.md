@@ -8,7 +8,7 @@ The second day of class you will present \(10 min max\) to the class **what your
 
 * What advice would you give the leader on how to better motivate followers or use the capabilities of the medium \(e.g. Twitter- brevity, Facebook – networking, visuals\) to influence people toward a common goal? \(1 point\)
 
-* Discuss one or two significant ideas
+* Discuss one or two significant ideas  
    and your ideas about these concepts rather than summarizing all content \(3 points\)
 
 * Demonstrate an intentional effort to address values, ethics, and principles. \(2 points\)
