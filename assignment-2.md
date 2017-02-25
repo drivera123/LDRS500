@@ -1,174 +1,3 @@
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:PMingLiU;  
-	panose-1:2 2 5 0 0 0 0 0 0 0;  
-	mso-font-alt:新細明體;  
-	mso-font-charset:136;  
-	mso-generic-font-family:auto;  
-	mso-font-format:other;  
-	mso-font-pitch:variable;  
-	mso-font-signature:1 134742016 16 0 1048576 0;}  
-@font-face  
-	{font-family:"Cambria Math";  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}  
-@font-face  
-	{font-family:Calibri;  
-	panose-1:2 15 5 2 2 2 4 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536859905 -1073732485 9 0 511 0;}  
-@font-face  
-	{font-family:Cambria;  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536870145 1073743103 0 0 415 0;}  
-@font-face  
-	{font-family:"\@PMingLiU";  
-	panose-1:2 2 5 0 0 0 0 0 0 0;  
-	mso-font-charset:136;  
-	mso-generic-font-family:auto;  
-	mso-font-format:other;  
-	mso-font-pitch:variable;  
-	mso-font-signature:1 134742016 16 0 1048576 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	mso-pagination:widow-orphan;  
-	font-size:12.0pt;  
-	font-family:"Cambria",serif;  
-	mso-ascii-font-family:Cambria;  
-	mso-ascii-theme-font:major-latin;  
-	mso-fareast-font-family:"Times New Roman";  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:Cambria;  
-	mso-hansi-theme-font:major-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-ansi-language:EN-US;  
-	mso-fareast-language:JA;}  
-p.MsoHeader, li.MsoHeader, div.MsoHeader  
-	{mso-style-priority:99;  
-	mso-style-link:"Header Char";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	mso-pagination:widow-orphan;  
-	tab-stops:center 216.0pt right 432.0pt;  
-	font-size:12.0pt;  
-	font-family:"Cambria",serif;  
-	mso-ascii-font-family:Cambria;  
-	mso-ascii-theme-font:major-latin;  
-	mso-fareast-font-family:"Times New Roman";  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:Cambria;  
-	mso-hansi-theme-font:major-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-ansi-language:EN-US;  
-	mso-fareast-language:JA;}  
-p.MsoFooter, li.MsoFooter, div.MsoFooter  
-	{mso-style-priority:99;  
-	mso-style-link:"Footer Char";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	mso-pagination:widow-orphan;  
-	tab-stops:center 216.0pt right 432.0pt;  
-	font-size:12.0pt;  
-	font-family:"Cambria",serif;  
-	mso-ascii-font-family:Cambria;  
-	mso-ascii-theme-font:major-latin;  
-	mso-fareast-font-family:"Times New Roman";  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:Cambria;  
-	mso-hansi-theme-font:major-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-ansi-language:EN-US;  
-	mso-fareast-language:JA;}  
-a:link, span.MsoHyperlink  
-	{mso-style-priority:99;  
-	color:blue;  
-	mso-themecolor:hyperlink;  
-	text-decoration:underline;  
-	text-underline:single;}  
-a:visited, span.MsoHyperlinkFollowed  
-	{mso-style-noshow:yes;  
-	mso-style-priority:99;  
-	color:purple;  
-	mso-themecolor:followedhyperlink;  
-	text-decoration:underline;  
-	text-underline:single;}  
-span.HeaderChar  
-	{mso-style-name:"Header Char";  
-	mso-style-priority:99;  
-	mso-style-unhide:no;  
-	mso-style-locked:yes;  
-	mso-style-link:Header;  
-	mso-ansi-font-size:12.0pt;  
-	mso-bidi-font-size:12.0pt;  
-	font-family:"Cambria",serif;  
-	mso-ascii-font-family:Cambria;  
-	mso-ascii-theme-font:major-latin;  
-	mso-fareast-font-family:"Times New Roman";  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:Cambria;  
-	mso-hansi-theme-font:major-latin;  
-	mso-ansi-language:EN-US;  
-	mso-fareast-language:JA;}  
-span.FooterChar  
-	{mso-style-name:"Footer Char";  
-	mso-style-priority:99;  
-	mso-style-unhide:no;  
-	mso-style-locked:yes;  
-	mso-style-link:Footer;  
-	mso-ansi-font-size:12.0pt;  
-	mso-bidi-font-size:12.0pt;  
-	font-family:"Cambria",serif;  
-	mso-ascii-font-family:Cambria;  
-	mso-ascii-theme-font:major-latin;  
-	mso-fareast-font-family:"Times New Roman";  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:Cambria;  
-	mso-hansi-theme-font:major-latin;  
-	mso-ansi-language:EN-US;  
-	mso-fareast-language:JA;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-family:"Calibri",sans-serif;  
-	mso-ascii-font-family:Calibri;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:Calibri;  
-	mso-fareast-theme-font:minor-latin;  
-	mso-hansi-font-family:Calibri;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-fareast-language:EN-US;}  
-.MsoPapDefault  
-	{mso-style-type:export-only;  
-	margin-bottom:10.0pt;  
-	line-height:115%;}  
-@page WordSection1  
-	{size:612.0pt 792.0pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:36.0pt;  
-	mso-footer-margin:36.0pt;  
-	mso-paper-source:0;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
 
 
 COURSE LEARNING PLAN
@@ -191,21 +20,11 @@ Instructor Contact Information
 
 **Telephone Contact**: 1\(604\)783-8066
 
-
-
 This intensive course is designed to be completed through 3 main components:
-
-
 
 **PRE-WORK**requires My Courses access and approximately 20-30 hours \(depending upon the learner’s pace\) of work to be finished before Day 1 of class. Therefore, participants are advised to begin pre-work approximately one month in advance of on-campus participation.
 
-
-
 **Face to Face Instruction January 10-13; 16-20 8:30am-12:00pm**
-
-
-
-
 
 **Assignments**
 
@@ -225,23 +44,13 @@ Thinking about Thinking Paper 15%
 
 **Total 100%**
 
-
-
 **Assigned pre-work DUE JANUARY 10 20%**
 
 The model of this course design is based on the concepts of a ‘flipped classroom’. Watch this 1:48min. video to understand the benefits of this approach.
 
 [https://www.playposit.com/share/22690/87140](https://www.playposit.com/share/22690/87140)
 
-
-
 See posted list of pre-work for details.Hand in this checklist with your completed work on Day 1 of class; Submit your one document to the dropbox. Please organize work in order and label it clearly. If it is not in order I will not be hunting for it and this could affect your grade.
-
-
-
-
-
-
 
 **Follow the Leader 10%**
 
@@ -253,33 +62,19 @@ The second day of class you will present \(10 min max\) to the class **what your
 
 What advice would you give the leader on how to better motivate followers or use the capabilities of the medium \(e.g. Twitter- brevity, Facebook – networking, visuals\) to influence people toward a common goal? \(1 point\)
 
-
-
 Discuss one or two significant ideas and your ideas about these concepts rather than summarizing all content \(3 points\)
-
-
 
 Demonstrate an intentional effort to address values, ethics, and principles. \(2 points\)
 
-
-
 Create a one-page point-form outline and bring handouts for class members. Identifying the leader, the medium you followed them and an outline of their ideas and their impact. \(3 points\)
 
-
-
 Stays within the time allotted – 10 minutes. \(1 point\)
-
-
 
 **Let me tell you a story DUE JAN. 16 AND 20 15%**
 
 In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
 
-
-
 This assignment asks you to develop a story that you can take with you into future leadership situations. No technology to be used for this assignment please.
-
-
 
 Some questions to prompt reflection and recognition:
 
@@ -301,15 +96,9 @@ What life lesson would you like to pass on to your children some day?
 
 If you only had one year left to live, how would you spend it?
 
-
-
 Think beyond clichés \(e.g. Love makes the world go ‘round\) to insights that are unique to you. How might others benefit from hearing this story and your personal connection to it? How does this story point to your vision as a leader?
 
-
-
 You will have the opportunity to deliver a “**rough draft**” of a story in class on the fifth day of class, **Monday January 16th, 2017**. We will practice these early versions in small groups, get constructive feedback, and eventually hone each story so that it has drama or interest, and a clear point. At the end you should be able to say, “The reason I am telling this story today is…” and make the connection to a particular circumstance or need. **Stories should be 3-5 minutes long, but no more than 6 minutes**.
-
-
 
 In the practice session, listeners should give the following feedback to each speaker:
 
@@ -327,11 +116,7 @@ When would this story be useful to tell?
 
 Suggestions for improving physical delivery
 
-
-
 **On the last day of class, Friday, January 20, 2017 each student will share his or her polished story with the whole class.**
-
-
 
 **Delivery** /4
 
@@ -347,8 +132,6 @@ speech and language is understandable
 
 Confidently communicated – you don’t read notes or computer all the time
 
-
-
 **Organization** /3
 
 Story is clear, includes sufficient detail
@@ -358,8 +141,6 @@ Well organized
 Fits reasonably within the time frame given
 
 Clear, concise, coherent
-
-
 
 **Subject Knowledge and Application** /8
 
@@ -371,17 +152,11 @@ Reasonable depth given the limitations of time/demonstrated thoughtfulness
 
 Uses concrete examples from the story and from personal experience
 
-
-
-
-
 **Thinking about Thinking Paper 15% DUE JANUARY 13TH**
 
 View the Stephen Brookfield lecture \(just over an hour\) about critical thinking and incorporate the concepts. Copy and paste thisurlinto your browser:
 
 [https://www.playposit.com/delivery/245790/492594/critical-thinking-with-stephen-brookfield](https://www.playposit.com/delivery/245790/492594/critical-thinking-with-stephen-brookfield)
-
-
 
 Explore the following website[http://www.criticalthinking.org/pages/college-and-university-students/799](http://www.criticalthinking.org/pages/college-and-university-students/799)
 
@@ -396,13 +171,9 @@ Read the introductory article addressed to college and university students and t
 
 [**The Art of Close Reading \(Part Three\)**](http://www.criticalthinking.org/articles/sts-ct-art-close-reading-p3.cfm)
 
-
-
 Write a three -four page paper on the role of critical thinking for a
 
 leader in your field.
-
-
 
 Evaluation
 
@@ -416,11 +187,7 @@ Addresses the topic in a focused manner. Clearly outlines and develops the major
 
 **What are you learning? What strikes you or has an impact on you?**
 
-
-
 Evaluation Rubric
-
-
 
 Includes a synthesis of one or two significant ideas rather than summarizing all content.Demonstrates your ideas about these concepts and personal/professional impact they have had on you. \(5 points\)
 
@@ -428,33 +195,19 @@ Demonstrates an intentional effort to address values, ethics, and principles. \(
 
 Displays language, grammar & editing, structure & presentation that is substantially free of technical flaws. 3-4 pages, double spaced, 12 pt font \(3 points\)
 
-
-
-
-
 **Leadership Lessons from Norton or Light from Many Lamps DUE JAN 18 AND 1910%**
 
 On the first class there will be a sign up. Choose a story from the Norton Anthology or Light from Many Lamps \(have 1st, 2nd and 3rd choices as there will be no repeats\). Create a 10 min presentation to teach the leadership lessons contained in the story.
 
-
-
 **Invictus Group Presentation  DUE TUES JAN. 17 10%**
-
-
 
 The Movie Invictus encourages people to believe in themselves so that the organization can achieve. This is a noble quest and requires a leader who can not only see over the horizon but make what is over the horizon tangible. As a team leader, getting people to believe in themselves and the organization is at the heart of any transformative process.
 
-
-
 What are the key lessons that the movie brings across? In Class presentation– Tues. Jan. 17 2017.
-
-
 
 **INVICTUSFIVE GENERAL OBSERVATIONS**
 
 The movie illustrates leadership competencies, character and commitment, with an emphasis on the commitment and leader character of Mandela and Pienaar. How does your own experiences in leadership roles and to what extent the framework of competencies, character and commitment resonates with your own beliefs or perceptions of leadership.
-
-
 
 The movie focuses on two different leaders, that is, Mandela and Pienaar. The leadership framework is essential for both even though the respective tasks they perform, and the challenges they face, differ. Mandela is focused on societal change whereas Pienaar is tasked to prepare the team for exceptional performance. Similarly, expectations that we have of leaders in business organizations are different depending on their level in the organization. But, regardless of their level — and whether the organization is public or private, large or small, etc. — our experience is that the framework of competencies, character and commitment resonates. How we give meaning to the three elements of good leadership depends on a number of factors including leadership level, the challenges that leaders confront, organizational culture and a host of others.
 
@@ -489,13 +242,7 @@ The scrutiny to which we have subjected Mandela and Pienaar is similar to how th
 |  |  |  |  | • | Authentic |
 |  |  |  |  | • | Good judgment |
 
-
-
 LrioSource: J. Gandz, M. Crossan, G. Seijts and C. Stephenson, “Leadership on Trial: A manifesto for Leadership Development,” 2010, Richard Ivey School of Business,
 
 Source: J. Gandz, M. Crossan, G. Seijts and M. Reno, “Leadership Character and Corporate Governance,” Director 167, May–June 2013, pp. 15–21, reprinted in Ivey Business Journal \[online\],[http://iveybusinessjournal.com/topics/leadership/leadership-character-and-corporate-governance,](http://iveybusinessjournal.com/topics/leadership/leadership-character-and-corporate-governance,)accessed March 17, 2014.
-
-
-
-
 

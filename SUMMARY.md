@@ -11,5 +11,4 @@
 * Unit 6. People and Organizational Development
 * Unit 7. Leadership Ethics
 * [Unit 8. Women in Leadership](so-what-now-what.md)
-* [assignment 2](assignment-2.md)
 
