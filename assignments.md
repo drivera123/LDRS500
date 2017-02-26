@@ -1,17 +1,3 @@
-
-
-COURSE LEARNING PLAN
-
-[LDRS 500 LEADERSHIP FOUNDATIONS](undefined)
-
-**Pre Course READ Dates: Dec. 10-Jan. 9**
-
-**Course Start Date: January 10, 2017 \*Pre-work due**
-
-**Course End Date: January 20, 2017**
-
-**Final Date for Course Assignments:**
-
 Instructor Contact Information
 
 **Instructor**: Adrienne Castellon, EdD
@@ -44,15 +30,7 @@ Thinking about Thinking Paper 15%
 
 **Total 100%**
 
-**Assigned pre-work DUE JANUARY 10 20%**
-
-The model of this course design is based on the concepts of a ‘flipped classroom’. Watch this 1:48min. video to understand the benefits of this approach.
-
-[https://www.playposit.com/share/22690/87140](https://www.playposit.com/share/22690/87140)
-
-See posted list of pre-work for details. Hand in this checklist with your completed work on Day 1 of class; Submit your one document to the dropbox. Please organize work in order and label it clearly. If it is not in order I will not be hunting for it and this could affect your grade.
-
-**Follow the Leader DUE JAN. 11 AND 12 10%**
+## **Follow the Leader DUE JAN. 11 AND 12 10%**
 
 Identify an opinion leader \(could be from your field or not\) whom you admire and follow that person on social media two weeks prior to the class. \(Twitter, Facebook, blog, etc.\).
 
@@ -70,7 +48,7 @@ Create a one-page point-form outline and bring handouts for class members. Ident
 
 Stays within the time allotted – 10 minutes. \(1 point\)
 
-**Let me tell you a story DUE JAN. 16 AND 20 15%**
+## **Let me tell you a story DUE JAN. 16 AND 20 15%**
 
 In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
 
@@ -152,7 +130,7 @@ Reasonable depth given the limitations of time/demonstrated thoughtfulness
 
 Uses concrete examples from the story and from personal experience
 
-**Thinking about Thinking Paper 15% DUE JANUARY 13TH**
+## **Thinking about Thinking Paper 15% DUE JANUARY 13TH**
 
 View the Stephen Brookfield lecture \(just over an hour\) about critical thinking and incorporate the concepts. Copy and paste thisurlinto your browser:
 
@@ -183,7 +161,7 @@ Displays grammar & editing, structure & presentation that is substantially free 
 
 Addresses the topic in a focused manner. Clearly outlines and develops the major points related to the topic; ideas are logically presented. \(7 points\)
 
-**Learning Compendium \(\#1 due Mon. Jan. 16 and \#2 due Mon. Jan. 23\) 10% each 20%**
+## **Learning Compendium \(\#1 due Mon. Jan. 16 and \#2 due Mon. Jan. 23\) 10% each 20%**
 
 **What are you learning? What strikes you or has an impact on you?**
 
@@ -195,11 +173,11 @@ Demonstrates an intentional effort to address values, ethics, and principles. \(
 
 Displays language, grammar & editing, structure & presentation that is substantially free of technical flaws. 3-4 pages, double spaced, 12 pt font \(3 points\)
 
-**Leadership Lessons from Norton or Light from Many Lamps DUE JAN 18 AND 1910%**
+## **Leadership Lessons from Norton or Light from Many Lamps DUE JAN 18 AND 1910%**
 
 On the first class there will be a sign up. Choose a story from the Norton Anthology or Light from Many Lamps \(have 1st, 2nd and 3rd choices as there will be no repeats\). Create a 10 min presentation to teach the leadership lessons contained in the story.
 
-**Invictus Group Presentation  DUE TUES JAN. 17 10%**
+## **Invictus Group Presentation  DUE TUES JAN. 17 10%**
 
 The Movie Invictus encourages people to believe in themselves so that the organization can achieve. This is a noble quest and requires a leader who can not only see over the horizon but make what is over the horizon tangible. As a team leader, getting people to believe in themselves and the organization is at the heart of any transformative process.
 
