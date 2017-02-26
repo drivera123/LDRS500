@@ -13,6 +13,4 @@
 * [Unit 8. Women in Leadership](so-what-now-what.md)
 * [Unit 9. Birkman](birkman.md)
 * Unit 10. Conclusions
-* [docx test](docx-test.md)
-* [pdf test](pdf-test.md)
 
