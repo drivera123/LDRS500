@@ -8,7 +8,9 @@
 * [Unit 3. Values-Based Leadership and Critical Thinking](unit-3.-values-based-leadership-and-critical-thinking.md)
 * [Unit 4. Transformative and Servant Leadership](unit-4.-transformative-and-servant-leadership.md)
 * [Unit 5. Team Leadership](unit-5.-team-leadership.md)
-* Unit 6. People and Organizational Development
-* Unit 7. Leadership Ethics
+* [Unit 6. People and Organizational Development](unit-6.-people-and-organizational-development.md)
+* [Unit 7. Leadership Ethics](unit-7.-leadership-ethics.md)
 * [Unit 8. Women in Leadership](so-what-now-what.md)
+* [Unit 9. Birkman](birkman.md)
+* Unit 10. Conclusions
 
