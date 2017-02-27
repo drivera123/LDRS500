@@ -11,6 +11,6 @@
 * [Unit 6. People and Organizational Development](unit-6.-people-and-organizational-development.md)
 * [Unit 7. Leadership Ethics](unit-7.-leadership-ethics.md)
 * [Unit 8. Women in Leadership](so-what-now-what.md)
-* [Unit 9. Birkman](birkman.md)
+* [Unit 9. Foresight and traits: Birkman](birkman.md)
 * Unit 10. Conclusions
 

@@ -10,9 +10,9 @@ The Impact of Critical Thinking in my Leadership Context paper 15%
 
 Substantive participation in online forum discussions 25%
 
-**Total 100%**
+Total 100%
 
-## Follow the Leader
+**Follow the Leader**
 
 Identify an opinion leader on social media whom you admire.
 
@@ -30,11 +30,11 @@ Stay within the time allotted – 5 minutes. \(1 point\)
 
 Substantive response to two other colleagues' Follow the Leader' assignments \(4 points\)
 
-## My leadership story 
+**My leadership story**
 
 In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
 
-This assignment asks you to develop a story that you can take with you into future leadership situations. 
+This assignment asks you to develop a story that you can take with you into future leadership situations.
 
 Some questions to prompt reflection and recognition:
 
@@ -58,11 +58,9 @@ If you only had one year left to live, how would you spend it?
 
 Think beyond clichés \(e.g. Love makes the world go ‘round\) to insights that are unique to you. How might others benefit from hearing this story and your personal connection to it? How does this story point to your vision as a leader?
 
-
-
 Criteria and Evaluation
 
-**Delivery** 
+_Delivery_
 
 non-verbal mannerisms and gestures appear natural \(1 point\)
 
@@ -70,17 +68,13 @@ appropriate vocal animation, articulation, tone, volume \(1 point\)
 
 Confidently communicated – you glance at but don't read notes \(1 point\)
 
-
-
-**Organization** 
+_Organization_
 
 Story is clear, well organized \(1 point\)
 
 Fits within 3-5 minutes but no more than 6 minutes \(1 point\)
 
-
-
-**Subject Knowledge and Application** 
+_Subject Knowledge and Application_
 
 Story relates a point or lesson connected to your leadership \(2 points\)
 
@@ -94,26 +88,25 @@ Grammar and expression communicates clearly and without ambiguity or confusion. 
 
 Substantive response to two stories by colleagues in the class \(4 points\)
 
-
-
 **The Impact of Critical Thinking in my Leadership Context  Paper **
 
 To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org  These should give you enough information. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
 
-* View: Critical Thinking at https://youtu.be/6OLPL5p0fM
-* View: What is Critical Thinking at https://youtu.be/9oAf3g5\_138
+* View: Critical Thinking at [https://youtu.be/6OLPL5p0fM](https://youtu.be/6OLPL5p0fM)
 
-* View 'Example of Lateral Thinking when it matters' at https://youtu.be/q3HjWA7bii4?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\_DgovoS
+* View: What is Critical Thinking at [https://youtu.be/9oAf3g5\\_138](https://youtu.be/9oAf3g5\_138)
 
-* View 'Edward de Bono discusses Lateral Thinking' at https://youtu.be/Nb9Oe83ruUw?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\_DgovoS
+* View 'Example of Lateral Thinking when it matters' at [https://youtu.be/q3HjWA7bii4?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\\_DgovoS](https://youtu.be/q3HjWA7bii4?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\_DgovoS)
 
-* Beyond Common Sense: Critical Thinking Skills and Decision Making for Leaders at https://youtu.be/QTWc-JLh3Fw
+* View 'Edward de Bono discusses Lateral Thinking' at [https://youtu.be/Nb9Oe83ruUw?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\\_DgovoS](https://youtu.be/Nb9Oe83ruUw?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\_DgovoS)
 
-* The Importance of Critical Thinking \| Mark Minute \| Mark Sanborn Leadership Speaker at https://youtu.be/2yEZHXgQKsM
+* Beyond Common Sense: Critical Thinking Skills and Decision Making for Leaders at [https://youtu.be/QTWc-JLh3Fw](https://youtu.be/QTWc-JLh3Fw)
+
+* The Importance of Critical Thinking \| Mark Minute \| Mark Sanborn Leadership Speaker at [https://youtu.be/2yEZHXgQKsM](https://youtu.be/2yEZHXgQKsM)
 
 * Explore the following website [http://www.criticalthinking.org](http://www.criticalthinking.org/pages/college-and-university-students/799)
 
-Criteria and Evaluation
+_Criteria and Evaluation_
 
 Displays grammar & editing that is substantially free of technical flaws. Paper consistently models the language/ conventions used in scholarly literature. \(2 points\)
 
@@ -131,11 +124,11 @@ Includes a clear illustrative example for each point of significance. \(4 points
 
 Substantive response to two papers by colleagues in the class \(4 points\)
 
-## Integrated Learning Reflection Journal 
+**Integrated Learning Reflection Journal**
 
-**What are you learning? What strikes you or has an impact on you?  This is not a research paper but a critical reflection.**
+_What are you learning? What strikes you or has an impact on you?  This is not a research paper but a critical reflection._
 
-Criteria and Evaluation Rubric
+_Criteria and Evaluation Rubric_
 
 Includes a synthesis of one or two significant ideas rather than summarizing everything you've learned.\(3 points\)
 
@@ -143,17 +136,17 @@ Demonstrates your ideas about these concepts and how they impact your personal/p
 
 Demonstrates an intentional effort to address values, ethics, and principles. \(2 points\)
 
-Displays grammar & editing that is substantially free of technical flaws. Paper consistently models the language/ conventions used in scholarly literature. \(2 points\)  
+Displays grammar & editing that is substantially free of technical flaws. Paper consistently models the language/ conventions used in scholarly literature. \(2 points\)
 
 3-4 pages, double spaced, 12 pt font \(1 point\)
 
 Substantive response to two journals by colleagues in the class. \(4 points\)
 
-## **Leadership Lessons in a movie or story**
+**Leadership Lessons in a movie or story**
 
 Groups will be assigned. Choose a movie OR a story from either the Norton Anthology or Light from Many Lamps.  Create a chart of other graphic display to demonstrate the importance of character, competencies, and commitment.  Take examples from the movie or story that show these three elements of good leadership.  As applicable, address factors such as leadership level, challenges, leadership development and organizational culture.
 
-Criteria and Evaluation
+_Criteria and Evaluation_
 
 One page graphic display clearly communicates \(1 points\)
 
@@ -165,7 +158,7 @@ The importance of competencies as related by the movie or story is clearly demon
 
 The importance of commitment as related by the movie or story is clearly demonstrated \(4 points\)
 
-## 
+
 
 
 
