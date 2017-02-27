@@ -1,12 +1,12 @@
 # Unit 7
 
-Wednesday Jan. 18 Leadership Ethics with a focus on Women in Leadership
+Watch video 'What is the most important question' at https://youtu.be/YTHrKL1rh18?list=PL3fSda8lJVjSiqBfZ5aM6zDFF4dR1oMir
 
-Watch Mission Drift video https://youtu.be/ukbAGTqGeiQ and also the video about the importance of honesty and integrityhttps://youtu.be/-eSuGwu2ejE?list=PL3fSda8lJVjQVS4q\_AYa6VOfFqD-5FJha
+Watch Mission Drift video [https://youtu.be/ukbAGTqGeiQ](https://youtu.be/ukbAGTqGeiQ) 
 
-Prepare short responses to 11 questions SUBMIT
+View the video about the importance of honesty and integrity [https://youtu.be/-eSuGwu2ejE?list=PL3fSda8lJVjQVS4q\\_AYa6VOfFqD-5FJha](https://youtu.be/-eSuGwu2ejE?list=PL3fSda8lJVjQVS4q\_AYa6VOfFqD-5FJha)
 
-View two posted ppts PREPARE AND SUBMIT A 1OO WORD PRECIS COMMENT on each of the ppts.
+Prepare short responses to 11 questions.  Post to forum.
 
 
 

@@ -1,12 +1,8 @@
 # Unit 4
 
-Friday January 13 Transformative and Servant Leadership
+Read Northouse chapter and prepare a 200 word precis/synthesis. Post to forum.
 
-Read posted powerpoint PREPARE AND SUBMIT A 1OO WORD PRECIS COMMENT
+Read posted articles by Parolini, Stone, Page and Wallace.  Prepare a 250-300 word precis. Post to forum. 
 
-Read Northouse chapter 8 PREPARE AND SUBMIT A 2OO WORD PRECIS COMMENT
-
-Read posted articles by Parolini, Stone, Page and Wallace PREPARE AND SUBMIT A 250-300 WORD PRECIS COMMENT
-
-Read characteristics of Servant Led organizations PREPARE AND SUBMIT A 1OO WORD PRECIS COMMENT
+Read characteristics of Servant Led organizations. Prepare a 1OO word precis/synthesis. Post to forum. 
 
