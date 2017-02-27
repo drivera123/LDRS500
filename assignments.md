@@ -1,58 +1,40 @@
-Instructor Contact Information
+Follow the Leader: individual video or podcast presentation  15%
 
-**Instructor**: Adrienne Castellon, EdD
+My leadership story: individual video or podcast presentation 15%
 
-**E-mail Address:**[**Adrienne.Castellon@twu.ca**](mailto:Adrienne.Castellon@twu.ca)
+Integrated Learning Reflection Journal  15%
 
-**Telephone Contact**: 1\(604\)783-8066
+Leadership Lessons in a movie or a story: group assignment based on movie of choice or a selected story from one of the anthologies 15%
 
-This intensive course is designed to be completed through 3 main components:
+The Impact of Critical Thinking in my Leadership Context paper 15%
 
-**PRE-WORK**requires My Courses access and approximately 20-30 hours \(depending upon the learner’s pace\) of work to be finished before Day 1 of class. Therefore, participants are advised to begin pre-work approximately one month in advance of on-campus participation.
-
-**Face to Face Instruction January 10-13; 16-20 8:30am-12:00pm**
-
-**Assignments**
-
-Pre-work 20%
-
-Follow the Leader presentation  10%
-
-Let me tell you a story 15%
-
-Learning Compendium 20%
-
-Invictus Group Presentation 10%
-
-[**Leadership Lessons  10%**](undefined)
-
-Thinking about Thinking Paper 15%
+Substantive participation in online forum discussions 25%
 
 **Total 100%**
 
-## **Follow the Leader DUE JAN. 11 AND 12 10%**
+## Follow the Leader
 
-Identify an opinion leader \(could be from your field or not\) whom you admire and follow that person on social media two weeks prior to the class. \(Twitter, Facebook, blog, etc.\).
+Identify an opinion leader on social media whom you admire.
 
-The second day of class you will present \(10 min max\) to the class **what your leader is thinking and how influential you think s/he is. This is an oral presentation without powerpoint or other technology.**
+Criteria and Evaluation
 
-**Evaluation**
+Discuss one or two significant ideas of the leader \(3 points\)
 
-What advice would you give the leader on how to better motivate followers or use the capabilities of the medium \(e.g. Twitter- brevity, Facebook – networking, visuals\) to influence people toward a common goal? \(1 point\)
+Discuss your thoughts and analysis regarding these concepts \(4 points\)
 
-Discuss one or two significant ideas and your ideas about these concepts rather than summarizing all content \(3 points\)
+Discuss the leader's values, ethics, and principles \(2 points\)
 
-Demonstrate an intentional effort to address values, ethics, and principles. \(2 points\)
+Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\)
 
-Create a one-page point-form outline and bring handouts for class members. Identifying the leader, the medium you followed them and an outline of their ideas and their impact. \(3 points\)
+Stay within the time allotted – 5 minutes. \(1 point\)
 
-Stays within the time allotted – 10 minutes. \(1 point\)
+Substantive response to two other colleagues' Follow the Leader' assignments \(4 points\)
 
-## **Let me tell you a story DUE JAN. 16 AND 20 15%**
+## My leadership story 
 
 In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
 
-This assignment asks you to develop a story that you can take with you into future leadership situations. No technology to be used for this assignment please.
+This assignment asks you to develop a story that you can take with you into future leadership situations. 
 
 Some questions to prompt reflection and recognition:
 
@@ -76,151 +58,114 @@ If you only had one year left to live, how would you spend it?
 
 Think beyond clichés \(e.g. Love makes the world go ‘round\) to insights that are unique to you. How might others benefit from hearing this story and your personal connection to it? How does this story point to your vision as a leader?
 
-You will have the opportunity to deliver a “**rough draft**” of a story in class on the fifth day of class, **Monday January 16th, 2017**. We will practice these early versions in small groups, get constructive feedback, and eventually hone each story so that it has drama or interest, and a clear point. At the end you should be able to say, “The reason I am telling this story today is…” and make the connection to a particular circumstance or need. **Stories should be 3-5 minutes long, but no more than 6 minutes**.
 
-In the practice session, listeners should give the following feedback to each speaker:
 
-What’s the most genuine moment in the story?
+Criteria and Evaluation
 
-What information is unclear or missing?
+**Delivery** 
 
-What details have the most impact?
+non-verbal mannerisms and gestures appear natural \(1 point\)
 
-How well does the point of the story relate to you?
+appropriate vocal animation, articulation, tone, volume \(1 point\)
 
-How could the application be stronger?
+Confidently communicated – you glance at but don't read notes \(1 point\)
 
-When would this story be useful to tell?
 
-Suggestions for improving physical delivery
 
-**On the last day of class, Friday, January 20, 2017 each student will share his or her polished story with the whole class.**
+**Organization** 
 
-**Delivery** /4
+Story is clear, well organized \(1 point\)
 
-manner is comfortable
+Fits within 3-5 minutes but no more than 6 minutes \(1 point\)
 
-eye contact
 
-body language relaxed
 
-appropriate vocal animation, articulation, tone, volume
+**Subject Knowledge and Application** 
 
-speech and language is understandable
+Story relates a point or lesson connected to your leadership \(2 points\)
 
-Confidently communicated – you don’t read notes or computer all the time
+Introduction sets the context for why your particular story is useful to tell \(1 point\)
 
-**Organization** /3
+Conclusion hones in on the leadership lesson \(1 point\)
 
-Story is clear, includes sufficient detail
+Reasonable depth given the limitations of time/demonstrated thoughtfulness \(1 point\)
 
-Well organized
+Grammar and expression communicates clearly and without ambiguity or confusion. \(1 point\)
 
-Fits reasonably within the time frame given
+Substantive response to two stories by colleagues in the class \(4 points\)
 
-Clear, concise, coherent
 
-**Subject Knowledge and Application** /8
 
-Story relates a point or lesson connected to your leadership
+**The Impact of Critical Thinking in my Leadership Context  Paper **
 
-Introduction or conclusion sets the context for why your particular story is useful to tell
+To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org  These should give you enough information. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
 
-Reasonable depth given the limitations of time/demonstrated thoughtfulness
+* View: Critical Thinking at https://youtu.be/6OLPL5p0fM
+* View: What is Critical Thinking at https://youtu.be/9oAf3g5\_138
 
-Uses concrete examples from the story and from personal experience
+* View 'Example of Lateral Thinking when it matters' at https://youtu.be/q3HjWA7bii4?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\_DgovoS
 
-## **Thinking about Thinking Paper 15% DUE JANUARY 13TH**
+* View 'Edward de Bono discusses Lateral Thinking' at https://youtu.be/Nb9Oe83ruUw?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\_DgovoS
 
-View the Stephen Brookfield lecture \(just over an hour\) about critical thinking and incorporate the concepts. Copy and paste thisurlinto your browser:
+* Beyond Common Sense: Critical Thinking Skills and Decision Making for Leaders at https://youtu.be/QTWc-JLh3Fw
 
-[https://www.playposit.com/delivery/245790/492594/critical-thinking-with-stephen-brookfield](https://www.playposit.com/delivery/245790/492594/critical-thinking-with-stephen-brookfield)
+* The Importance of Critical Thinking \| Mark Minute \| Mark Sanborn Leadership Speaker at https://youtu.be/2yEZHXgQKsM
 
-Explore the following website[http://www.criticalthinking.org/pages/college-and-university-students/799](http://www.criticalthinking.org/pages/college-and-university-students/799)
+* Explore the following website [http://www.criticalthinking.org](http://www.criticalthinking.org/pages/college-and-university-students/799)
 
-Read the introductory article addressed to college and university students and the following linked articles:
+Criteria and Evaluation
 
-[**Becoming a Critic Of Your Thinking**](http://www.criticalthinking.org/articles/becoming-a-critic.cfm)
+Displays grammar & editing that is substantially free of technical flaws. Paper consistently models the language/ conventions used in scholarly literature. \(2 points\)
 
-[**Valuable Intellectual Traits**](http://www.criticalthinking.org/articles/valuable-intellectual-traits.cfm)[**  
- The Art of Close Reading \(Part One\)**](http://www.criticalthinking.org/articles/sts-ct-art-close-reading-p1.cfm)
+Addresses the topic in a focused, cohesive and logical manner evident in good overall structure \(intro/body/conclusion\) and transitions between ideas. \(2 point\)
 
-[**The Art of Close Reading \(Part Two\)**](http://www.criticalthinking.org/articles/sts-ct-art-close-reading-p2.cfm)
+3-4 pages, double spaced; 12 pt font \(1 point\)
 
-[**The Art of Close Reading \(Part Three\)**](http://www.criticalthinking.org/articles/sts-ct-art-close-reading-p3.cfm)
+Includes at least two references from specified videos \(1 point\)
 
-Write a three -four page paper on the role of critical thinking for a
+Includes at least two references from criticalthinking.org \(1 point\)
 
-leader in your field.
+Clearly outlines and develops four points related to the significance of critical thinking in your particular context \(4 points\)
 
-Evaluation
+Includes a clear illustrative example for each point of significance. \(4 points\)
 
-Displays grammar & editing, structure & presentation that is substantially free of technical flaws. Paper consistently models the language/ conventions used in scholarly literature. Strong transitions between ideas being addressed, writing flows smoothly from one idea to another and is easy to follow. \(4 points\)
+Substantive response to two papers by colleagues in the class \(4 points\)
 
-3-4 pages, double spaced, 12 pt font Includes references from Brookfield as well as criticalthinking.org Reader has little difficulty referring back to cited sources. \(4 points\)
+## Integrated Learning Reflection Journal 
 
-Addresses the topic in a focused manner. Clearly outlines and develops the major points related to the topic; ideas are logically presented. \(7 points\)
+**What are you learning? What strikes you or has an impact on you?  This is not a research paper but a critical reflection.**
 
-## **Learning Compendium \(\#1 due Mon. Jan. 16 and \#2 due Mon. Jan. 23\) 10% each 20%**
+Criteria and Evaluation Rubric
 
-**What are you learning? What strikes you or has an impact on you?**
+Includes a synthesis of one or two significant ideas rather than summarizing everything you've learned.\(3 points\)
 
-Evaluation Rubric
-
-Includes a synthesis of one or two significant ideas rather than summarizing all content.Demonstrates your ideas about these concepts and personal/professional impact they have had on you. \(5 points\)
+Demonstrates your ideas about these concepts and how they impact your personal/professional principles. \(3 points\)
 
 Demonstrates an intentional effort to address values, ethics, and principles. \(2 points\)
 
-Displays language, grammar & editing, structure & presentation that is substantially free of technical flaws. 3-4 pages, double spaced, 12 pt font \(3 points\)
+Displays grammar & editing that is substantially free of technical flaws. Paper consistently models the language/ conventions used in scholarly literature. \(2 points\)  
 
-## **Leadership Lessons from Norton or Light from Many Lamps DUE JAN 18 AND 1910%**
+3-4 pages, double spaced, 12 pt font \(1 point\)
 
-On the first class there will be a sign up. Choose a story from the Norton Anthology or Light from Many Lamps \(have 1st, 2nd and 3rd choices as there will be no repeats\). Create a 10 min presentation to teach the leadership lessons contained in the story.
+Substantive response to two journals by colleagues in the class. \(4 points\)
 
-## **Invictus Group Presentation  DUE TUES JAN. 17 10%**
+## **Leadership Lessons in a movie or story**
 
-The Movie Invictus encourages people to believe in themselves so that the organization can achieve. This is a noble quest and requires a leader who can not only see over the horizon but make what is over the horizon tangible. As a team leader, getting people to believe in themselves and the organization is at the heart of any transformative process.
+Groups will be assigned. Choose a movie OR a story from either the Norton Anthology or Light from Many Lamps.  Create a chart of other graphic display to demonstrate the importance of character, competencies, and commitment.  Take examples from the movie or story that show these three elements of good leadership.  As applicable, address factors such as leadership level, challenges, leadership development and organizational culture.
 
-What are the key lessons that the movie brings across? In Class presentation– Tues. Jan. 17 2017.
+Criteria and Evaluation
 
-**INVICTUSFIVE GENERAL OBSERVATIONS**
+One page graphic display clearly communicates \(1 points\)
 
-The movie illustrates leadership competencies, character and commitment, with an emphasis on the commitment and leader character of Mandela and Pienaar. How does your own experiences in leadership roles and to what extent the framework of competencies, character and commitment resonates with your own beliefs or perceptions of leadership.
+Grammar and editing is substantially free of technical flaws.  Consistently models the language of scholarly literature. \(2 points\)
 
-The movie focuses on two different leaders, that is, Mandela and Pienaar. The leadership framework is essential for both even though the respective tasks they perform, and the challenges they face, differ. Mandela is focused on societal change whereas Pienaar is tasked to prepare the team for exceptional performance. Similarly, expectations that we have of leaders in business organizations are different depending on their level in the organization. But, regardless of their level — and whether the organization is public or private, large or small, etc. — our experience is that the framework of competencies, character and commitment resonates. How we give meaning to the three elements of good leadership depends on a number of factors including leadership level, the challenges that leaders confront, organizational culture and a host of others.
+The importance of character as related by the movie or story is clearly demonstrated \(4 points\)
 
-What is perhaps most unique about Mandela’s character is that he exhibits so many different dimensions of character that are not as evident in other leaders, such as Transcendence, Temperance, Humanity and Humility. These have often been viewed as soft and a sign of weakness by many, but we see in Mandela the strength they bring. It is critical to note that virtues become vices in excess or deficiency and the character elements works together to support one another. It is precisely because Mandela has depth of character in Transcendence, Temperance, Humanity and Humility that provides the necessary support for Courage, Drive and Accountability, for example.
+The importance of competencies as related by the movie or story is clearly demonstrated \(4 points\)
 
-We see the development of character in Pienaar and his teammates. Character development is indeed a lifelong journey for all of us, and the possibilities to develop and exercise character reside in everyday opportunities.
+The importance of commitment as related by the movie or story is clearly demonstrated \(4 points\)
 
-The scrutiny to which we have subjected Mandela and Pienaar is similar to how the people we work for, or that we lead, make attributions about our competencies, character and level of commitment to the leadership role. This should be a reminder for all of us.
+## 
 
-**MANDELA’S COMPETENCIES, COMMITMENT AND CHARACTER**
 
-|  |  |  | Competencies | Commitment | Character |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| • | Visioning and future orientation | • | Going into the stands and giving thanks for the flag | • | Compassion |
-|  |  |  |  | • | Generosity |
-| •• | CommunicationGaining support and influence | • | Learned the names of theplayers and visited the  training camp | •• | EmpathyCalm and composed |
-|  |  | • | Wearing the number 6 |  |  |
-| • | Collaboration |  | Springbok shirt | • | Restraint and patience |
-| • | Expectation setting and | • | Doing the hard work of | • | Courage and confidence |
-|  | motivation |  | leadership, exhaustion | • | Principled |
-| • | Raising the bar | • | Multi-tasking: Mandela haslots of promises to keep | • | Results oriented |
-| • | Building trust and trusting |  |  | • | Humble and grounded |
-|  |  |  | The price of leadership: |  |  |
-|  | • | Relationship building | sacrifice and loneliness | • | Sincere |
-| • | Leading by example and living the values | • | The willingness to lead: the  people supporting racism are | • | Humility |
-| • | Sharing the success |  | wrong and Mandela has to show them that. | • | Determined |
-| • | Empowering others by offering choice & support |  |  | •• | Flexible and open-minded Reflective |
-| • | Change tactics |  |  | • | Self- and situation awareness |
-|  |  |  |  | • | Forgiveness |
-|  |  |  |  | • | Optimism |
-|  |  |  |  | • | Transparent |
-|  |  |  |  | • | Authentic |
-|  |  |  |  | • | Good judgment |
-
-LrioSource: J. Gandz, M. Crossan, G. Seijts and C. Stephenson, “Leadership on Trial: A manifesto for Leadership Development,” 2010, Richard Ivey School of Business,
-
-Source: J. Gandz, M. Crossan, G. Seijts and M. Reno, “Leadership Character and Corporate Governance,” Director 167, May–June 2013, pp. 15–21, reprinted in Ivey Business Journal \[online\],[http://iveybusinessjournal.com/topics/leadership/leadership-character-and-corporate-governance,](http://iveybusinessjournal.com/topics/leadership/leadership-character-and-corporate-governance,)accessed March 17, 2014.
 
