@@ -32,66 +32,6 @@ Stay within the time allotted – 5 minutes. \(1 point\)
 
 Substantive response to two other colleagues' Follow the Leader' assignments \(4 points\)
 
-## **My leadership story**
-
-Due end of Week 8
-
-In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
-
-This assignment asks you to develop a story that you can take with you into future leadership situations.
-
-Some questions to prompt reflection and recognition:
-
-What people have had a significant impact on your life and why?
-
-What hardships have you faced and overcome?
-
-What are the greatest blessings in your life?
-
-What do you really, really believe?
-
-What ideas make your heart skip a beat?
-
-What do you know about life now that you wish you had known in high school?
-
-What is the one best piece of advice you could give to a person?
-
-What life lesson would you like to pass on to your children some day?
-
-If you only had one year left to live, how would you spend it?
-
-Think beyond clichés \(e.g. Love makes the world go ‘round\) to insights that are unique to you. How might others benefit from hearing this story and your personal connection to it? How does this story point to your vision as a leader?
-
-Criteria and Evaluation
-
-_Delivery_
-
-non-verbal mannerisms and gestures appear natural \(1 point\)
-
-appropriate vocal animation, articulation, tone, volume \(1 point\)
-
-Confidently communicated – you glance at but don't read notes \(1 point\)
-
-_Organization_
-
-Story is clear, well organized \(1 point\)
-
-Fits within 3-5 minutes but no more than 6 minutes \(1 point\)
-
-_Subject Knowledge and Application_
-
-Story relates a point or lesson connected to your leadership \(2 points\)
-
-Introduction sets the context for why your particular story is useful to tell \(1 point\)
-
-Conclusion hones in on the leadership lesson \(1 point\)
-
-Reasonable depth given the limitations of time/demonstrated thoughtfulness \(1 point\)
-
-Grammar and expression communicates clearly and without ambiguity or confusion. \(1 point\)
-
-Substantive response to two stories by colleagues in the class \(4 points\)
-
 ## **The Impact of Critical Thinking in my Leadership Context  Paper **
 
 Due:
@@ -159,6 +99,66 @@ Displays grammar & editing that is substantially free of technical flaws. Paper 
 3-4 pages, double spaced, 12 pt font \(1 point\)
 
 Substantive response to two journals by colleagues in the class. \(4 points\)
+
+## **My leadership story**
+
+Due end of Week 8
+
+In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
+
+This assignment asks you to develop a story that you can take with you into future leadership situations.
+
+Some questions to prompt reflection and recognition:
+
+What people have had a significant impact on your life and why?
+
+What hardships have you faced and overcome?
+
+What are the greatest blessings in your life?
+
+What do you really, really believe?
+
+What ideas make your heart skip a beat?
+
+What do you know about life now that you wish you had known in high school?
+
+What is the one best piece of advice you could give to a person?
+
+What life lesson would you like to pass on to your children some day?
+
+If you only had one year left to live, how would you spend it?
+
+Think beyond clichés \(e.g. Love makes the world go ‘round\) to insights that are unique to you. How might others benefit from hearing this story and your personal connection to it? How does this story point to your vision as a leader?
+
+Criteria and Evaluation
+
+_Delivery_
+
+non-verbal mannerisms and gestures appear natural \(1 point\)
+
+appropriate vocal animation, articulation, tone, volume \(1 point\)
+
+Confidently communicated – you glance at but don't read notes \(1 point\)
+
+_Organization_
+
+Story is clear, well organized \(1 point\)
+
+Fits within 3-5 minutes but no more than 6 minutes \(1 point\)
+
+_Subject Knowledge and Application_
+
+Story relates a point or lesson connected to your leadership \(2 points\)
+
+Introduction sets the context for why your particular story is useful to tell \(1 point\)
+
+Conclusion hones in on the leadership lesson \(1 point\)
+
+Reasonable depth given the limitations of time/demonstrated thoughtfulness \(1 point\)
+
+Grammar and expression communicates clearly and without ambiguity or confusion. \(1 point\)
+
+Substantive response to two stories by colleagues in the class \(4 points\)
 
 ## **Leadership Lessons in a movie or story \(group project\)**
 
