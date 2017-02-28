@@ -99,7 +99,7 @@ Due:
 * annotated bibliography & outline - week 3
 * rough draft - week 5
 * peer review - week 6
-* final draft - week 9 
+* final draft - week 9
 
 * [ ] ADD intro APA
 
@@ -165,12 +165,14 @@ Substantive response to two journals by colleagues in the class. \(4 points\)
 * infographic, website, multi-media
 
 * [ ] build scaffolded structure
+
 * [ ] add PMP process
+
 * [ ] defined roles
 
 Due Dates
 
-*  project proposal \(movie or anthology story\)
+* project proposal \(movie or anthology story\)
   * name of the resource and why chosen \(full citation\)
   * group member roles
   * project timeline with due dates
