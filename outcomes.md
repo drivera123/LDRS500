@@ -4,5 +4,7 @@
 4. The learner will be able to utilize and evaluate the importance of good communications and decision-making through practicing listening and problem solving skills in the challenges that you face in the business world. 
 5. The learner will be able to facilitate the development of tools for assessing and developing Transformational Servant-Leadership abilities and appropriate styles of leadership in any organization through synthesizing concepts and integrating them into the selection of appropriate leadership principles and practices that are lived out within religious and secular context 
 
+I'd like to make each of these as measurable objectives. 
+
 
 
