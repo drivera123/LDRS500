@@ -12,7 +12,9 @@ Substantive participation in online forum discussions 25%
 
 Total 100%
 
-**Follow the Leader**
+## **Follow the Leader**
+
+Due: End Week 1
 
 Identify an opinion leader on social media whom you admire.
 
@@ -30,7 +32,9 @@ Stay within the time allotted – 5 minutes. \(1 point\)
 
 Substantive response to two other colleagues' Follow the Leader' assignments \(4 points\)
 
-**My leadership story**
+## **My leadership story**
+
+Due end of Week 8
 
 In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
 
@@ -88,17 +92,26 @@ Grammar and expression communicates clearly and without ambiguity or confusion. 
 
 Substantive response to two stories by colleagues in the class \(4 points\)
 
-**The Impact of Critical Thinking in my Leadership Context  Paper **
+## **The Impact of Critical Thinking in my Leadership Context  Paper **
+
+Due:
+
+* annotated bibliography & outline - week 3
+* rough draft - week 5
+* peer review - week 6
+* final draft - week 9 
+
+* [ ] ADD intro APA
 
 To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org  These should give you enough information. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
 
 * View: Critical Thinking at [https://youtu.be/6OLPL5p0fM](https://youtu.be/6OLPL5p0fM)
 
-* View: What is Critical Thinking at [https://youtu.be/9oAf3g5\\_138](https://youtu.be/9oAf3g5\_138)
+* View: What is Critical Thinking at [https://youtu.be/9oAf3g5\\_138](https://youtu.be/9oAf3g5_138)
 
-* View 'Example of Lateral Thinking when it matters' at [https://youtu.be/q3HjWA7bii4?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\\_DgovoS](https://youtu.be/q3HjWA7bii4?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\_DgovoS)
+* View 'Example of Lateral Thinking when it matters' at [https://youtu.be/q3HjWA7bii4?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\\_DgovoS](https://youtu.be/q3HjWA7bii4?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx_DgovoS)
 
-* View 'Edward de Bono discusses Lateral Thinking' at [https://youtu.be/Nb9Oe83ruUw?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\\_DgovoS](https://youtu.be/Nb9Oe83ruUw?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\_DgovoS)
+* View 'Edward de Bono discusses Lateral Thinking' at [https://youtu.be/Nb9Oe83ruUw?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx\\_DgovoS](https://youtu.be/Nb9Oe83ruUw?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx_DgovoS)
 
 * Beyond Common Sense: Critical Thinking Skills and Decision Making for Leaders at [https://youtu.be/QTWc-JLh3Fw](https://youtu.be/QTWc-JLh3Fw)
 
@@ -124,7 +137,12 @@ Includes a clear illustrative example for each point of significance. \(4 points
 
 Substantive response to two papers by colleagues in the class \(4 points\)
 
-**Integrated Learning Reflection Journal**
+## **Integrated Learning Reflection Journal**
+
+Due:
+
+* weekly \(not graded\)
+* week 10 \(graded\)
 
 _What are you learning? What strikes you or has an impact on you?  This is not a research paper but a critical reflection._
 
@@ -142,7 +160,22 @@ Displays grammar & editing that is substantially free of technical flaws. Paper 
 
 Substantive response to two journals by colleagues in the class. \(4 points\)
 
-**Leadership Lessons in a movie or story**
+## **Leadership Lessons in a movie or story \(group project\)**
+
+* infographic, website, multi-media
+
+* [ ] build scaffolded structure
+* [ ] add PMP process
+* [ ] defined roles
+
+Due Dates
+
+*  project proposal \(movie or anthology story\)
+  * name of the resource and why chosen \(full citation\)
+  * group member roles
+  * project timeline with due dates
+  * chosen media for presentation
+  * \(See Imbenzi's APA materials\)
 
 Groups will be assigned. Choose a movie OR a story from either the Norton Anthology or Light from Many Lamps.  Create a chart of other graphic display to demonstrate the importance of character, competencies, and commitment.  Take examples from the movie or story that show these three elements of good leadership.  As applicable, address factors such as leadership level, challenges, leadership development and organizational culture.
 
@@ -157,8 +190,4 @@ The importance of character as related by the movie or story is clearly demonstr
 The importance of competencies as related by the movie or story is clearly demonstrated \(4 points\)
 
 The importance of commitment as related by the movie or story is clearly demonstrated \(4 points\)
-
-
-
-
 
