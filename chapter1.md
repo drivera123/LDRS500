@@ -176,13 +176,11 @@ Identify an opinion leader on social media whom you admire. Create a podcast pre
 
 **Criteria and Evaluation**
 
-Discuss one or two significant ideas of the leader \(3 points\)
+Discuss one or two significant ideas of the leader \(4 points\)
 
 Discuss your thoughts and analysis regarding these concepts \(4 points\)
 
 Discuss the leader's values, ethics, and principles \(2 points\)
-
-Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\) 
 
 Stay within the time allotted – 5 minutes. \(1 point\)
 
