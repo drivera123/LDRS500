@@ -16,7 +16,7 @@ Read Northouse chapters 1 and 10 completely
 
 Skim-read Northouse chapters 2,3,4,5 and do associated surveys at the end of each chapter for your own info
 
-**Leadership Competencies**
+**Leadership Competencies  \(Adrienne - What is the context of listing these Leadership Competencies below?  Where do they come from? What is the Learning Activity?\) **
 
 **Leadership Competency**
 
@@ -82,7 +82,7 @@ Effectively organizing and planning work according to organizational needs by de
 
 Resolves difficult issues and challenges through careful and systematic evaluation of available evidence, information, possible alternatives and consequences. Considers many sources of information and evaluates the information against possible courses of action, and carefully deliberates before a final decision is made.
 
-**Characteristics of Servant Leadership**
+**Characteristics of Servant Leadership  \(Whose Characteristics are these? As a first time reader, I'm not sure what is going on with seeing a list of characteristics. What is the Learning Activity? \)**
 
 1.**Listening**
 
@@ -174,7 +174,7 @@ Read and respond to at least one other blog post for each of the above. Try to r
 
 **Due: End Week 1**
 
-Identify an opinion leader on social media whom you admire. Create a podcast presentation.
+Identify an opinion leader on social media whom you admire. Create a podcast presentation that meets the criteria set out/
 
 **Criteria and Evaluation**
 
@@ -184,7 +184,7 @@ Discuss your thoughts and analysis regarding these concepts \(4 points\)
 
 Discuss the leader's values, ethics, and principles \(2 points\)
 
-Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\)
+Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\)  **\(What "medium" is being referred to? This criteria seems difficult given people haven't done much in the course. It may be possible but seems outside the scope of the learning material to date\).**
 
 Stay within the time allotted – 5 minutes. \(1 point\)
 
