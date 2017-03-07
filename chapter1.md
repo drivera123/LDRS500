@@ -182,7 +182,7 @@ Discuss your thoughts and analysis regarding these concepts \(4 points\)
 
 Discuss the leader's values, ethics, and principles \(2 points\)
 
-Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\)  **\(What "medium" is being referred to? This criteria seems difficult given people haven't done much in the course. It may be possible but seems outside the scope of the learning material to date\).  **_**The medium is twitter, or whichever social media platform they chose to follow their leader on.**_
+Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\) 
 
 Stay within the time allotted – 5 minutes. \(1 point\)
 
