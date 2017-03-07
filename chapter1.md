@@ -16,9 +16,9 @@ Read Northouse chapters 1 and 10 completely
 
 Skim-read Northouse chapters 2,3,4,5 and do associated surveys at the end of each chapter for your own info
 
-**Leadership Competencies  \(Adrienne - What is the context of listing these Leadership Competencies below?  Where do they come from? What is the Learning Activity?\) **
+**Leadership Competencies  \(Adrienne - What is the context of listing these Leadership Competencies below?  Where do they come from? What is the Learning Activity?\) **_**Please see last paragraph of overview section for details. The competencies are part of the initial assessment and overall project that students work on throughout the program. The project itself is described in detail in LDRS 591 but they do the Birkman assessment to help them identify the competencies they will work on.**_
 
-**Leadership Competency**
+Leadership Competency
 
 **Visioning and Strategic Thinking**
 
@@ -170,9 +170,7 @@ Read and respond to at least one other blog post for each of the above. Try to r
 
 **Assessment**
 
-**Follow the Leader**
-
-**Due: End Week 1**
+**Follow the Leader Due: End Week 1**
 
 Identify an opinion leader on social media whom you admire. Create a podcast presentation that meets the criteria set out/
 
@@ -184,7 +182,7 @@ Discuss your thoughts and analysis regarding these concepts \(4 points\)
 
 Discuss the leader's values, ethics, and principles \(2 points\)
 
-Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\)  **\(What "medium" is being referred to? This criteria seems difficult given people haven't done much in the course. It may be possible but seems outside the scope of the learning material to date\).**
+Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\)  **\(What "medium" is being referred to? This criteria seems difficult given people haven't done much in the course. It may be possible but seems outside the scope of the learning material to date\).  **_**The medium is twitter, or whichever social media platform they chose to follow their leader on.**_
 
 Stay within the time allotted – 5 minutes. \(1 point\)
 
