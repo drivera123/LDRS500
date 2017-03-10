@@ -2,7 +2,7 @@
 
 ## Overview
 
-Introduce this topic to students in a couple of paragraphs. Tell the In week two our will focus will be on historical and current models of leadership theory and practice to build competency in adaptability and change. Examining the roles of essential leadership, framework of assessing leadership, the role of innate qualities and characteristics in how they are integrated appropriately in leadership practices.  
+Introduce this topic to students in a couple of paragraphs. Tell the In week two our will focus will be on historical and current models of leadership theory and practice to build competency in adaptability and change. Examining the roles of essential leadership, framework of assessing leadership, the role of innate qualities and characteristics in how they are integrated appropriately in leadership practices.
 
 **Some of the learning outcomes in this week will include:**
 
@@ -59,13 +59,13 @@ _**The essence of leadership**_
 
 The essence of leadership is the process of influencing people, within a group with the attention toward a common goal. \(Northouse p 5,6\) What is the difference between leadership theory and values? Theories are research definitions and with measurable methodologies. Values are the key components that everyone agrees are essential to effective leadership
 
-In their book Understanding research: A consumer’sGuide, Plano Clark and Creswell define theory as something that “explains andpredicts the probable relationship among different concepts \(variables\)” \(PlanoClark & Creswell, 2015, p. 490\). We could regard that is part of the learning process. If we poke this object with a stick in the side it should move that way. Theories are made by researchers and proven and disproven through experiments and reported to us in research studies. 
+In their book Understanding research: A consumer’sGuide, Plano Clark and Creswell define theory as something that “explains andpredicts the probable relationship among different concepts \(variables\)” \(PlanoClark & Creswell, 2015, p. 490\). We could regard that is part of the learning process. If we poke this object with a stick in the side it should move that way. Theories are made by researchers and proven and disproven through experiments and reported to us in research studies.
 
-The Oxford dictionary defines “\( values \) Principles or standards of behavior; one’s judgement of what is important in life” \(http://www.oxforddictionaries.com/definition/english/value?q=values\#value\_\_9\).This would be the learning outcome or the end result of a theory that is tested and true. 
+The Oxford dictionary defines “\( values \) Principles or standards of behavior; one’s judgement of what is important in life” \([http://www.oxforddictionaries.com/definition/english/value?q=values\#value\_\_9\).This](http://www.oxforddictionaries.com/definition/english/value?q=values#value__9%29.This) would be the learning outcome or the end result of a theory that is tested and true.
 
 _**What forms can leadership take?**_
 
-Northouse states that leadership takes many forms from liaise-faire to transformational \(p190\). The liaise-faire approach can be defined as hands off, distance or leadership through avoidance. Transactional is management by exception \(active or passive\), contingent reward etc. The final form which we will aspire to is transformational leadership. 
+Northouse states that leadership takes many forms from liaise-faire to transformational \(p190\). The liaise-faire approach can be defined as hands off, distance or leadership through avoidance. Transactional is management by exception \(active or passive\), contingent reward etc. The final form which we will aspire to is transformational leadership.
 
 As we read peer reviewed literature we can take these learned theories and put them into practice. When we put theory into practice it will transform our values. This would be the goal of Transformational Leadership. Giroux \(2014\) suggests, there may be some days where the servant leader could be accused of laissez-faire leadership.  When we know the rationale behind his/her decisions, however, we gain a better understanding of the why behind engagement of laissez-faire.  Author, Rakesh Wadhhwa \(n.d.\) blogs about the oxymoron in the term laissez-faire leadership and in fact, points out some of its benefits’ that could be seen to encompass some of the goals of transactional and servant leadership:
 
@@ -76,13 +76,15 @@ As we read peer reviewed literature we can take these learned theories and put t
 
 Reference
 
-Giroux, S \(2014\) Module 2- Daily discussion https://courses.mytwu.ca/mod/forum/discuss.php?d=143509
+Giroux, S \(2014\) Module 2- Daily discussion [https://courses.mytwu.ca/mod/forum/discuss.php?d=143509](https://courses.mytwu.ca/mod/forum/discuss.php?d=143509)
 
-Rakesh Wadhhwa. \(n.d.\).  Laissez-faire leadership: an oxymoron? \[Blog post\]. Retrieved from http://wadhwarakesh.com/laissez-faire-leadership-an-oxymoron/
+Rakesh Wadhhwa. \(n.d.\).  Laissez-faire leadership: an oxymoron? \[Blog post\]. Retrieved from [http://wadhwarakesh.com/laissez-faire-leadership-an-oxymoron/](http://wadhwarakesh.com/laissez-faire-leadership-an-oxymoron/)
 
 _**Values-Based Leadership and Transformational Servant Leadership?**_
 
-	Values-based or ethical leadership is defined as "the demonstration of normatively appropriate conduct through personal actions and interpersonal relationships, and the promotion of such conduct to followers through two-way communication, reinforcement and decision-making" \(Brown, Trevino, & Harrison, 2005, in Leadership Monograph 2014, 2014, p 11\).
+Values-based or ethical leadership is defined as "the demonstration of normatively appropriate conduct through personal actions and interpersonal relationships, and the promotion of such conduct to followers through two-way communication, reinforcement and decision-making"
+
+\(Brown, Trevino, & Harrison, 2005, in Leadership Monograph 2014, 2014, p 11\)
 
 Transformational servant leadership combines the transformational and servant leadership models, and is described by Spears \(2004, in Leadership Monograph 2014, 2014, p 15-17\) as inclusive of 10 characteristics: listening, empathy, healing, awareness, persuasion, conceptualization, foresight, stewardship, commitment to the growth of people, and building community.
 
@@ -90,26 +92,11 @@ Jesus embodies each of these characteristics, in ways too numerous to write in o
 
 Reference
 
-Pooley, A \(2014\) Module 2- Daily discussion. Retrieved from https://courses.mytwu.ca/mod/forum/discuss.php?d=143505
-
-
-
-* Read
-* Watch 
-* Post / Discuss
-* Perhaps others
-
-Learning Activity \#1 - Read Northouse chapters 2, 3, 4, 5 and complete the surveys for each chapter for your own information.
-
-Tell students why you chose to include this material in the course and given them something to do Eg. While reading/watching think about these questions:
-
-Repeat for other Learning Activities
+Pooley, A \(2014\) Module 2- Daily discussion. Retrieved from [https://courses.mytwu.ca/mod/forum/discuss.php?d=143505](https://courses.mytwu.ca/mod/forum/discuss.php?d=143505)
 
 ## Assessment
 
-Once you have completed the three assessments skills, please prepare a 150 word synthesis commenting on the overall results of these surveys. Do they align with your self-conception or not? Did you have any revelations or new information to consider? Did anything challenge you with respect to the results? Post to forum. 
+Once you have completed the three assessments skills, please prepare a 150 word synthesis commenting on the overall results of these surveys. Do they align with your self-conception or not? Did you have any revelations or new information to consider? Did anything challenge you with respect to the results? Post to forum.
 
-The skills model describes important competencies for leaders: problem-solving skills, social judgment skills, and knowledge. If you were to coach Dr. Wood using this model, what competencies would you address with him? What changes would you suggest that he make in his leadership Prepare and post a 500 word synthesis on your recommendation. 
-
-
+The skills model describes important competencies for leaders: problem-solving skills, social judgment skills, and knowledge. If you were to coach Dr. Wood using this model, what competencies would you address with him? What changes would you suggest that he make in his leadership Prepare and post a 500 word synthesis on your recommendation.
 
