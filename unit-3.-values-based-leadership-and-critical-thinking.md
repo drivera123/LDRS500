@@ -1,4 +1,4 @@
-# Unit 3
+# Unit 3  Values Based Leadership and Critical Thinking
 
 ## Overview
 
@@ -17,7 +17,7 @@ Learning Activities are the ungraded things that students do to. They include:
 * Post / Discuss
 * Perhaps others
 
-Learning Activity \#1 - Read posted article by Daniel Jenkins 'Global Critical Leadership' 
+Learning Activity \#1 - Read posted article by Daniel Jenkins 'Global Critical Leadership'
 
 Tell students why you chose to include this material in the course and given them something to do Eg. While reading/watching think about these questions:
 
