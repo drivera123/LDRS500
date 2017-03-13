@@ -16,7 +16,7 @@ Read Northouse chapters 1 and 10 completely
 
 Skim-read Northouse chapters 2,3,4,5 and do associated surveys at the end of each chapter for your own info
 
-**Leadership Competencies  \(Adrienne - What is the context of listing these Leadership Competencies below?  Where do they come from? What is the Learning Activity?\) **_**Please see last paragraph of overview section for details. The competencies are part of the initial assessment and overall project that students work on throughout the program. The project itself is described in detail in LDRS 591 but they do the Birkman assessment to help them identify the competencies they will work on.**_
+**Leadership Competencies  \[Comment re: Leardership competencies moved to 'Discussions' - cm\]**
 
 ## Leadership Competency
 
