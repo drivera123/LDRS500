@@ -1,6 +1,6 @@
-**Unit 1 Defining Leadership and the Essentials of Transformation**
+# **Unit 1 Defining Leadership and the Essentials of Transformation**
 
-**Overview**
+## **Overview**
 
 In this first unit a ‘big picture’ view of leadership is introduced. There is a focus on Transformational Servant Leadership and the personal competencies we need to hone to improve leadership.
 
@@ -10,7 +10,7 @@ As a program we draw on the leadership example of Jesus as the supreme example o
 
 Your Birkman assessment and consultation with Dr. Wu helped you identify three competencies to work on during the program. I suggest that you choose one of your strengths and two other opportunities for growth. As an applied program, we will constantly encourage you to relate concepts to practice. This focus on ‘praxis’ will help you to leverage your learning throughout the program and effect your personal transformation as well as the impact you want to make. You could be thinking about what you wish you could change given the chance or where you hope to be in five years. Let’s get started!
 
-**Resources**
+## **Resources**
 
 Read Northouse chapters 1 and 10 completely
 
@@ -18,9 +18,9 @@ Skim-read Northouse chapters 2,3,4,5 and do associated surveys at the end of eac
 
 **Leadership Competencies  \(Adrienne - What is the context of listing these Leadership Competencies below?  Where do they come from? What is the Learning Activity?\) **_**Please see last paragraph of overview section for details. The competencies are part of the initial assessment and overall project that students work on throughout the program. The project itself is described in detail in LDRS 591 but they do the Birkman assessment to help them identify the competencies they will work on.**_
 
-Leadership Competency
+## Leadership Competency
 
-**Visioning and Strategic Thinking**
+### **Visioning and Strategic Thinking**
 
 The ability to provide strategic leadership and direction and communicate the vision to encourage alignment within the organization. Has the skill and mindset to address issues for sustaining competitive edge and provide the relevant organizational response. The issues cover a wide spectrum of areas including people, technology, products, market opportunities, competitive threats and customers. Understands rapidly evolving environmental trends at national and global levels
 
@@ -154,7 +154,7 @@ Using the following rating system of response numbers1through4,circle the number
 | Commitment to the growth of people | 1 | 2 | 3 | 4 |
 | Building community | 1 | 2 | 3 | 4 |
 
-**Learning Activities**
+## **Learning Activities**
 
 Read chapters 1 and 10 in your Northouse text.
 
@@ -168,13 +168,13 @@ After reading about the principles of Servant Leadership and completing the pers
 
 Read and respond to at least one other blog post for each of the above. Try to read several of your colleagues’ posts to gain a variety of perspectives and to get to know one another in this learning community.
 
-**Assessment**
+## **Assessment**
 
-**Follow the Leader Due: End Week 1**
+### **Follow the Leader Due: End Week 1**
 
 Identify an opinion leader on social media whom you admire. Create a podcast presentation that meets the criteria set out/
 
-**Criteria and Evaluation**
+#### **Criteria and Evaluation**
 
 Discuss one or two significant ideas of the leader \(4 points\)
 
