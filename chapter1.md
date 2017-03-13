@@ -66,7 +66,7 @@ Resolves difficult issues and challenges through careful and systematic evaluati
 
 ## **Characteristics of Servant Leadership  **
 
-**\(Whose Characteristics are these? As a first time reader, I'm not sure what is going on with seeing a list of characteristics. What is the Learning Activity? \)**
+\[Comment re: characteristics of servant leadership moved to discussions.-cm\]
 
 ### **Listening**
 
@@ -108,7 +108,7 @@ This country with its institutions belong to the people who inhabit it. How we u
 
 ### **Commitment to the growth of people**
 
-The servant leader will do everything possible to nurture the personal spiritual and professional growth of co-workers. In practice this means such things as providing resources and opportunities, continuing education and training, taking a personal interest in the ideas provided by the team. encouraging co-worker involvement in decision making and actively supporting laid off workers to find work. Vince Lombardi once said. 
+The servant leader will do everything possible to nurture the personal spiritual and professional growth of co-workers. In practice this means such things as providing resources and opportunities, continuing education and training, taking a personal interest in the ideas provided by the team. encouraging co-worker involvement in decision making and actively supporting laid off workers to find work. Vince Lombardi once said.
 
 > Leadership is not so much leading as having the people lead accept it.
 
