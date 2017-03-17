@@ -1,5 +1,3 @@
-# Unit 2 – Themes, Theories and Concepts
-
 ## Overview
 
 Introduce this topic to students in a couple of paragraphs. Tell the In week two our will focus will be on historical and current models of leadership theory and practice to build competency in adaptability and change. Examining the roles of essential leadership, framework of assessing leadership, the role of innate qualities and characteristics in how they are integrated appropriately in leadership practices.
@@ -93,6 +91,15 @@ Jesus embodies each of these characteristics, in ways too numerous to write in o
 Reference
 
 Pooley, A \(2014\) Module 2- Daily discussion. Retrieved from [https://courses.mytwu.ca/mod/forum/discuss.php?d=143505](https://courses.mytwu.ca/mod/forum/discuss.php?d=143505)
+
+|  |  |
+| :--- | :--- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## Assessment
 
