@@ -1,3 +1,5 @@
+# Course Assessments
+
 Follow the Leader: individual video or podcast presentation  15%
 
 My leadership story: individual video or podcast presentation 15%
@@ -12,7 +14,7 @@ Substantive participation in online forum discussions 25%
 
 Total 100%
 
-## **Follow the Leader**
+### **Follow the Leader**
 
 Due: End Week 1
 
@@ -159,8 +161,6 @@ Reasonable depth given the limitations of time/demonstrated thoughtfulness \(1 p
 Grammar and expression communicates clearly and without ambiguity or confusion. \(1 point\)
 
 Substantive response to two stories by colleagues in the class \(4 points\)
-
-
 
 To help you understand the purpose and value of this assignment consider the following article and comment:
 
