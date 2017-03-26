@@ -64,7 +64,7 @@ For this session, you will read the following two chapters from Northouse and po
 
 ## **Assessment**
 
-In this Unit session, there are four Journal articles included in your reading. Please review all articles and **respond to two of the journals on questions provided under them**. Each journal response to should be a maximum of 400 words each.
+In this Unit 4 session, there are Journal articles included in your reading. Please review all articles and **respond to two of the journals on questions provided under them**. Each journal response to should be a maximum of 400 words each.
 
 [Article 1: Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). Transformational and servant leadership: Content and contextual comparisons. Journal of Leadership and Organizational Studies 10\(4\), 80-92.](http://jlo.sagepub.com/cgi/reprint/10/4/80?ijkey=tyfQCRXQaZsnA&keytype=ref&siteid=spjlo)
 
