@@ -34,6 +34,12 @@ Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Tho
 
 ## **Learning Activities**
 
+##### **Specific Learning Outcomes**
+
+1. Understanding the extent to which the leader is able to shift the primary focus of his or her leadership from the organization to the follower is the distinguishing factor in determining whether the leader may be a transformational or servant leader. Examine conceptual similarities of transformational and servant leadership theories and analyze the contribution both theories make to the understanding of leadership.
+2. To increase critical thinking skills and tools for assessing, selecting, and developing approaches to leadership to build competency in higher-ordered analysis. Examine and synthesize the course content to apply learning to case examples as well as your personal and professional leadership to build competency in innovation, adaptability and change.
+3. Understand and reflect upon and integrate leadership thinking related to values-based leadership and transformational servant leadership in your current leadership context to build competency in team leadership, people development, relationships and collaboration.
+
 Transformational leaders inspire and motivate followers to reach their fullest potential for the good of the organization \(Northouse, 2016\). Whereas servant leaders put followers first, empower them, and help them develop their full personal capacities” \(Northouse, 2016, p.225\). One would argue that to best serve individuals in a dynamic external environment, a leader must have a leadership style that deeply cares for employees’ needs and the organizational objectives. The co-mingling of both approaches is the best approach in that leaders must serve both interests” Transformational servant leadership would be an ideal style when faced with a dynamic external environment and endeavoring to empower, encourage innovation and risk-taking amongst the team members.
 
 According to Quinn and Spreitzer \(1997\), empowered followers are more effective, more innovative, and are transformational in the work they do. When employees are empowered, they perform better and to their full potential to overcome obstacles. In traditional leadership, upper management issue instructions to their employees who are responsible to complete tasks according to guidelines. Comparably, transformational servant leaders empower and motivate their followers to think and act, which develops self-confidence.
