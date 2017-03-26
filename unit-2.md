@@ -90,6 +90,10 @@ Reference
 
 Pooley, A \(2014\) Module 2- Daily discussion. Retrieved from [https://courses.mytwu.ca/mod/forum/discuss.php?d=143505](https://courses.mytwu.ca/mod/forum/discuss.php?d=143505)
 
+#### BASIC LEADERSHIP STYLES
+
+###### \(Based upon Blanchard & Hersey Model\)
+
 | DIRECTIVE BEHAVIOR | SUPPORTIVE BEHAVIOR |
 | :--- | :--- |
 | The extent to which the leader: | The extent to which the leader |
@@ -98,6 +102,10 @@ Pooley, A \(2014\) Module 2- Daily discussion. Retrieved from [https://courses.m
 | 3. Tells the follower what, where, when, and how to do something | 3. Facilitates interaction |
 | 4. Closely supervises performance | 4. Involves the follower in decision making |
 | 5. Key words are structure control and supervise | 5. Key words are listen, praise and facilitate. |
+
+#### WHEN TO USE EACH STYLE
+
+![](/assets/WHEN TO USE EACH STYLE-1.pdf)
 
 ## Assessment
 
