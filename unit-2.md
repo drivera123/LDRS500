@@ -1,6 +1,6 @@
 ## Overview
 
-Introduce this topic to students in a couple of paragraphs. Tell the In week two our will focus will be on historical and current models of leadership theory and practice to build competency in adaptability and change. Examining the roles of essential leadership, framework of assessing leadership, the role of innate qualities and characteristics in how they are integrated appropriately in leadership practices.
+In week two our focus will be on historical and current models of leadership theory and practice to build competency in adaptability and change. Examining the roles of essential leadership, framework of assessing leadership, the role of innate qualities and characteristics in how they are integrated appropriately in leadership practices..
 
 **Some of the learning outcomes in this week will include:**
 
@@ -24,8 +24,6 @@ Introduce this topic to students in a couple of paragraphs. Tell the In week two
 3. Van Dierendonck, D., Stam, D., Boersma, P., de Windt, N., & Alkema, J. \(2014\). _**Same difference? Exploring the differential mechanisms linking servant leadership and transformational leadership to follower outcomes.**_ Leadership Quarterly, 25\(3\), 544-562
 
 ## Learning Activities
-
-Learning Activities are the ungraded things that students do to. They include:
 
 Read  the three listed journal articles above and also read Northouse chapters 2, 3, 4, 5 and complete the surveys for each chapter. Please find a copy of the survey assessments below in this section.
 
@@ -92,14 +90,14 @@ Reference
 
 Pooley, A \(2014\) Module 2- Daily discussion. Retrieved from [https://courses.mytwu.ca/mod/forum/discuss.php?d=143505](https://courses.mytwu.ca/mod/forum/discuss.php?d=143505)
 
-|  |  |
+| DIRECTIVE BEHAVIOR | SUPPORTIVE BEHAVIOR |
 | :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| The extent to which the leader: | The extent to which the leader |
+| 1. Engages in one-way communication | 1. Engages in two way communication |
+| 2. Spells out the follower's role | 2. Listens and provides support and encouragement |
+| 3. Tells the follower what, where, when, and how to do something | 3. Facilitates interaction |
+| 4. Closely supervises performance | 4. Involves the follower in decision making |
+| 5. Key words are structure control and supervise | 5. Key words are listen, praise and facilitate. |
 
 ## Assessment
 
