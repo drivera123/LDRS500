@@ -15,6 +15,8 @@
 * [Unit 10. Conclusions](unit-10.-conclusions.md)
 * [Learner Profile](learner-profile.md)
 * Resources
-* [Leadership Competencies](leadership-competencies.md)
-* [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
+  * [Leadership Competencies](leadership-competencies.md)
+  * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
+
+
 
