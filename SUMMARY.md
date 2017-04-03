@@ -16,4 +16,5 @@
 * [Learner Profile](learner-profile.md)
 * Resources
 * [Leadership Competencies](leadership-competencies.md)
+* [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
 
