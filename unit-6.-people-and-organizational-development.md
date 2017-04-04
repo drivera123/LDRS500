@@ -2,7 +2,7 @@ Unit 6 People and Organizational Development
 
 Overview
 
- Supporting personal development means acknowledging that individuals are valuable. People development is one of the competencies transformational servant leaders nurture as they help people develop and perform as highly as possible. Based on the commitment to and the responsibility for the development of others, transformational servant leaders consistently promote the ongoing learning of members in their communities. Furthermore, in order to effectively support the developmental needs of members, transformational servant leaders consider appropriate strategies. People development should be approached through systematic, collaborative, and job-embedded processes based on people-centered principles. Such an approach will help promote a positive culture and create positive change in organizations. Supporting people development is the core strategy in producing right results at both personal and organizational levels.
+Supporting personal development means acknowledging that individuals are valuable. People development is one of the competencies transformational servant leaders nurture as they help people develop and perform as highly as possible. Based on the commitment to and the responsibility for the development of others, transformational servant leaders consistently promote the ongoing learning of members in their communities. Furthermore, in order to effectively support the developmental needs of members, transformational servant leaders consider appropriate strategies. People development should be approached through systematic, collaborative, and job-embedded processes based on people-centered principles. Such an approach will help promote a positive culture and create positive change in organizations. Supporting people development is the core strategy in producing right results at both personal and organizational levels.
 
 Andragogy is the art and science of helping adults learn.Creating a good learning experience for adults is what andragogy is all about. The resource of highest value in adult education is the learner’s experience. Malcolm Knowles, the foundational thinker of andragogy outlines six assumptions about andragogy:
 
@@ -36,9 +36,7 @@ Sokal and Sharma \(2014\), through their review of literature around effective p
 
 To be a transformational servant leader is to develop people and recognize that one person will never possess all the information necessary to make the best decisions, nor have all the skills necessary to run an organization by him/herself. The wisdom is often ‘in the room’ – even among the participants. We must willingly seek input and collaboration with stakeholders. This strengthens both the quality of our decisions and the buy-in of those who will carry out those decisions. Acknowledging our personal limitations as leaders is probably the single most important step toward creating a safe, enjoyable, effective and democratic environment.Transformative learning is not an individual process but rather a personal process that is carried out in ‘integrally webbed totalities’ \(O’Sullivan, 2003 in Merriam S. & Grace A.P., p.328\). Our personal growth and transformation impacts others. As a result of this course or program, you may change the way you make decisions which in turn, affects all of the people in this web differently than they may have otherwise been impacted.
 
-
-
-References
+References  \*These are not assigned readings but references to the notes above.
 
 Dewey, J. \(1944\). Democracy and Education. New York: The Free Press.
 
@@ -54,23 +52,19 @@ Merriam, S.B., & Grace, A.P. \(2011\). Contemporary Issues in Adult Education. S
 
 Sokal, L., & Sharma, U. \(2014\). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. Exceptionality Education International, 23\(1\), 59-71.
 
-
-
-
-
 Resources
 
 Rockwell, D. \(2017, March 17\) The Anatomy of Performance Enhancing Coaching Conversations.Retrieved from:
 
 [https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/)
 
+**Assigned reading in addition to notes above:**
+
+Northouse pp. 128-129 _Case Study  Direction for some, support for others_
 
 
-Northouse chapters  \*There isn't a designated chapter so I'll need to search a bit deeper for relevant content in the text - I will add this before Friday
 
-
-
-Learning Activities
+**Learning Activities**
 
 Application:How you as a leader can have a conversation about goals and professional development
 
@@ -83,13 +77,7 @@ Role play with a colleague through google handouts, Skype or a chat. Try to set 
    Describe your idealized future as if it were already happening.
 * How can you get there? What are your ideas for realizing this preferred future?
 
-
-
-Assessment
+**Assessment**
 
 This is where a description and instructions for any graded work would go.
-
-
-
- 
 
