@@ -1,18 +1,17 @@
 # Course Assessments
 
-Follow the Leader: individual video or podcast presentation  15%
+| Assignment | Value |
+| :--- | :--- |
+| Follow the Leader: Individual video or podcast | 15% |
+| My Leadership Story | 15% |
+| Integrated Learning Reflection Journal | 15% |
+| Leadership Lessons in a movie or story: Group Assignment | 15% |
+| Impact of Critical Thinking in my Leadership Context paper | 15% |
+| Regular and Substantive blog posts and responses | 25% |
 
-My leadership story: individual video or podcast presentation 15%
 
-Integrated Learning Reflection Journal  15%
 
-Leadership Lessons in a movie or a story: group assignment based on movie of choice or a selected story from one of the anthologies 15%
-
-The Impact of Critical Thinking in my Leadership Context paper 15%
-
-Substantive participation in online forum discussions 25%
-
-Total 100%
+Assignment Instructions
 
 ### **Follow the Leader**
 
@@ -174,16 +173,11 @@ Deepa. \(2017\). What does name “Deepa” mean? InSeven Reflectionsonline. Ret
 
 Einstein, A. \(n.d.\). Albert Einstein quotes. InBrainyQuoteonline. Retrieved from [https://www.brainyquote.com/quotes/quotes/a/alberteins390808.html](https://www.brainyquote.com/quotes/quotes/a/alberteins390808.html)
 
-  
 Another poignant reason to share your story as part of your leadership practice is provided here:
 
 “You tell me your story. I listen to you. I come to know your name and your suffering. It is at this point that a communion of hearts occurs, when I become vulnerable to you. There is no more superior and inferior. We are bound together in a covenant. My heart is transformed. This is a moment of wonder” \(p. 262\).  _Spink, K. \(2006\). The miracle, the message, the story: Jean Vanier and L'Arche. London: HiddenSpring_
 
- This is how we build understanding, eliminate false dichotomies, and connect to the humanity of those we view as different from us. In recent months, Manitoba has made international headlines for the number of refugees crossing the border in to Canada. Judgement abounds over the validity of these refugee claims. There was a man from the border town who adamantly opposed the idea of allowing asylum seekers to enter Canada in this way, until he opened his front door to head to work one morning and saw a family of five shivering, hungry and disoriented asking for assistance. He invited them in, listened to their story, and his heart was transformed. When we listen to another’s story, learn their name and their suffering our hearts are transformed. This is the vision for communion and community that as transformational servant leaders we seek to establish. 
-
-
-
-
+This is how we build understanding, eliminate false dichotomies, and connect to the humanity of those we view as different from us. In recent months, Manitoba has made international headlines for the number of refugees crossing the border in to Canada. Judgement abounds over the validity of these refugee claims. There was a man from the border town who adamantly opposed the idea of allowing asylum seekers to enter Canada in this way, until he opened his front door to head to work one morning and saw a family of five shivering, hungry and disoriented asking for assistance. He invited them in, listened to their story, and his heart was transformed. When we listen to another’s story, learn their name and their suffering our hearts are transformed. This is the vision for communion and community that as transformational servant leaders we seek to establish.
 
 ## **Leadership Lessons in a movie or story \(group project\)**
 
