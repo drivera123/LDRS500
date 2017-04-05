@@ -19,15 +19,14 @@ Identify an opinion leader \(could be from your field or not\) whom you admire a
 
 Create a post on your own blog and answer the following questions about the leader you chose. Don't forget to link to the person's social media account.
 
-This is an oral presentation without powerpoint or other technology.
+* Identify the leader, the medium on which you followed them, and an outline of their ideas and their impact. \(3 points\)
+* What advice would you give the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal? \(1 point\)
+* What are one or two significant ideas that your chosen leader espouses and what do you think about about these concepts in relation to your work as a leader?\(3 points\)
+* How do the leader's values, ethics, or principles align with your own regarding leadership? \(2 points\)
 
-Evaluation
+Before you publish your post, make sure you add it to the category 'LDRS500' and tag it with 'Follow the Leader'.
 
-* What advice would you give the leader on how to better motivate followers or use the capabilities of the medium \(e.g.Twitter-brevity, Facebook–networking, visuals\) to influence people toward a common goal? \(1 point\)
-* Discuss one or two significant ideas and your ideas about these concepts rather than summarizing all content\(3 points\)
-* Demonstrate an intentional effort to address values, ethics, and principles. \(2 points\)
-* Create a one-page point-form outline and bring handouts for class members. Identifying the leader, the medium you followed them and an outline of their ideas and their impact. \(3 points\)
-* Stays within the time allotted–10 minutes. \(1 point\)
+
 
 ## **The Impact of Critical Thinking in my Leadership Context  Paper **
 
