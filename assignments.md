@@ -17,7 +17,7 @@ Due: End Week 1
 
 Identify an opinion leader \(could be from your field or not\) whom you admire and follow that person on social media two weeks prior to the class. \(Twitter, Facebook, blog, etc.\).
 
-The second day of class you will present \(10 min max\) to the class what your leader is thinking and how influential you think s/he is.
+Create a post on your own blog and answer the following questions about the leader you chose. Don't forget to link to the person's social media account.
 
 This is an oral presentation without powerpoint or other technology.
 
