@@ -54,15 +54,17 @@ Sokal, L., & Sharma, U. \(2014\). Canadian in-service teachers' concerns, effica
 
 Resources
 
+**Assigned reading in addition to notes above:**
+
+Northouse pp. 128-129 Case Study_  Direction for some, support for others_
+
+                   pp. 183-185 Case Study _An exploration in leadership_
+
+Northouse chapter 3 _Skills Approach_
+
 Rockwell, D. \(2017, March 17\) The Anatomy of Performance Enhancing Coaching Conversations.Retrieved from:
 
 [https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/)
-
-**Assigned reading in addition to notes above:**
-
-Northouse pp. 128-129 _Case Study  Direction for some, support for others_
-
-
 
 **Learning Activities**
 
