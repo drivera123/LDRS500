@@ -1,5 +1,4 @@
-#
-Course Assessments
+#Course Assessments
 
 | Assignment | Value |
 | :--- | :--- |
@@ -29,6 +28,7 @@ Evaluation
 * Demonstrate an intentional effort to address values, ethics, and principles. \(2 points\)
 * Create a one-page point-form outline and bring handouts for class members. Identifying the leader, the medium you followed them and an outline of their ideas and their impact. \(3 points\)
 * Stays within the time allotted–10 minutes. \(1 point\)
+
 ## **The Impact of Critical Thinking in my Leadership Context  Paper **
 
 Due:
