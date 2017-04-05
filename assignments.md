@@ -15,23 +15,20 @@
 
 Due: End Week 1
 
-Identify and follow an opinion leader on social media whom you admire.
+Identify an opinion leader \(could be from your field or not\) whom you admire and follow that person on social media two weeks prior to the class. \(Twitter, Facebook, blog, etc.\).
 
-Criteria and Evaluation
+The second day of class you will present \(10 min max\) to the class what your leader is thinking and how influential you think s/he is.
 
-Discuss one or two significant ideas of the leader \(3 points\)
+This is an oral presentation without powerpoint or other technology.
 
-Discuss your thoughts and analysis regarding these concepts \(4 points\)
+Evaluation
 
-Discuss the leader's values, ethics, and principles \(2 points\)
-
-Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\)
-
-Stay within the time allotted – 5 minutes. \(1 point\)
-
-Substantive response to two other colleagues' Follow the Leader' assignments \(4 points\)
-
-## **The Impact of Critical Thinking in my Leadership Context  Paper **
+* What advice would you give the leader on how to better motivate followers or use the capabilities of the medium \(e.g.Twitter-brevity, Facebook–networking, visuals\) to influence people toward a common goal? \(1 point\)
+* Discuss one or two significant ideas and your ideas about these concepts rather than summarizing all content\(3 points\)
+* Demonstrate an intentional effort to address values, ethics, and principles. \(2 points\)
+* Create a one-page point-form outline and bring handouts for class members. Identifying the leader, the medium you followed them and an outline of their ideas and their impact. \(3 points\)
+* Stays within the time allotted–10 minutes. \(1 point\)
+* ## **The Impact of Critical Thinking in my Leadership Context  Paper **
 
 Due:
 
