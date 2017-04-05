@@ -1,39 +1,34 @@
-# Course Assessments
+#
+Course Assessments
 
-Follow the Leader: individual video or podcast presentation  15%
+| Assignment | Value |
+| :--- | :--- |
+| Follow the Leader: Individual video or podcast | 15% |
+| My Leadership Story | 15% |
+| Integrated Learning Reflection Journal | 15% |
+| Leadership Lessons in a movie or story: Group Assignment | 15% |
+| Impact of Critical Thinking in my Leadership Context paper | 15% |
+| Regular and Substantive blog posts and responses | 25% |
 
-My leadership story: individual video or podcast presentation 15%
+## Assignment Instructions
 
-Integrated Learning Reflection Journal  15%
-
-Leadership Lessons in a movie or a story: group assignment based on movie of choice or a selected story from one of the anthologies 15%
-
-The Impact of Critical Thinking in my Leadership Context paper 15%
-
-Substantive participation in online forum discussions 25%
-
-Total 100%
-
-### **Follow the Leader**
+#### **Follow the Leader**
 
 Due: End Week 1
 
-Identify an opinion leader on social media whom you admire.
+Identify an opinion leader \(could be from your field or not\) whom you admire and follow that person on social media two weeks prior to the class. \(Twitter, Facebook, blog, etc.\).
 
-Criteria and Evaluation
+The second day of class you will present \(10 min max\) to the class what your leader is thinking and how influential you think s/he is.
 
-Discuss one or two significant ideas of the leader \(3 points\)
+This is an oral presentation without powerpoint or other technology.
 
-Discuss your thoughts and analysis regarding these concepts \(4 points\)
+Evaluation
 
-Discuss the leader's values, ethics, and principles \(2 points\)
-
-Give suggestions to the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal \(1 point\)
-
-Stay within the time allotted – 5 minutes. \(1 point\)
-
-Substantive response to two other colleagues' Follow the Leader' assignments \(4 points\)
-
+* What advice would you give the leader on how to better motivate followers or use the capabilities of the medium \(e.g.Twitter-brevity, Facebook–networking, visuals\) to influence people toward a common goal? \(1 point\)
+* Discuss one or two significant ideas and your ideas about these concepts rather than summarizing all content\(3 points\)
+* Demonstrate an intentional effort to address values, ethics, and principles. \(2 points\)
+* Create a one-page point-form outline and bring handouts for class members. Identifying the leader, the medium you followed them and an outline of their ideas and their impact. \(3 points\)
+* Stays within the time allotted–10 minutes. \(1 point\)
 ## **The Impact of Critical Thinking in my Leadership Context  Paper **
 
 Due:
