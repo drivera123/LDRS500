@@ -11,7 +11,7 @@
 
 ## Assignment Instructions
 
-#### **Follow the Leader**
+#### Follow the Leader
 
 Due: End Week 1
 
