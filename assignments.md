@@ -9,15 +9,13 @@
 | Impact of Critical Thinking in my Leadership Context paper | 15% |
 | Regular and Substantive blog posts and responses | 25% |
 
+## Assignment Instructions
 
-
-Assignment Instructions
-
-### **Follow the Leader**
+#### **Follow the Leader**
 
 Due: End Week 1
 
-Identify an opinion leader on social media whom you admire.
+Identify and follow an opinion leader on social media whom you admire.
 
 Criteria and Evaluation
 
