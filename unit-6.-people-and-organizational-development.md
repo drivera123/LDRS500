@@ -56,11 +56,17 @@ Resources
 
 **Assigned reading in addition to notes above:**
 
+Kandampully, J., Bilgihan, A., Tingting, C. \(2016\).Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier. Retrieved from:
+
+[https://www.researchgate.net/profile/Tingting\_Zhang41/publication/307630061\_Developing\_a\_people-technology\_hybrids\_model\_to\_unleash\_innovation\_and\_creativity\_The\_new\_hospitality\_frontier/links/57d0e01d08ae5f03b489161c.pdf](https://www.researchgate.net/profile/Tingting_Zhang41/publication/307630061_Developing_a_people-technology_hybrids_model_to_unleash_innovation_and_creativity_The_new_hospitality_frontier/links/57d0e01d08ae5f03b489161c.pdf)
+
 Northouse pp. 128-129 Case Study_  Direction for some, support for others_
 
-                   pp. 183-185 Case Study _An exploration in leadership_
+```
+               pp. 183-185 Case Study _An exploration in leadership_
+```
 
-Northouse chapter 3 _Skills Approach_
+                              chapter 3 _Skills Approach_
 
 Rockwell, D. \(2017, March 17\) The Anatomy of Performance Enhancing Coaching Conversations.Retrieved from:
 
