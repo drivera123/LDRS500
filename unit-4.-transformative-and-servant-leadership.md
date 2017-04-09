@@ -24,13 +24,21 @@ Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Tho
 
 **Journal Articles**
 
-[Article 1: Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). Transformational and servant leadership: Content and contextual comparisons. Journal of Leadership and Organizational Studies 10\(4\), 80-92.](http://jlo.sagepub.com/cgi/reprint/10/4/80?ijkey=tyfQCRXQaZsnA&keytype=ref&siteid=spjlo)
+[Article 1: ](http://jlo.sagepub.com/cgi/reprint/10/4/80?ijkey=tyfQCRXQaZsnA&keytype=ref&siteid=spjlo)
 
-[Article 2: Mulla, Z.R. and Krishnan, V.R. \(2011\). Transformational leadership: Do the leader’s morals matter and do the follower’s morals change? Journal of Human Values 17\(2\), 129-143.](http://jhv.sagepub.com/cgi/reprint/17/2/129?ijkey=taiH4KnbSatHs&keytype=ref&siteid=spjhv)
+Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). Transformational and servant leadership: Content and contextual comparisons. Journal of Leadership and Organizational Studies 10\(4\), 80-92. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/107179190401000406](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/107179190401000406)
 
-[Article 3: Van Dierendonck, D. \(2011\). Servant leadership: A review and synthesis. Journal of Management 37\(4\), 1228-1261.](http://jom.sagepub.com/cgi/reprint/37/4/1228?ijkey=7ZHNHznKelZJg&keytype=ref&siteid=spjom)
+[Article 2: ](http://jhv.sagepub.com/cgi/reprint/17/2/129?ijkey=taiH4KnbSatHs&keytype=ref&siteid=spjhv)
 
-[Article 4: Searle, T.P. and Barbuto, J.E. \(2011\). Journal of Leadership & Organizational Studies 18\(1\), 107-117.](http://jlo.sagepub.com/cgi/reprint/18/1/107?ijkey=Ai1R0nws9LiZQ&keytype=ref&siteid=spjlo)
+Mulla, Z.R. and Krishnan, V.R. \(2011\). Transformational leadership: Do the leader’s morals matter and do the follower’s morals change? Journal of Human Values 17\(2\), 129-143. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203)
+
+[Article 3: ](http://jom.sagepub.com/cgi/reprint/37/4/1228?ijkey=7ZHNHznKelZJg&keytype=ref&siteid=spjom)
+
+Van Dierendonck, D. \(2011\). Servant leadership: A review and synthesis. Journal of Management 37\(4\), 1228-1261. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462)
+
+[Article 4: ](http://jlo.sagepub.com/cgi/reprint/18/1/107?ijkey=Ai1R0nws9LiZQ&keytype=ref&siteid=spjlo)
+
+Searle, T.P. and Barbuto, J.E. \(2011\). Servant Leadership, Hope, and Organizational Virtuousness: A Framework Exploring Positive Micro and Macro Behaviors and Performance Impact. Journal of Leadership & Organizational Studies 18\(1\), 107-117. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/pdf/10.1177/1548051810383863](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/pdf/10.1177/1548051810383863)
 
 ## **Learning Activities**
 
@@ -67,7 +75,9 @@ For this session, you will read the following two chapters from Northouse and po
 
 In this Unit 4 session, there are Journal articles included in your reading. Please review all articles and **respond to two of the journals on questions provided under them**. Each journal response to should be a maximum of 400 words each.
 
-[Article 1: Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). **Transformational and servant leadership: Content and contextual comparisons.** Journal of Leadership and Organizational Studies 10\(4\), 80-92.](http://jlo.sagepub.com/cgi/reprint/10/4/80?ijkey=tyfQCRXQaZsnA&keytype=ref&siteid=spjlo)
+[Article 1: ](http://jlo.sagepub.com/cgi/reprint/10/4/80?ijkey=tyfQCRXQaZsnA&keytype=ref&siteid=spjlo)
+
+Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). Transformational and servant leadership: Content and contextual comparisons. Journal of Leadership and Organizational Studies 10\(4\), 80-92. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/107179190401000406](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/107179190401000406)
 
 **Questions that apply to this article:**
 
@@ -77,7 +87,9 @@ In this Unit 4 session, there are Journal articles included in your reading. Ple
 3. Which model, servant or transformational, did the authors find worked best in a not-for-profit or religious organizational context?
     What do the authors say about the importance of “context” for each model?
 
-[Article 2: Mulla, Z.R. and Krishnan, V.R. \(2011\). **Transformational leadership: Do the leader’s morals matter and do the follower’s morals change? **Journal of Human Values 17\(2\), 129-143.](http://jhv.sagepub.com/cgi/reprint/17/2/129?ijkey=taiH4KnbSatHs&keytype=ref&siteid=spjhv)
+[Article 2: ](http://jhv.sagepub.com/cgi/reprint/17/2/129?ijkey=taiH4KnbSatHs&keytype=ref&siteid=spjhv)
+
+Mulla, Z.R. and Krishnan, V.R. \(2011\). Transformational leadership: Do the leader’s morals matter and do the follower’s morals change? Journal of Human Values 17\(2\), 129-143. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203)
 
 **Questions that apply to this article:**
 
@@ -86,7 +98,9 @@ In this Unit 4 session, there are Journal articles included in your reading. Ple
 2. Describe how transformational leaders can positively impact moral sensitivity and development in their followers.
 3. What was the effect of the leader-follower relationship duration on transformational leadership effecting follower’s moral sensitivity?
 
-[Article 3: Van Dierendonck, D. \(2011\). **Servant leadership: A review and synthesis**. Journal of Management 37\(4\), 1228-1261.](http://jom.sagepub.com/cgi/reprint/37/4/1228?ijkey=7ZHNHznKelZJg&keytype=ref&siteid=spjom)
+[Article 3: ](http://jom.sagepub.com/cgi/reprint/37/4/1228?ijkey=7ZHNHznKelZJg&keytype=ref&siteid=spjom)
+
+Van Dierendonck, D. \(2011\). Servant leadership: A review and synthesis. Journal of Management 37\(4\), 1228-1261. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462)
 
 **Questions that apply to this article:**
 
@@ -94,7 +108,9 @@ In this Unit 4 session, there are Journal articles included in your reading. Ple
 2. How are concepts from Leader-Member Exchange theory incorporated into the development of servant leadership?
 3. How is leader motivation to serve incorporated into the servant leadership model? How is this consistent with personality research in leadership?
 
-[Article 4: Searle, T.P. and Barbuto, J.E. \(2011\). **Journal of Leadership & Organizational Studies** 18\(1\), 107-117.](http://jlo.sagepub.com/cgi/reprint/18/1/107?ijkey=Ai1R0nws9LiZQ&keytype=ref&siteid=spjlo)
+[Article 4: ](http://jlo.sagepub.com/cgi/reprint/18/1/107?ijkey=Ai1R0nws9LiZQ&keytype=ref&siteid=spjlo)
+
+Searle, T.P. and Barbuto, J.E. \(2011\). Servant Leadership, Hope, and Organizational Virtuousness: A Framework Exploring Positive Micro and Macro Behaviors and Performance Impact. Journal of Leadership & Organizational Studies 18\(1\), 107-117. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/pdf/10.1177/1548051810383863](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/pdf/10.1177/1548051810383863)
 
 **Questions that apply to this article:**
 
