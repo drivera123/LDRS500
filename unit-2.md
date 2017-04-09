@@ -19,9 +19,12 @@ In week two our focus will be on historical and current models of leadership the
 
 **Journal Articles**
 
+1. Van Dierendonck, D. \(2011\). Servant leadership: A review and synthesis. Journal of Management 37\(4\), 1228-1261. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462)
+
+**Articles available through **[**interlibrary loan**](http://www8.twu.ca/library/libreq.htm)**:**
+
 1. Meaklim, T., & Sims, J. \(2011\). _**Leading Powerful Partnerships - a new model of public sector leadership development**_. International Journal of Leadership In Public Services, 7\(1\), 21-31.
 2. Hwang, H., Kang, M., & Youn, M. \(2014\). _**The influence of a leader's servant leadership on employees' perception of customers' satisfaction with the service and employees' perception of customers' trust in the service firm: the moderating role of employees' trust in the leader.**_** **Journal of Global Scholars of Marketing Science, 24\(1\), 65-76.
-3. Van Dierendonck, D., Stam, D., Boersma, P., de Windt, N., & Alkema, J. \(2014\). _**Same difference? Exploring the differential mechanisms linking servant leadership and transformational leadership to follower outcomes.**_ Leadership Quarterly, 25\(3\), 544-562
 
 ## Learning Activities
 
