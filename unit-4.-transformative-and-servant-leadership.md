@@ -79,6 +79,18 @@ In this Unit 4 session, there are Journal articles included in your reading. Ple
 
 Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). Transformational and servant leadership: Content and contextual comparisons. Journal of Leadership and Organizational Studies 10\(4\), 80-92. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/107179190401000406](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/107179190401000406)
 
+**Article-2:**
+
+Mulla, Z.R. and Krishnan, V.R. \(2011\). Transformational leadership: Do the leader’s morals matter and do the follower’s morals change? Journal of Human Values 17\(2\), 129-143. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203)
+
+**Article-3:**
+
+Van Dierendonck, D. \(2011\). Servant leadership: A review and synthesis. Journal of Management 37\(4\), 1228-1261. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462)
+
+**Article-4:**
+
+Searle, T.P. and Barbuto, J.E. \(2011\). Servant Leadership, Hope, and Organizational Virtuousness: A Framework Exploring Positive Micro and Macro Behaviors and Performance Impact. Journal of Leadership & Organizational Studies 18\(1\), 107-117. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/pdf/10.1177/1548051810383863](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/pdf/10.1177/1548051810383863)
+
 **Questions that apply to this article:**
 
 1. Describe the similarities between servant and transformational leadership in the charismatic component of leadership.
