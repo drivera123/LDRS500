@@ -93,8 +93,8 @@ The movie Invictus can be used to illustrate \(or give meaning to\) leadership c
 | Building trust and trusting |   | Humble and grounded |
 | The price of leadership: |  |  |
 | Relationship building | sacrifice and loneliness | Sincere |
-| Leading by example and living the values | The willingness to lead: the  people supporting racism are | Humility |
-| Sharing the success  | wrong and Mandela has to show them that | Determined |
+| Leading by example and living the values | The willingness to lead: the  people supporting racism are wrong and Mandela has to show them that| Humility |
+| Sharing the success  |  | Determined |
 | Empowering others by offering choice & support |   | Flexible and open-minded Reflective |
 | Change tactics |   | Self- and situation awareness |
 | Forgiveness | | |
