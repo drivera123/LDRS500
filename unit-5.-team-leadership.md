@@ -1,6 +1,6 @@
-**Unit 5: Team Leadership**
+# **Unit 5: Team Leadership**
 
-**Overview**
+### **Overview**
 
 In Unit 5 Team Leadership, our focus looks at both the internal and external actions of an effective team and requirements of leadership as partnership.The purpose of this module is to critically think through these leadership frameworks along with team-based models and apply them to leadership context. This unit builds competency in innovation, adaptability and change, higher-ordered analysis, values and ethics, relationships and collaboration, team leadership, and people development. Please review the MA Leadership Monograph and Competencies for continued study on how these all fit together.
 
@@ -40,7 +40,7 @@ Spears, Larry C. \(2010\) Character and Servant Leadership: Ten Characteristics 
 
 Page, Don and Wong, Paul T. P. \(nd\)A Conceptual Framework for Measuring Servant-Leadership, Trinity Western University, Langley, B. C, Canada.Available on Research Gate from: [https://www.researchgate.net/publication/242232213\_A\_Conceptual\_Framework\_for\_Measuring\_Servant-Leadership](https://www.researchgate.net/publication/242232213_A_Conceptual_Framework_for_Measuring_Servant-Leadership)
 
-**Learning Activities**
+### **Learning Activities**
 
 **Unit 5 Specific Learning Outcomes**
 
@@ -81,35 +81,29 @@ The movie Invictus can be used to illustrate \(or give meaning to\) leadership c
 **MANDELA’S COMPETENCIES, COMMITMENT AND CHARACTER \(TABLE WRONG FORMAT\)**
 
 | Competencies | Commitment | Character |
-|--- |--- |--- |
-| Visioning and future orientation| Going into the stands and giving thanks for the flag| Compassion |
+| --- | --- | --- |
+| Visioning and future orientation | Going into the stands and giving thanks for the flag | Compassion |
 |  |  | Generosity |
 | CommunicationGaining support and influence | Learned the names of the players and visited the  training camp | Empathy Calm and composed |
-| | Wearing the number 6 |  |
+|  | Wearing the number 6 |  |
 | Collaboration | Springbok shirt | Restraint and patience |
-| Expectation setting and| Doing the hard work of | Courage and confidence |
-| Motivation   | leadership, exhaustion  | Principled |
-| Raising the bar | Multi-tasking: Mandela haslots of promises to keep  | Results oriented |
-| Building trust and trusting |   | Humble and grounded |
+| Expectation setting and | Doing the hard work of | Courage and confidence |
+| Motivation | leadership, exhaustion | Principled |
+| Raising the bar | Multi-tasking: Mandela haslots of promises to keep | Results oriented |
+| Building trust and trusting |  | Humble and grounded |
 | The price of leadership: |  |  |
 | Relationship building | sacrifice and loneliness | Sincere |
-| Leading by example and living the values | The willingness to lead: the  people supporting racism are wrong and Mandela has to show them that| Humility |
-| Sharing the success  |  | Determined |
-| Empowering others by offering choice & support |   | Flexible and open-minded Reflective |
-| Change tactics |   | Self- and situation awareness |
-| Forgiveness | | |
-| Optimism || |
-| Transparent || |
-| Authentic || |
-| Good judgment || |
-
-  
-
+| Leading by example and living the values | The willingness to lead: the  people supporting racism are wrong and Mandela has to show them that | Humility |
+| Sharing the success |  | Determined |
+| Empowering others by offering choice & support |  | Flexible and open-minded Reflective |
+| Change tactics |  | Self- and situation awareness |
+| Forgiveness |  |  |
+| Optimism |  |  |
+| Transparent |  |  |
+| Authentic |  |  |
+| Good judgment |  |  |
 
 **EXHIBIT TN-2: THE EFFECTIVE LEADER \(TABLE MISSING\)**
-
-  
-
 
 ![](file:///C:/Users/MYERTC~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
 
@@ -117,20 +111,13 @@ The movie Invictus can be used to illustrate \(or give meaning to\) leadership c
 
 School of Business,
 
-  
-
-
 **EXHIBIT TN-3: CHARACTER DIMENSIONS AND ELEMENTS \(TABLE MISSING\)**
 
 ![](file:///C:/Users/MYERTC~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg)
 
 Source: J. Gandz, M. Crossan, G. Seijts and M. Reno, “Leadership Character and Corporate Governance,” Director 167, May–June 2013, pp. 15–21, reprinted in Ivey Business Journal \[online\],[http://iveybusinessjournal.com/topics/leadership/leadership-character-and-corporate-governance,](http://iveybusinessjournal.com/topics/leadership/leadership-character-and-corporate-governance,)accessed March 17, 2014.
 
-
-
 **Watch the Movie Invictus and complete the following assignment below:**
 
 The Movie Invictus encouraging people to believe in themselves so that the organization can achieve is a noble quest and requires a leader who can not only see over the horizon but make what is over the horizon tangible. As a team leader, getting people to believe in themselves and the organization is at the heart of the process of any transformative process. In a three page double space written response, please reflect on what the key lessons the movie brings across?.
-
-
 
