@@ -80,15 +80,15 @@ The movie Invictus can be used to illustrate \(or give meaning to\) leadership c
 
 **MANDELA’S COMPETENCIES, COMMITMENT AND CHARACTER \(TABLE WRONG FORMAT\)**
 
-|  |  |  | Competencies | Commitment | Character |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| • | Visioning and future orientation | • | Going into the stands and giving thanks for the flag | • | Compassion |
-|  |  |  |  | • | Generosity |
-| •• | CommunicationGaining support and influence | • | Learned the names of theplayers and visited the  training camp | •• | EmpathyCalm and composed |
-|  |  | • | Wearing the number 6 |  |  |
-| • | Collaboration |  | Springbok shirt | • | Restraint and patience |
-| • | Expectation setting and | • | Doing the hard work of | • | Courage and confidence |
-|  | Motivation |  | leadership, exhaustion | • | Principled |
+| Competencies | Commitment | Character |
+|--- |--- |--- |
+| Visioning and future orientation| Going into the stands and giving thanks for the flag| Compassion |
+|  |  | Generosity |
+| CommunicationGaining support and influence | Learned the names of the players and visited the  training camp | Empathy Calm and composed |
+| | Wearing the number 6 |  |
+| Collaboration | Springbok shirt | Restraint and patience |
+| Expectation setting and| Doing the hard work of | Courage and confidence |
+| Motivation   | leadership, exhaustion  | Principled |
 | • | Raising the bar | • | Multi-tasking: Mandela haslots of promises to keep | • | Results oriented |
 | • | Building trust and trusting |  |  | • | Humble and grounded |
 |  |  |  | ·The price of leadership: |  |  |
