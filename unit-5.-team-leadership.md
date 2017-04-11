@@ -89,19 +89,19 @@ The movie Invictus can be used to illustrate \(or give meaning to\) leadership c
 | Collaboration | Springbok shirt | Restraint and patience |
 | Expectation setting and| Doing the hard work of | Courage and confidence |
 | Motivation   | leadership, exhaustion  | Principled |
-| • | Raising the bar | • | Multi-tasking: Mandela haslots of promises to keep | • | Results oriented |
-| • | Building trust and trusting |  |  | • | Humble and grounded |
-|  |  |  | ·The price of leadership: |  |  |
-|  | • | Relationship building | sacrifice and loneliness | • | Sincere |
-| • | Leading by example and living the values | • | The willingness to lead: the  people supporting racism are | • | Humility |
-| • | Sharing the success |  | wrong and Mandela has to show them that. | • | Determined |
-| • | Empowering others by offering choice & support |  |  | •• | Flexible and open-minded Reflective |
-| • | Change tactics |  |  | • | Self- and situation awareness |
-|  |  |  |  | • | Forgiveness |
-|  |  |  |  | • | Optimism |
-|  |  |  |  | • | Transparent |
-|  |  |  |  | • | Authentic |
-|  |  |  |  | • | Good judgment |
+| Raising the bar | Multi-tasking: Mandela haslots of promises to keep  | Results oriented |
+| Building trust and trusting |   | Humble and grounded |
+| The price of leadership: |  |  |
+| Relationship building | sacrifice and loneliness | Sincere |
+| Leading by example and living the values | The willingness to lead: the  people supporting racism are | Humility |
+| Sharing the success  | wrong and Mandela has to show them that | Determined |
+| Empowering others by offering choice & support |   | Flexible and open-minded Reflective |
+| Change tactics |   | Self- and situation awareness |
+| Forgiveness | | |
+| Optimism || |
+| Transparent || |
+| Authentic || |
+| Good judgment || |
 
   
 
