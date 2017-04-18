@@ -4,8 +4,8 @@
   * [Outcomes](outcomes.md)
   * [Assignments](assignments.md)
 * [Assignment 1](assignment-1.md)
-* Assignment 2
-* Assignment 3
+* [Assignment 2](assignment-2.md)
+* [Assignment 3](assignment-3.md)
 * Assignment 4
 * Assignment 5
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
