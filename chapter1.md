@@ -46,7 +46,7 @@ Using the following rating system of response numbers1through4,circle the number
 | Commitment to the growth of people | 1 | 2 | 3 | 4 |
 | Building community | 1 | 2 | 3 | 4 |
 
-## **Learning Activities**
+## **Learning Activity 1**
 
 Read chapters 1 and 10 in your Northouse text.
 
@@ -60,7 +60,7 @@ After reading about the principles of Servant Leadership and completing the pers
 
 Read and respond to at least one other blog post for each of the above. Try to read several of your colleagues’ posts to gain a variety of perspectives and to get to know one another in this learning community.
 
-## **Assessment**
+## Assignment 1
 
 ### **Follow the Leader Due: End Week 1**
 
