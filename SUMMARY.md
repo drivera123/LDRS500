@@ -3,6 +3,11 @@
 * [Syllabus](README.md)
   * [Outcomes](outcomes.md)
   * [Assignments](assignments.md)
+* Assignment 1
+* Assignment 2
+* Assignment 3
+* Assignment 4
+* Assignment 5
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 2. Themes, Theories, and Concepts ](unit-2.md)
 * [Unit 3. Values-Based Leadership and Critical Thinking](unit-3.-values-based-leadership-and-critical-thinking.md)
