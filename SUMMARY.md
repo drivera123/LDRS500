@@ -3,7 +3,7 @@
 * [Syllabus](README.md)
   * [Outcomes](outcomes.md)
   * [Assignments](assignments.md)
-* Assignment 1
+* [Assignment 1](assignment-1.md)
 * Assignment 2
 * Assignment 3
 * Assignment 4
