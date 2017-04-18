@@ -6,7 +6,7 @@
 * [Assignment 1](assignment-1.md)
 * [Assignment 2](assignment-2.md)
 * [Assignment 3](assignment-3.md)
-* Assignment 4
+* [Assignment 4](assignment-4.md)
 * Assignment 5
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 2. Themes, Theories, and Concepts ](unit-2.md)
