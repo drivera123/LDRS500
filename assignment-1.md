@@ -15,5 +15,17 @@ Create a post on your own blog and answer the following questions about the lead
 
 Before you publish your post, make sure you add it to the category 'LDRS500' and tag it with 'Follow the Leader'.
 
+#### **Criteria and Evaluation**
+
+Discuss one or two significant ideas of the leader \(4 points\)
+
+Discuss your thoughts and analysis regarding these concepts \(4 points\)
+
+Discuss the leader's values, ethics, and principles \(2 points\)
+
+Stay within the time allotted – 5 minutes. \(1 point\)
+
+Substantive response to two other colleagues' Follow the Leader' assignments \(4 points\)
+
 
 
