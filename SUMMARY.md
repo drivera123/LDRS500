@@ -3,6 +3,7 @@
 * [Syllabus](README.md)
   * [Outcomes](outcomes.md)
   * [Assignments](assignments.md)
+    * [Blogging](blogging.md)
     * [Assignment 1](assignment-1.md)
     * [Assignment 2](assignment-2.md)
     * [Assignment 3](assignment-3.md)
@@ -22,5 +23,5 @@
   * [Leadership Competencies](leadership-competencies.md)
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
 * [Learner Profile](learner-profile.md)
-* [Blogging](blogging.md)
+
 
