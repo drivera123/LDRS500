@@ -62,19 +62,6 @@ Read and respond to at least one other blog post for each of the above. Try to r
 
 ### **[Follow the Leader](assignment-1.md)
  
- Due: End Week 1**
+####Due: End Week 1**
 
-
-
-#### **Criteria and Evaluation**
-
-Discuss one or two significant ideas of the leader \(4 points\)
-
-Discuss your thoughts and analysis regarding these concepts \(4 points\)
-
-Discuss the leader's values, ethics, and principles \(2 points\)
-
-Stay within the time allotted – 5 minutes. \(1 point\)
-
-Substantive response to two other colleagues' Follow the Leader' assignments \(4 points\)
 
