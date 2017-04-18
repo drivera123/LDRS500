@@ -7,7 +7,7 @@
 | [Integrated Learning Reflection Journal](assignment-3.md) | 15% |
 | [Leadership Lessons in a movie or story: Group Assignment](assignment-4.md) | 15% |
 | [Impact of Critical Thinking in my Leadership Context paper](assignment-5.md) | 15% |
-| Regular and Substantive blog posts and responses | 25% |
+| [Regular and substantive blog posts and responses](blogging.md) | 25% |
 
 
 

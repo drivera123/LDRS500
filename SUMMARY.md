@@ -9,8 +9,8 @@
     * [Assignment 3](assignment-3.md)
     * [Assignment 4](assignment-4.md)
     * [Assignment 5](assignment-5.md)
-* [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 2. Themes, Theories, and Concepts ](unit-2.md)
+* [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 3. Values-Based Leadership and Critical Thinking](unit-3.-values-based-leadership-and-critical-thinking.md)
 * [Unit 4. Transformative and Servant Leadership](unit-4.-transformative-and-servant-leadership.md)
 * [Unit 5. Team Leadership](unit-5.-team-leadership.md)
@@ -23,5 +23,4 @@
   * [Leadership Competencies](leadership-competencies.md)
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
 * [Learner Profile](learner-profile.md)
-
 
