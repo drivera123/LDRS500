@@ -22,4 +22,5 @@
   * [Leadership Competencies](leadership-competencies.md)
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
 * [Learner Profile](learner-profile.md)
+* [Blogging](blogging.md)
 
