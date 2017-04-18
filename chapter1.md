@@ -16,9 +16,7 @@ Read Northouse chapters 1 and 10 completely
 
 Skim-read Northouse chapters 2,3,4,5 and do associated surveys at the end of each chapter for your own info
 
-## 
-
-## 
+ 
 
 ## ![](file:///C:\Users\Adrienne\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png "Text Box: – 5 –")**Personal Inventory of Servant-Leader Characteristics**
 
@@ -62,9 +60,11 @@ Read and respond to at least one other blog post for each of the above. Try to r
 
 ## Assignment 1
 
-### **Follow the Leader Due: End Week 1**
+### **[Follow the Leader](assignment-1.md)
+ 
+ Due: End Week 1**
 
-Identify an opinion leader on social media whom you admire. Create a podcast presentation that meets the criteria set out/
+
 
 #### **Criteria and Evaluation**
 
