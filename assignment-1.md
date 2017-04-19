@@ -1,8 +1,6 @@
-## Assignment Instructions
-
-#### Follow the Leader
-
-Due: End Week 1
+## Follow the Leader
+#### Assignment Instructions
+_**Due: End Week 1**_
 
 Identify an opinion leader \(could be from your field or not\) whom you admire and follow that person on social media two weeks prior to the class. \(Twitter, Facebook, blog, etc.\).
 
