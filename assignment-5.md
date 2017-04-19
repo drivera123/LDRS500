@@ -1,33 +1,34 @@
-## **Leadership Lessons in a movie or story \(group project\)**
+## 
 
-* infographic, website, multi-media
+| Reflective Responses to Light from Many Lamps 20% |
+| :--- |
 
-* [ ] build scaffolded structure
 
-* [ ] add PMP process
 
-* [ ] defined roles
 
-Due Dates
+Watson, L.E. \(1951\). _Light from Many Lamps_. New York: Simon and Schuster.  \*Available from Amazon in new editions.
 
-* project proposal \(movie or anthology story\)
-  * name of the resource and why chosen \(full citation\)
-  * group member roles
-  * project timeline with due dates
-  * chosen media for presentation
-  * \(See Imbenzi's APA materials\)
 
-Groups will be assigned. Choose a movie OR a story from either the Norton Anthology or Light from Many Lamps.  Create a chart of other graphic display to demonstrate the importance of character, competencies, and commitment.  Take examples from the movie or story that show these three elements of good leadership.  As applicable, address factors such as leadership level, challenges, leadership development and organizational culture.
 
-_Criteria and Evaluation_
+Due end of week 2:  Choose any story from **part one of the anthology**, read and savour its message and prose.  \(Don't worry about critically analysing it.\) 
 
-One page graphic display clearly communicates \(1 points\)
+1. identify the leadership lesson it tells; 
+2. explain its impact/relevance to your life and practice of leadership in your context; 
+3. write a 2-3 paragraph response in your blog containing 1 and 2.
 
-Grammar and editing is substantially free of technical flaws.  Consistently models the language of scholarly literature. \(2 points\)
+Due end of week 3:  As above with **part two of the anthology**.
 
-The importance of character as related by the movie or story is clearly demonstrated \(4 points\)
+Due end of week 4:  As above with **part three of the anthology**.
 
-The importance of competencies as related by the movie or story is clearly demonstrated \(4 points\)
+Due end of week 5:  As above with **part four of the anthology**.
 
-The importance of commitment as related by the movie or story is clearly demonstrated \(4 points\)
+Due end of week 6:  As above with **part five of the anthology**.
+
+Due end of week 7:  As above with **part six of the anthology**.
+
+Due end of week 8:  As above with **part seven of the anthology**.
+
+Due end of week 9:  As above with **part eight of the anthology**.
+
+Due end of week 10:  As above with **part nine of the anthology**.
 
