@@ -1,6 +1,5 @@
 
-
-## Follow the Leader
+##Assignment 1: Follow the Leader
 
 #### Assignment Instructions
 
