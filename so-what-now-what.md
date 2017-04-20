@@ -30,7 +30,7 @@ Eagly & Johnson \(1990\). Gender and Leadership Style: A Meta Analysis. _Psychol
 
 Kaley, M. \(1971\) "Attitudes toward the dual role of the married professional woman." _American Psychologist 3_, 26:301-307.
 
-Nugent, J., Pollack, A. & D. Travis. The Day to day experiences of workplace inclusion and exclusion. \(2016\). Retrieved from http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf
+Nugent, J., Pollack, A. & D. Travis. The Day to day experiences of workplace inclusion and exclusion. \(2016\). Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
 
 **The resources that students will be using to complete the module learning activities:**
 
@@ -38,9 +38,7 @@ Castellon, A. \(2016\). Three Questions: The challenges of being a woman in lead
 
 Northouse chapter 15 Gender and Leadership
 
-Nugent, J., Pollack, A. & D. Travis. The Day to day experiences of workplace inclusion and exclusion. \(2016\). Retrieved from http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf
-
- 
+Nugent, J., Pollack, A. & D. Travis. _The Day to day experiences of workplace inclusion and exclusion_. \(2016\). Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
 
 Learning Activities
 
