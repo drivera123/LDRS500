@@ -34,7 +34,7 @@ Nugent, J., Pollack, A. & D. Travis. The Day to day experiences of workplace inc
 
 **The resources that students will be using to complete the module learning activities:**
 
-Castellon, A. \(2016\). Three Questions: The challenges of being a woman in leadership. Unpublished manuscript.
+Castellon, A. \(Ed\) \(2016\). Three Questions: The challenges of being a woman in leadership. Unpublished manuscript.
 
 Northouse chapter 15 Gender and Leadership
 
