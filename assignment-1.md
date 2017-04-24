@@ -1,4 +1,4 @@
-## Follow the Leader
+## Assignment 1: Follow the Leader
 
 #### Assignment Instructions
 
@@ -10,6 +10,7 @@ Create a post on your own blog and answer the following questions about the lead
 
 * Identify the leader, the medium on which you followed them, and an outline of their ideas and their impact.\(2 points\)
 * What are one or two significant ideas that your chosen leader espouses and what do you think about about these concepts in relation to your work as a leader? \(4 points\)
+* What advice would you give the leader on how to better motivate followers or use the capabilities of the medium to influence people toward a common goal? \(2 points\)
 * How do the leader's values, ethics, or principles align with your own regarding leadership? \(2 points\)
 
 Before you publish your post, make sure you add it to the category 'LDRS500' and tag it with 'Follow the Leader'.
@@ -42,20 +43,7 @@ In an effort to ensure consistency in the MAL assignment of grades and to inform
 
 
 
-Identify an opinion leader on social media whom you admire.
 
-Criteria and Evaluation  /10
-
-
-
-* Identify the leader, the medium on which you followed them, and an outline of their ideas and their impact.\(2 points\)
-
-* What are one or two significant ideas that your chosen leader espouses and what do you think about about these concepts in relation to your work as a leader? \(4 points\)
-* How do the leader's values, ethics, or principles align with your own regarding leadership? \(2 points\)
-
-Before you publish your post, make sure you add it to the category 'LDRS500' and tag it with 'Follow the Leader'.
-
-Once you have published your own post, respond to one or two of your colleagues' posts. If your colleague's blog does not allow comments, write your response as a single new post on your own blog and make sure to link to your colleagues' posts. \(4 points\)
 
 **Evaluation of first three bullets:**
 
@@ -89,6 +77,13 @@ Mastering \(2 points\) Responds thoughtfully with depth of critical thinking to 
  
 
 
+## Ken's Suggestion
+
+|Category|Exceptional \(10 – 9\)|Very Good \(8 – 7\)|Adequate \(6–5\)|Unsatisfactory \(&lt; 5\)|   
+| ---| --- | --- | --- | ---|  
+|Argument|Argument is consistent and well laid out. Has no elements of inconsistency. Anticipates criticisms and provides counters arguments.|Argument is mostly  consistent and well laid out. Has one element of inconsistency. Anticipates criticisms and provides counters arguments.|Argument is mostly  consistent and well laid out. Has more than one element of inconsistency. Anticipates criticisms but provides no counter arguments.|Argument is mostly  inconsistent and not well laid out. Has more than one element of inconsistency. Does not anticipate criticisms.|
+|References|Uses 3 or more references that are very relevant and illustrative of position.|Uses 2 references that are very relevant and illustrative of position.|Uses 1 reference that is very relevant and illustrative of position.|References provided are not very relevant and text does not illustrate a deposition.|
+|Style and Grammar|Position is clearly articulated. No errors of style or grammar|Position is clearly articulated but contains up to two errors of style or grammar|Position is articulated with some inconsistency and contains up to four errors of style or grammar|Position is not clear and contains more than four errors of style or grammar|
 
 
 
