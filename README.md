@@ -10,5 +10,5 @@ This course is authored cooperatively by Adrienne Castellon and Imbenzi George, 
 
 ### Copyright
 
-
+Copyright for this course is held by Adrienne Castellon and Imbenzi George.
 
