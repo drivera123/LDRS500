@@ -1,17 +1,14 @@
-
-
 ## **The Impact of Critical Thinking in my Leadership Context  Paper **
+
+Critical thinking is an essential component of leadership because there is an intelligence to practice. This practical wisdom or phronesis is an intellectual virtue incorporating discernment and judgment and is enhanced through practice. How does a leader in your context incorporate critical thinking?  To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org  These should give you enough information. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
 
 Due:
 
-* annotated bibliography & outline - week 3
-* rough draft - week 5
-* peer review - week 6
+* rough draft - week 7
+* peer review - week 8
 * final draft - week 9
 
 * [ ] ADD intro APA
-
-To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org  These should give you enough information. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
 
 * View: Critical Thinking at [https://youtu.be/6OLPL5p0fM](https://youtu.be/6OLPL5p0fM)
 

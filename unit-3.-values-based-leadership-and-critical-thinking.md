@@ -43,7 +43,7 @@ You are in this program to gain some technical skills and competence but also to
 
 > In recent years, indeed, it has been common to reduce this or that notion of professional conduct largely to a combination of the mastery of repertoires of technical occupational competence and the observance of professional regulations expressed in terms of obligations and prohibitions…this has often fatally missed what …lies at the heart of professional development – … the development of character. … It is the cultivation of virtues such as courage, temperance, justice and wisdom that really lie at the heart of exemplary professional conduct….
 
-Leaders needs skills and virtues. The virtue of integrity is most often referenced by employers as a necessity for a leader. Warren Buffet, multibillionaire and CEO of Berkshire Hathaway says 
+Leaders needs skills and virtues. The virtue of integrity is most often referenced by employers as a necessity for a leader. Warren Buffet, multibillionaire and CEO of Berkshire Hathaway says
 
 > In looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if they don’t have the first, the other two will kill you \(Hoerr, 2017, p. 73\).
 
@@ -71,7 +71,7 @@ How does a leader increase in wisdom?
 * Ask ‘cup-emptying’ questions that are open-ended and show non-judgmental curiosity \(retrieved from [https://www.virtuesproject.com/strategiesc.html\](https://www.virtuesproject.com/strategiesc.html%29\)
 * Ask a more focused question eg ‘What is the most difficult part of this?’; ‘What does it mean to you when…?”
 
-Believing in God is not incompatible with critical thinking. In other words, faith and reason can co-exist. In Proverbs 16:9 we read 
+Believing in God is not incompatible with critical thinking. In other words, faith and reason can co-exist. In Proverbs 16:9 we read
 
 > “A human mind plans the way but the Lord directs the steps”\(NRS\).
 
