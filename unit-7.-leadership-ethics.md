@@ -6,6 +6,78 @@ In Unit \# 7 we turn our attention to an integrated approach in looking at issue
 
 Responsibility is a powerful construct that shapes our decisions, especially in leadership positions of management. The higher the leadership position, the greater the amount of responsibility. “Leaders have the power to illuminate the lives of followers or to cover them in darkness” \(Johnson, 2015, p. 2\) Positions of leadership come with great responsibilities. These consist of organizational responsibilities and the responsibilities to our subordinates. Huizenga \(2016\) asserts that how we carry out these responsibilities can be indicative of both good and bad leadership. Good leadership brings light to subordinates. Bad leadership can bring darkness in the form of harm to the organization and harm to the subordinates. Mistaken assumptions and the lack of moral imagination can play a role in this kind of leadership, and Maxwell \(1993\) emphasizes, “Everything rises and falls on leadership” \(p. 162\). Therefore, we find that the behaviors of servant leadership facilitate good leadership that fosters ethical decision making. Servant leaders focus on and anticipate the needs of others. “They can feel the pulse of the world which they inhabit and anticipate the world that is not yet born” \(Wong & Davey, 2007, p. 9\). This world considers the well-being of those we lead. “What we need most are servant leaders with exceptional abilities blended with hearts full of humility and love.Such leaders can make this world a better place and restore people’s hope in the future” \(Wong & Davey, p. 11\).
 
+&lt;!--  
+ /\* Font Definitions \*/  
+ @font-face  
+	{font-family:"Cambria Math";  
+	panose-1:2 4 5 3 5 4 6 3 2 4;  
+	mso-font-charset:1;  
+	mso-generic-font-family:roman;  
+	mso-font-pitch:variable;  
+	mso-font-signature:0 0 0 0 0 0;}  
+@font-face  
+	{font-family:Calibri;  
+	panose-1:2 15 5 2 2 2 4 3 2 4;  
+	mso-font-charset:0;  
+	mso-generic-font-family:swiss;  
+	mso-font-pitch:variable;  
+	mso-font-signature:-536859905 -1073732485 9 0 511 0;}  
+ /\* Style Definitions \*/  
+ p.MsoNormal, li.MsoNormal, div.MsoNormal  
+	{mso-style-unhide:no;  
+	mso-style-qformat:yes;  
+	mso-style-parent:"";  
+	margin-top:0cm;  
+	margin-right:0cm;  
+	margin-bottom:8.0pt;  
+	margin-left:0cm;  
+	line-height:107%;  
+	mso-pagination:widow-orphan;  
+	font-size:11.0pt;  
+	font-family:"Calibri",sans-serif;  
+	mso-ascii-font-family:Calibri;  
+	mso-ascii-theme-font:minor-latin;  
+	mso-fareast-font-family:Calibri;  
+	mso-fareast-theme-font:minor-latin;  
+	mso-hansi-font-family:Calibri;  
+	mso-hansi-theme-font:minor-latin;  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:minor-bidi;  
+	mso-fareast-language:EN-US;}  
+.MsoChpDefault  
+	{mso-style-type:export-only;  
+	mso-default-props:yes;  
+	font-family:"Calibri",sans-serif;  
+	mso-ascii-font-family:Calibri;  
+	mso-ascii-theme-font:minor-latin;  
+	mso-fareast-font-family:Calibri;  
+	mso-fareast-theme-font:minor-latin;  
+	mso-hansi-font-family:Calibri;  
+	mso-hansi-theme-font:minor-latin;  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:minor-bidi;  
+	mso-fareast-language:EN-US;}  
+.MsoPapDefault  
+	{mso-style-type:export-only;  
+	margin-bottom:8.0pt;  
+	line-height:107%;}  
+@page WordSection1  
+	{size:612.0pt 792.0pt;  
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;  
+	mso-header-margin:36.0pt;  
+	mso-footer-margin:36.0pt;  
+	mso-paper-source:0;}  
+div.WordSection1  
+	{page:WordSection1;}  
+--&gt;  
+
+
+Ethical leadership is a necessary element in any organizations. According to Johnson \(2015\), ethical leadership enhances organizational trust levels, fostering perceptions that the organization is competent, open, concerned for employees, and reliable. Such trust leads to improved organizational performance and greater profitability. Moreover, ethical leadership grows an ethical organization climate that can increase job satisfaction and commitment to the organization \(p. xxi\).
+
+Ethics is a personal trait, and it represents the behavior of a person. The behavior accumulates with a long time practice. Seidman believes that human has innate nature to think that we can figure out the difference between right and wrong \(Thompson 2007\). In other words, every individual has his or her ethical value to judge right and wrong.
+
+Although it is hard to teach people ethics, however, it is possible to influence people’s behavior by effective leadership style. An appropriate leadership style could foster ethical climates in the organizations. Transformational leadership, servant leadership, and responsible leadership are useful approaches to improve the ethical behavior. According to Johnson \(2015\), transformational leaders engage in higher level moral reasoning, demonstrate greater integrity, are more successful at leading ethical organizational turnarounds, encourage the development of positive ethical climates, institutionalize ethical practices, and foster corporate social responsibility \(p. 230\).
+
 ## Resources
 
 What are the resources that students will be using? This is where we will place the links to the journal articles. The idea of this section is that students can quickly see everything they need to complete the module learning activities
