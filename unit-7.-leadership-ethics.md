@@ -2,7 +2,7 @@
 
 ## Overview
 
-Introduce this topic to students in a couple of paragraphs. Tell the students why this topic is important and what they are going to do. This is your opportunity to hook them into the unit so give the students something of interest.
+In Unit \# 7 we turn our attention to an integrated approach in looking at issues that arise in leadership situations, while addressing the principles of ethical leadership, perspectives of ethical leadership from a value-based transformational servant leadership approach. This module builds competency in visioning, strategic thinking, innovation, and team leadership. Please review the MA Leadership Monograph and Competencies for continued study on how these all fit together.
 
 ## Resources
 
@@ -25,11 +25,7 @@ Learning Activity \#2 Watch Mission Drift video [https://youtu.be/ukbAGTqGeiQ](h
 
 Learning Activity \#3 Watch the video about the importance of honesty and integrity [https://youtu.be/-eSuGwu2ejE?list=PL3fSda8lJVjQVS4q\\_AYa6VOfFqD-5FJha](https://youtu.be/-eSuGwu2ejE?list=PL3fSda8lJVjQVS4q_AYa6VOfFqD-5FJha)
 
-
-
 ## Assessment
 
-This is where a description and instructions for any graded work would go. Again ... individual posts or some sort of synthesis of the materials above. 
-
-
+This is where a description and instructions for any graded work would go. Again ... individual posts or some sort of synthesis of the materials above.
 
