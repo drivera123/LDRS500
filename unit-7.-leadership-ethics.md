@@ -12,7 +12,13 @@ Ethics is a personal trait, and it represents the behavior of a person. The beha
 
 Although it is hard to teach people ethics, however, it is possible to influence people’s behavior by effective leadership style. An appropriate leadership style could foster ethical climates in the organizations. Transformational leadership, servant leadership, and responsible leadership are useful approaches to improve the ethical behavior. According to Johnson \(2015\), transformational leaders engage in higher level moral reasoning, demonstrate greater integrity, are more successful at leading ethical organizational turnarounds, encourage the development of positive ethical climates, institutionalize ethical practices, and foster corporate social responsibility \(p. 230\).
 
+Huizenga, H.J. \(2016\) MILP Leadership values and ethics. https://courses.mytwu.ca/mod/assignment/view.php?id=389134
 
+Johnson, C. E. \(2015\). Meeting the Ethical Challenges of Leadership: Casting Light or Shadow. Thousand Oaks, CA: Sage Publications, Inc.
+
+Maxwell, J. C. \(1993\). Develop the Leader Within. Nashville: Thomas Nelson.
+
+Wong, P. T., & Davey, D. \(2007\). Best practices in servant leadership. Virginia Beach VA: School of Global Leadership and Entrepreneurship. Retrieved from https://www.regent.edu/acad/global/publications/sl\_proceedings/2007/wong-davey.pdf
 
 ## Resources
 
