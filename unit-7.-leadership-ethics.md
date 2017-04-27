@@ -12,36 +12,52 @@ Ethics is a personal trait, and it represents the behavior of a person. The beha
 
 Although it is hard to teach people ethics, however, it is possible to influence people’s behavior by effective leadership style. An appropriate leadership style could foster ethical climates in the organizations. Transformational leadership, servant leadership, and responsible leadership are useful approaches to improve the ethical behavior. According to Johnson \(2015\), transformational leaders engage in higher level moral reasoning, demonstrate greater integrity, are more successful at leading ethical organizational turnarounds, encourage the development of positive ethical climates, institutionalize ethical practices, and foster corporate social responsibility \(p. 230\).
 
-Huizenga, H.J. \(2016\) MILP Leadership values and ethics. https://courses.mytwu.ca/mod/assignment/view.php?id=389134
+Huizenga, H.J. \(2016\) MILP Leadership values and ethics. [https://courses.mytwu.ca/mod/assignment/view.php?id=389134](https://courses.mytwu.ca/mod/assignment/view.php?id=389134)
 
 Johnson, C. E. \(2015\). Meeting the Ethical Challenges of Leadership: Casting Light or Shadow. Thousand Oaks, CA: Sage Publications, Inc.
 
 Maxwell, J. C. \(1993\). Develop the Leader Within. Nashville: Thomas Nelson.
 
-Wong, P. T., & Davey, D. \(2007\). Best practices in servant leadership. Virginia Beach VA: School of Global Leadership and Entrepreneurship. Retrieved from https://www.regent.edu/acad/global/publications/sl\_proceedings/2007/wong-davey.pdf
+Wong, P. T., & Davey, D. \(2007\). Best practices in servant leadership. Virginia Beach VA: School of Global Leadership and Entrepreneurship. Retrieved from [https://www.regent.edu/acad/global/publications/sl\_proceedings/2007/wong-davey.pdf](https://www.regent.edu/acad/global/publications/sl_proceedings/2007/wong-davey.pdf)
 
 ## Resources
 
-What are the resources that students will be using? This is where we will place the links to the journal articles. The idea of this section is that students can quickly see everything they need to complete the module learning activities
+Northouse, P. G. \(2016\). Leadership: Theory and practice, seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
+
+**Chapter 13 Leadership Ethics**
+
+Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand Oaks, CA: Sage Publications. ISBN 978-1-4833-8326-2
+
+**Chapter 15- Ethical Leadership**
 
 ## Learning Activities
 
+**Learning Outcomes**
+
+1. Understanding and answering the questions, what are the moral implications of leadership behavior? How are different leadership styles related to ethics of conduct? What are the factors that determine ethical leadership? The module offers insight in answer these questions by exploring the theories of ethics and leadership and attempting to relate the various leadership styles to extant ethical viewpoints.
+2. To examine the important role that leaders have in directing, guiding, and shaping organizations. Think critically and systematically about self-leadership and the leader’s impact on people and organizations to build competency in adaptability and change, ethics and values, and innovation.
+3. To synthesize the concepts and integrate them into selection of the appropriate leadership principles and practices as leadership is lived out in a context to build competency in organizational leadership and collaboration.Reflect upon and integrate leadership thinking related to values-based leadership and transformational servant leadership in your current leadership context to build competency in ethical leadership, people development, relationships and collaboration
+
 Learning Activities are the ungraded things that students do to. They include:
 
-* Read
-* Watch 
-* Post / Discuss
-* Perhaps others
+**Read**
 
-Learning Activity \#1 - Watch video 'What is the most important question' at [https://youtu.be/YTHrKL1rh18?list=PL3fSda8lJVjSiqBfZ5aM6zDFF4dR1oMir](https://youtu.be/YTHrKL1rh18?list=PL3fSda8lJVjSiqBfZ5aM6zDFF4dR1oMir)
+1. Wang, G., Oh, I. S., Courtright, S. H., & Colbert, A. E. \(2011\). Transformational leadership and performance across criteria and levels: A meta-analytic review of 25 years of research. Group & Organization Management, 36\(2\), 223-270.[http://gom.sagepub.com/content/36/2/223.full.pdf+html?ijkey=DK8XJiNcnahuU&keytype=ref&siteid=spgom](http://gom.sagepub.com/content/36/2/223.full.pdf+html?ijkey=DK8XJiNcnahuU&keytype=ref&siteid=spgom)
+2. Avolio, B. & Gardner, W. \(2005\). Authentic leadership development: Getting to the root of positive forms of leadership. Leadership Quarterly, 16, 315-338.
+3. Thompson, K. R. \(2007\). A corporate training view of ethics education: An interview with Dov L. Seidman, CEO of LRN. Journal of Leadership & Organizational Studies, 13\(3\), 79-91.[http://jlo.sagepub.com/content/13/3/79.full.pdf+html?ijkey=r6EqaD4mQg2nU&keytype=ref&siteid=spjlo](http://jlo.sagepub.com/content/13/3/79.full.pdf+html?ijkey=r6EqaD4mQg2nU&keytype=ref&siteid=spjlo)
 
-_Tell students why you chose to include this material in the course and given them something to do Eg. While reading/watching think about these questions:_
+**Watch**
 
-Learning Activity \#2 Watch Mission Drift video [https://youtu.be/ukbAGTqGeiQ](https://youtu.be/ukbAGTqGeiQ)
+Learning Activity \#1 - Watch video: What is Ethical Leadership? After your view please elaborate on ways that you have found help and can recommend to enable your organization to grow and flourish.[https://www.youtube.com/watch?v=ks2QGoIq5nA](https://www.youtube.com/watch?v=ks2QGoIq5nA)
 
-Learning Activity \#3 Watch the video about the importance of honesty and integrity [https://youtu.be/-eSuGwu2ejE?list=PL3fSda8lJVjQVS4q\\_AYa6VOfFqD-5FJha](https://youtu.be/-eSuGwu2ejE?list=PL3fSda8lJVjQVS4q_AYa6VOfFqD-5FJha)
+**Post / Discuss**
+
+1. In the article “Transformational Leadership and Performance Across Criteria and Levels” What are the main implications for managers in the article? How can you use this information to become a better leader?
+2. Define and describe the principles of ethical leadership. Which 2 of the 5 covered in Northouse Chapter 13 do you think are the most important? Why?
 
 ## Assessment
 
-This is where a description and instructions for any graded work would go. Again ... individual posts or some sort of synthesis of the materials above.
+
+
+
 
