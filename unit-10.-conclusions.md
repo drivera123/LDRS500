@@ -36,7 +36,7 @@ What are the i**mplications and consequences of leadership studies for everyday 
 
 What p**oint of view is fostered in leadership?**
 
-It is a good idea to revisit these questions and add to your answers.  This will enhance your conceptual framework and understanding of the logic of the discipline.
+In a spirit of inquiry, we encourage you to revisit these questions and add to your answers throughout the program.  This will enhance your conceptual framework and understanding of the logic of the discipline.
 
 ·
 
