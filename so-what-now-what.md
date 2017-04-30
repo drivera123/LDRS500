@@ -44,11 +44,11 @@ Nugent, J., Pollack, A. & D. Travis. _The Day to day experiences of workplace in
 
 **By the end of this unit students will be able to answer**
 
-What does the research say about how human behavior differs for men and women? 
+What does the research say about how human behavior differs for men and women?
 
 What are the obstacles encountered by women leaders?
 
-
+How can leaders level the playing field so that both women and men can have equal opportunities to make meaningful contributions in leadership?
 
 Learning Activities
 
