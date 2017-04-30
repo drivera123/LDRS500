@@ -14,9 +14,7 @@ T**hree fundamental and powerful concepts of LDRS 500 are:**
 
 1. The study of leadership is a journey of personal awareness and transformation based on increasing understanding of human behaviour.
 
-   ```
-    ![](/assets/import.png)
-   ```
+   ![](/assets/import.png)
 
 At the end of this threshold course you should now be able to clarify your understanding of the logic of the discipline of Leadership by considering:
 
