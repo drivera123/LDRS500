@@ -166,6 +166,16 @@ Kavelin Popov, L. \(2004\). The Pace of Grace: The Virtues of a Sustainable Life
 
 Rolheiser, R. \(1995\). Against an Infinite Horizon. London: Hodder and Stoughton.
 
+## At the end of this unit students will be able to answer:
+
+Why do I need to learn to analyze information I read, view or hear?
+
+How do the ideas through which I see and experience the world impact my understanding?
+
+How does a leader develop integrity in him/herself and in others?
+
+## 
+
 ## Learning Activities
 
 Carefully read through the overview notes as this comprises the reading for this week. If any of the references referred to are interesting to you, look them up and continue reading for more depth.
