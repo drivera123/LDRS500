@@ -12,7 +12,7 @@ While the topic of women in leadership was virtually ignored until the 1970s, ea
 
 Today of course there are many examples of successful women leaders and the current research questions have changed to “What are the leadership style and effectiveness differences between women and men?” and “Why are women starkly underrepresented in elite leadership roles?”
 
-How can leaders level the playing field so that both women and men can have equal opportunities to make meaningful contributions in leadership? The culture in many North American organizations is changing. Gendered work assumptions are being challenged. There is increasing parity in domestic responsibilities and more women professionals and entrepreneurs. One practical way to reduce gender bias is to use advanced analytics to screen resumes to identify and remove gender bias resulting in a more diversified pool of talent and higher-quality candidates overall. Another way is to facilitate bias training with those involved with hiring to create more awareness. In the field of education, the power of literature and powerful female characters can be transformative.  The Catalyst publication \(2016\) linked to in the references and resources section provides many practical suggestions for how to design a more inclusive workplace.  Another excellent resource that is evidence based and highly readable is _What Works: Gender Equality by Design _by Iris Bohnet \(2016\), also referenced below.
+How can leaders level the playing field so that both women and men can have equal opportunities to make meaningful contributions in leadership? The culture in many North American organizations is changing. Gendered work assumptions are being challenged. There is increasing parity in domestic responsibilities and more women professionals and entrepreneurs. One practical way to reduce gender bias is to use advanced analytics to screen resumes to identify and remove gender bias resulting in a more diversified pool of talent and higher-quality candidates overall. Another way is to facilitate bias training with those involved with hiring to create more awareness. In the field of education, the power of literature and powerful female characters can be transformative.  The Catalyst publication \(2016\) linked to in the references and resources section provides many practical suggestions for how to design a more inclusive workplace.  Another excellent resource that is evidence based and highly readable is \_What Works: Gender Equality by Design \_by Iris Bohnet \(2016\), also referenced below.
 
 The issue of gender equality in leadership needs to be addressed at the individual, interpersonal, organizational and societal levels. A more **androgynous conception **of leadership focusing on best practice is what is needed. How might leaders embrace the challenge? During the MA Lead program you have an opportunity to recognize your potential as a leader to transform the culture and spark social change, and be leaders who will work to achieve gender equality. Through education that builds competence and confidence, women are mentored towards a leadership approach that is inclusive and transformative. It’s an approach that helps women find their voice and their style while focusing on issues that are relevant and about which they are passionate to make a difference. Once women gain in their competence and confidence they have what is needed to navigate the labyrinth of being a woman in leadership. Whether you are a woman or not, this is a contemporary issue that all leaders need to be aware of and willing to address in their context.  It's just the right thing to do.
 
@@ -41,6 +41,14 @@ Castellon, A. \(Ed\) \(2016\). _Three Questions: The challenges of being a woman
 Northouse chapter 15 Gender and Leadership
 
 Nugent, J., Pollack, A. & D. Travis. _The Day to day experiences of workplace inclusion and exclusion_. \(2016\). Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
+
+**By the end of this unit students will be able to answer**
+
+What does the research say about how human behavior differs for men and women? 
+
+What are the obstacles encountered by women leaders?
+
+
 
 Learning Activities
 
