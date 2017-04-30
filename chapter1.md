@@ -10,13 +10,19 @@ As a program we draw on the leadership example of Jesus as the supreme example o
 
 Your Birkman assessment and consultation with Dr. Wu helped you identify three competencies to work on during the program. I suggest that you choose one of your strengths and two other opportunities for growth. As an applied program, we will constantly encourage you to relate concepts to practice. This focus on ‘praxis’ will help you to leverage your learning throughout the program and effect your personal transformation as well as the impact you want to make. You could be thinking about what you wish you could change given the chance or where you hope to be in five years. Let’s get started!
 
+## At the end of this unit students will be able to answer:
+
+·What is leadership?
+
+·What contributes to effective leadership?
+
+·How can I become a more effective leader?
+
 ## **Resources**
 
 Read Northouse chapters 1 and 10 completely
 
 Skim-read Northouse chapters 2,3,4,5 and do associated surveys at the end of each chapter for your own info
-
- 
 
 ## ![](file:///C:\Users\Adrienne\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png "Text Box: – 5 –")**Personal Inventory of Servant-Leader Characteristics**
 
@@ -60,8 +66,9 @@ Read and respond to at least one other blog post for each of the above. Try to r
 
 ## Assignment 1
 
-### **[Follow the Leader](assignment-1.md)
- 
-####Due: End Week 1**
+### \*\*[Follow the Leader](assignment-1.md)
+
+#### Due: End Week 1\*\*
+
 
 
