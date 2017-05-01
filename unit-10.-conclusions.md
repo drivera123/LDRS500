@@ -12,7 +12,7 @@ T**hree fundamental and powerful concepts of LDRS 500 are:**
 
 2.The right leadership can contribute to an engaged and transformed workforce.
 
-1. The study of leadership is a journey of personal awareness and transformation based on increasing understanding of human behaviour.
+3. The study of leadership is a journey of personal awareness and transformation based on increasing understanding of human behaviour.
 
 ![](/assets/import.png)
 
@@ -45,5 +45,5 @@ In a spirit of inquiry, we encourage you to revisit these questions and add to y
 
 **Final Learning Activity**
 
-Think about what you have learned from this course and choose one related quote that is meaningful for you.  What are two course learnings _that have impacted your practice_?  Explain on two paragraphs on the discussion forum and close with your quote.  
+Think about what you have learned from this course and choose one related quote that is meaningful for you.  What are two course learnings _that have impacted your practice_?  Explain on two paragraphs on the discussion forum and close with your quote.
 
