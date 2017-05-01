@@ -178,7 +178,21 @@ How does a leader develop integrity in him/herself and in others?
 
 ## Learning Activities
 
+**Learning Activity 1**
+
 Carefully read through the overview notes as this comprises the reading for this week. If any of the references referred to are interesting to you, look them up and continue reading for more depth.
+
+**Learning Activity 2**
+
+Rank-Talk-Write Purpose 
+
+1. During or after reading a text, write a summary sentence for each key idea or concept you identify. 
+
+2. Rank the summary sentences in order of importance \(“1” next to most important, “2” and “3” next to the second and third most important summaries of each concept.\) 
+
+3. Post to the discussion forum with a one or two paragraph explanation why you ranked each concept as you did in terms of importance. 
+
+4. Choose what you think is the best summary statement for an idea or concept and revise your list. 
 
 ## Assessment
 
