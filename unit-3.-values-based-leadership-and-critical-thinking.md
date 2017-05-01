@@ -172,10 +172,8 @@ Rolheiser, R. \(1995\). Against an Infinite Horizon. London: Hodder and Stoughto
 * analyze an article, chapter or book.
 * explain how the way they see and experience the world impacts understanding of leadership.
 * list several practices that are known to develop personal integrity 
-
-## 
-
-## Learning Activities
+* define critical transformational learning
+* articulate the compatibility of faith and critical thinking 
 
 **Learning Activity 1**
 
