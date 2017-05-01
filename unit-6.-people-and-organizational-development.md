@@ -52,9 +52,9 @@ Merriam, S.B., & Grace, A.P. \(2011\). Contemporary Issues in Adult Education. S
 
 Sokal, L., & Sharma, U. \(2014\). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. Exceptionality Education International, 23\(1\), 59-71.
 
-
-
 By the end of the unit students will be able to :
+
+
 
 
 
