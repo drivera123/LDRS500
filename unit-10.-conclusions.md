@@ -36,12 +36,22 @@ What p**oint of view is fostered in leadership?**
 
 In a spirit of inquiry, we encourage you to revisit these questions and add to your answers throughout the program.  This will enhance your conceptual framework of leadership and understanding of the logic of the discipline.
 
-·At the end of the course you should be able to 
+·At the end of the course you should be able to
 
 * explain the most basic ideas you are learning about leadership who don't understand it and define its most basic vocabulary. 
 * explain the extent to which the subject of leadership involves a great deal of expert disagreement or very little expert disagreement.
 * relate the subject of leadership to significant problems in the world and within your own organization.
 * explain to what extent thinking in the field of leadership has helped you to become more intellectually humble, perseverant, autonomous, clear, relevant and reasonable.
+
+**Final Learning Activity**
+
+Think about what you have learned from this course.  What are two course learnings _that have impacted your practice_?  Explain on the discussion forum. 
+
+  
+
+
+  
+
 
 
 
