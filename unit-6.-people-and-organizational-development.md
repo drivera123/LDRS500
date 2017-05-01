@@ -52,6 +52,14 @@ Merriam, S.B., & Grace, A.P. \(2011\). Contemporary Issues in Adult Education. S
 
 Sokal, L., & Sharma, U. \(2014\). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. Exceptionality Education International, 23\(1\), 59-71.
 
+
+
+By the end of the unit students will be able to :
+
+
+
+
+
 Resources
 
 **Assigned reading in addition to notes above:**
@@ -66,7 +74,9 @@ Northouse pp. 128-129 Case Study_  Direction for some, support for others_
                pp. 183-185 Case Study _An exploration in leadership_
 ```
 
-                              chapter 3 _Skills Approach_
+```
+                          chapter 3 _Skills Approach_
+```
 
 Rockwell, D. \(2017, March 17\) The Anatomy of Performance Enhancing Coaching Conversations.Retrieved from:
 
@@ -88,5 +98,4 @@ Role play with a colleague through google handouts, Skype or a chat. Try to set 
 **Assessment**
 
 This is where a description and instructions for any graded work would go.
-
 
