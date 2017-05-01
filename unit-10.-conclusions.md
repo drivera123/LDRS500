@@ -12,7 +12,7 @@ T**hree fundamental and powerful concepts of LDRS 500 are:**
 
 2.The right leadership can contribute to an engaged and transformed workforce.
 
-3. The study of leadership is a journey of personal awareness and transformation based on increasing understanding of human behaviour.
+3.The study of leadership is a journey of personal awareness and transformation based on increasing understanding of human behaviour.
 
 ![](/assets/import.png)
 
