@@ -42,3 +42,37 @@ Includes a clear illustrative example for each point of significance. \(4 points
 
 Substantive response to two papers by colleagues in the class \(4 points\)
 
+
+
+**Peer Review Protocol**
+
+Post paper to forum.
+
+You have been assigned to a pair.
+
+Read and make notes according to grammar, composition, content as prescribed by the assignment. Make notes about strengths, areas to work on \(clarify, more analysis, more of ‘you’/application\).
+
+A. Be Kind: Always treat others with dignity and respect. This means we never use words that are hurtful, including sarcasm.
+
+B. Be Specific: Focus on particular strengths and weaknesses, rather than making general comments like “It’s good” or “I like it.” Provide insight into why it is good or what, specifically, you like about it.
+
+C. Be Helpful: The goal is to positively contribute to the individual or the group, not to simply be heard. Echoing the thoughts of others or cleverly pointing out details that are irrelevant wastes time.
+
+D. Participate: Peer critique is a process to support each other, and your feedback is valued!
+
+E. When critiquing a peer’s work, use “I” statements. For example, “I’m confused by this part,” rather than “This part makes no sense.” Remember the three important phrases:
+
+ A. “I notice….”
+
+ B. “I wonder….”
+
+ C. “If this were my work, I would….”
+
+ D. Use questions whenever possible. For example, “I’m curious why you chose to begin with…?”,  or “Did you consider adding…?”
+
+
+
+Each person revises their paper according to the feedback.
+
+
+
