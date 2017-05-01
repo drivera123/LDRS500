@@ -45,15 +45,5 @@ In a spirit of inquiry, we encourage you to revisit these questions and add to y
 
 **Final Learning Activity**
 
-Think about what you have learned from this course.  What are two course learnings _that have impacted your practice_?  Explain on the discussion forum. 
-
-  
-
-
-  
-
-
-
-
-
+Think about what you have learned from this course.  What are two course learnings _that have impacted your practice_?  Explain on two paragraphs on the discussion forum.
 
