@@ -159,11 +159,16 @@ At the end of this unit students will be able to:
 * list several practices that are known to develop personal integrity
 
 * define critical transformational learning
+
 * articulate the compatibility of faith and critical thinking
 
 ## Resources
 
-Cited in the overview, these resources are for reference purposes–you are not expected to read these.
+none
+
+## References
+
+Cited in the overview, these resources are for reference purposes–read further in your areas of interest as you wish!
 
 Bondi, L., Carr, D, Clark, C and C. Clegg \(2016\). _Towards Professional Wisdom: Practical Deliberation in the Professions_. New York: Routledge.
 
@@ -181,20 +186,13 @@ Kavelin Popov, L. \(2004\). _The Pace of Grace: The Virtues of a Sustainable Lif
 
 Rolheiser, R. \(1995\). _Against an Infinite Horizon_. London: Hodder and Stoughton.
 
-## At the end of this unit students will be able to:
-
-* explain why it is important to learn to analyze information I read, view or hear.
-* analyze an article, chapter or book.
-* explain how the way they see and experience the world impacts understanding of leadership.
-* list several practices that are known to develop personal integrity 
-* define critical transformational learning
-* articulate the compatibility of faith and critical thinking 
-
-**Learning Activity 1**
+Learning Activities
 
 Carefully read through the overview notes as this comprises the reading for this week. If any of the references referred to are interesting to you, look them up and continue reading for more depth.
 
-**Learning Activity 2**
+## **Learning Activities**
+
+**Learning Activity 1**
 
 Rank-Talk-Write Purpose
 
@@ -204,9 +202,9 @@ Rank-Talk-Write Purpose
 
 3. Post to the discussion forum with a one or two paragraph explanation why you ranked each concept as you did in terms of importance.
 
-4. Choose what you think is the best summary statement for an idea or concept and revise your list.
+4. Read others' lists and choose what you think is the best summary statement for an idea or concept and revise your list.
 
-## Assessment
+## Assessment 2
 
 ### **The Impact of Critical Thinking in my Leadership Context Paper**
 
