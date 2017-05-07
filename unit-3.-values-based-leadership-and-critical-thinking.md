@@ -156,7 +156,8 @@ At the end of this unit students will be able to:
 
 * explain how the way they see and experience the world impacts understanding of leadership.
 
-* list several practices that are known to develop personal integrity 
+* list several practices that are known to develop personal integrity
+
 * define critical transformational learning
 * articulate the compatibility of faith and critical thinking
 
@@ -164,21 +165,21 @@ At the end of this unit students will be able to:
 
 Cited in the overview, these resources are for reference purposes–you are not expected to read these.
 
-Bondi, L., Carr, D, Clark, C and C. Clegg \(2016\). Towards Professional Wisdom: Practical Deliberation in the Professions. New York: Routledge.
+Bondi, L., Carr, D, Clark, C and C. Clegg \(2016\). _Towards Professional Wisdom: Practical Deliberation in the Professions_. New York: Routledge.
 
-Cahalan, K.,Foley, E. and G. S. Mikoski eds. \(2017\). Integrative Knowing and Practical Wisdom in Minding the Gaps: Integrating Work in Theological Education. Eugene, OR: Wipf and Stock.
+Cahalan, K.,Foley, E. and G. S. Mikoski eds. \(2017\). Integrative Knowing and Practical Wisdom in _Minding the Gaps: Integrating Work in Theological Education_. Eugene, OR: Wipf and Stock.
 
-Chong Ho Song, P. \(2015\). How to read Journal Articles in the Social Sciences. Thousand Oaks, CA: Sage Publications.
+Chong Ho Song, P. \(2015\). _How to read Journal Articles in the Social Sciences._ Thousand Oaks, CA: Sage Publications.
 
-Durant, W. \(1926\). The Story of Philosophy. New York: Garden City Publishers.
+Durant, W. \(1926\). _The Story of Philosophy_. New York: Garden City Publishers.
 
-Goodson, Patricia \(2013\).Becoming an Academic Writer. Los Angeles: Sage
+Goodson, Patricia \(2013\)._Becoming an Academic Writer_. Los Angeles: Sage
 
-Hoerr, T. \(2017\).The Formative Five: Fostering Grit, Empathy and other Success Skills Every Student Needs. Alexandria, VA: Association for Supervison and Curriculum Development.
+Hoerr, T. \(2017\)._The Formative Five: Fostering Grit, Empathy and other Success Skills Every Student Needs_. Alexandria, VA: Association for Supervison and Curriculum Development.
 
-Kavelin Popov, L. \(2004\). The Pace of Grace: The Virtues of a Sustainable Life. New York: Penguin.
+Kavelin Popov, L. \(2004\). _The Pace of Grace: The Virtues of a Sustainable Life_. New York: Penguin.
 
-Rolheiser, R. \(1995\). Against an Infinite Horizon. London: Hodder and Stoughton.
+Rolheiser, R. \(1995\). _Against an Infinite Horizon_. London: Hodder and Stoughton.
 
 ## At the end of this unit students will be able to:
 
