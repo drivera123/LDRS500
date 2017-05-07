@@ -10,23 +10,35 @@ As a program we draw on the leadership example of Jesus as the supreme example o
 
 Your Birkman assessment and consultation with Dr. Wu helped you identify three competencies to work on during the program. I suggest that you choose one of your strengths and two other opportunities for growth. As an applied program, we will constantly encourage you to relate concepts to practice. This focus on ‘praxis’ will help you to leverage your learning throughout the program and effect your personal transformation as well as the impact you want to make. You could be thinking about what you wish you could change given the chance or where you hope to be in five years. Let’s get started!
 
-## At the end of this unit students will be able to answer:
+## Learning Objectives:
 
-·What is leadership?
+At the end of this unit students will be able to:
 
-·What contributes to effective leadership?
+Analyze various definitions and construct their own preferred definition of leadership.
 
-·How can I become a more effective leader?
+Evaluate what contributes to effective leadership.
+
+Design a personal action plan for how they will improve their effectiveness as a leader.
 
 ## **Resources**
 
-Read Northouse chapters 1 and 10 completely
+Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
 
-Skim-read Northouse chapters 2,3,4,5 and do associated surveys at the end of each chapter for your own info
+## **Learning Activities**
+
+1. Complete the personal inventory of Servant Leadership characteristics.  \(yes this should be a pdf\)
+
+2. Read chapters 1 and 10 of Northouse text. Starting writing your blog. Begin with Northouse’s definition of leadership as above in the unit overview. Then explain your ideas about the following components of leadership: process, power, influence, group context and goal attainment. Close with one question that invites further comment and discussion.
+
+3. Distinguish between assigned and emergent leaders.  In your blog give an example of an instance in which you ‘emerged’ as a leader. Citing references from Northouse \(and referencing according to APA\), identify the essential activities of management and leadership. How are these activities played out by managers and leaders? Which approaches do you think are most essential for an organization to prosper? Close with one question that invites further comment and discussion.
+
+4. Choose three principles of Servant Leadership and give an example of each principle. Which of these three will be most challenging for you to consistently realize in your practice? Close with one question that invites further comment and discussion.
+
+6.  Skim-read Northouse chapters 2,3,4,5. Complete the surveys at the end of each chapter and review/analyze the results for your own information and personal growth.
 
 ## ![](file:///C:\Users\Adrienne\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png "Text Box: – 5 –")**Personal Inventory of Servant-Leader Characteristics**
 
-Using the following rating system of response numbers1through4,circle the number that most accurately applies to your current leadership characteristics.When you’ve completed the sheet,save it in a convenient place,such as your desk drawer,and review it on occasion.
+Using the following rating system of response numbers 1 through 4,circle the number that most accurately applies to your current leadership characteristics.When you’ve completed the sheet,save it in a convenient place,such as your desk drawer,and review it on occasion.
 
 1.I don't believe this is an important characteristic of leadership.
 
@@ -50,25 +62,19 @@ Using the following rating system of response numbers1through4,circle the number
 | Commitment to the growth of people | 1 | 2 | 3 | 4 |
 | Building community | 1 | 2 | 3 | 4 |
 
-## **Learning Activity 1**
+## References
 
-Read chapters 1 and 10 in your Northouse text.
+none
 
-Begin your blog with Northouse’s definition of leadership as above in the unit overview. Then explain your ideas about the following components of leadership: process, power, influence, group context and goal attainment. Close with one question that invites further comment and discussion.
+## Assessment
 
-In your blog distinguish between assigned and emergent leaders. Give an example of an instance in which you ‘emerged’ as a leader. Explain how your communication might have facilitated your emergence as a leader. Close with one question that invites further comment and discussion.
-
-Citing references from Northouse \(and referencing according to APA\), post a blog on the essential activities of management and leadership. How are these activities played out by managers and leaders? Comment on which approaches you think are most essential for an organization to prosper. Close with one question that invites further comment and discussion.
-
-After reading about the principles of Servant Leadership and completing the personal inventory, comment on three principles of your choice and give an example of each principle. Which of these three will be most challenging for you to consistently realize in your practice? Close with one question that invites further comment and discussion.
-
-Read and respond to at least one other blog post for each of the above. Try to read several of your colleagues’ posts to gain a variety of perspectives and to get to know one another in this learning community.
-
-## Assignment 1
+## Assignment 1  
 
 ### \*\*[Follow the Leader](assignment-1.md)
 
 #### Due: End Week 1\*\*
 
+## Assignment 2
 
+Read and respond to at least one other blog post. Try to read several of your colleagues’ posts to gain a variety of perspectives and to get to know one another in this learning community.
 
