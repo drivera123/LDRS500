@@ -238,7 +238,7 @@ To prime your thinking, view the following videos \(total of just under 25 minut
 * Includes at least two references from criticalthinking.org \(1 point\)
 * Clearly outlines and develops four points related to the significance of critical thinking in your particular context \(4 points\)
 * Includes a clear illustrative example for each point of significance. \(4 points\)
-* Substantive response to two papers by colleagues in the class \(4 points\)
+* Substantive response to two papers by colleagues in the class \(4 points\)  \*I want students to read each others' papers - these marks are part of the assignment not for participation marks.  Students would post papers to an open discussion forum and respond to one another.
 
 
 
