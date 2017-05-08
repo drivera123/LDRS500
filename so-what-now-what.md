@@ -70,3 +70,15 @@ Read the 3 brief case studies in Northouse chapter 15. Post a response to one of
 
 Take the Gender-Leader Implicit Association test in Northouse chapter 15 and read through the Catalyst \(2016\) report for practical inclusion ideas .How can you foster recognition and a sense of belonging for women in your workplace?
 
+## Assessment
+
+Due end of week 8: Choose any story from part seven or eight of the Light from Many Lamps anthology, read and savour its message and prose. \(Don't worry about critically analysing it.\)
+
+
+
+1. identify the leadership lesson it tells;
+2. explain its impact/relevance to your life and practice of leadership in your context;
+3. write a 2-3 paragraph response in your blog containing 1 and 2.
+
+
+
