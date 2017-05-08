@@ -132,5 +132,15 @@ Searle, T.P. and Barbuto, J.E. \(2011\). Servant Leadership, Hope, and Organizat
 2. How does positive micro-level behavior described in the article affect performance?
 3. Discuss hope in this article as is relates to positive psychology and servant leadership. Why is hope a significant psychological factor to use when studying servant leadership?
 
+	
+
+**Due end of week 4**: Choose any story from part three or four of the _Light from Many Lamps_ anthology, read and savour its message and prose. \(Don't worry about critically analysing it.\)
+
+
+
+1. identify the leadership lesson it tells;
+2. explain its impact/relevance to your life and practice of leadership in your context;
+3. write a 2-3 paragraph response in your blog containing 1 and 2.
+
 
 
