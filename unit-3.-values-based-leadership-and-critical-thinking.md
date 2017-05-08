@@ -242,5 +242,11 @@ To prime your thinking, view the following videos \(total of just under 25 minut
 
 ## Assignment 3
 
-Reflection Journal 
+Reflection Journal
+
+## Assignment 2
+
+Rough draft: The Impact of Critical Thinking in my Leadership Context  Paper 
+
+
 
