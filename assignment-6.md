@@ -1,3 +1,5 @@
+## Assignment 6: 3 questions Women in Leadership
+
 Due end of week 8
 
 One of your course readings for this unit is a compilation of data from BC women leaders and 2 from India. The goal is to reach a larger sample size of women from around the globe. If you are a woman in leadership you can answer the three questions yourself. If you are not a woman in leadership, you will need to interview someone who is.

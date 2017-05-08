@@ -78,5 +78,9 @@ Please email Adrienne.castellon@twu.ca , provide your answers to the three resea
 
 ## Assignment 3
 
-Reflection Journal 
+Reflection Journal
+
+## Assignment 6: 3 questions Women in Leadership
+
+
 
