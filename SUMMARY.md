@@ -18,9 +18,8 @@
 * [Unit 6. People and Organizational Development](unit-6.-people-and-organizational-development.md)
 * [Unit 7. Leadership Ethics](unit-7.-leadership-ethics.md)
 * [Unit 8. Women in Leadership](so-what-now-what.md)
-* [Assignment 6](assignment-6.md)
 * [Unit 10. Conclusions](unit-10.-conclusions.md)
-* Resources
+* [Resources](resources.md)
   * [Leadership Competencies](leadership-competencies.md)
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
 * [Learner Profile](learner-profile.md)
