@@ -105,7 +105,15 @@ Role play with a colleague in the class through google handouts, Skype or a chat
 
 * Post to your blog an outline of an employee development plan for your organization using technology.  Include methods to promote organizational citizenship behavior, co-creation and innovation in a service-oriented culture.
 
-**Assessment**
+## **Assessment**
 
-This is where a description and instructions for any graded work would go.
+Due end of week 6: Choose any story from part five or six of the _Light from Many Lamps_ anthology, read and savour its message and prose. \(Don't worry about critically analysing it.\)
+
+
+
+1. identify the leadership lesson it tells;
+2. explain its impact/relevance to your life and practice of leadership in your context;
+3. write a 2-3 paragraph response in your blog containing 1 and 2.
+
+
 
