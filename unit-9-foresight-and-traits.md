@@ -18,9 +18,7 @@ In Unit 9 we turn our attention to Foresight and the traits of a successful valu
 
 Malgeri, J. \(2010\). Organizational foresight and stewardship.Public Manager,39\(4\), 39. Order through[interlibrary loan](http://www8.twu.ca/library/libreq.htm).
 
-4.[Southwestern Airlines \(A\) Stanford Business School Case HR1-A](Southwestern%20Airlines%20%28A%29%20-%20Case%20Study..pdf)
-
-
+4.[Southwestern Airlines \(A\) Stanford Business School Case HR1-A](Southwestern Airlines %28A%29 - Case Study..pdf)
 
 #### **Learning Activities**
 
@@ -39,6 +37,14 @@ Learning Activities are the ungraded things that students do to. They include:
 PowerPoints on the **Four Components of Foresight**
 
 In the article, Organizational Foresight and Stewardship, Malgeri \(2010\) defines foresight as the “ability to develop and maintain a forward-looking perspective and to anticipate emerging opportunities and problems by continually scanning the environment for trends and new developments. Foresight can be considered a behavioral inclination, referring to an individual’s tendency to devote a significant amount of time engaged in thought or activities concerning the future”.
+
+![](/import.png)
+
+![](/assets-1/import.png)
+
+![](/assets-2/import.png)
+
+![](/assets-3/import.png)
 
 #### **Watch - YouTube Videos**
 
