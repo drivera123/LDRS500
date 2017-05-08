@@ -123,5 +123,9 @@ The Movie Invictus encouraging people to believe in themselves so that the organ
 
 ## Assignment 3
 
-Reflection Journal 
+Reflection Journal
+
+## Assignment 2
+
+Final copy: The Impact of Critical Thinking in my Leadership Context  Paper 
 
