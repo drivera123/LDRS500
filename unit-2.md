@@ -116,3 +116,11 @@ Once you have completed the three assessments skills, please prepare a 150 word 
 
 The skills model describes important competencies for leaders: problem-solving skills, social judgment skills, and knowledge. If you were to coach Dr. Wood using this model, what competencies would you address with him? What changes would you suggest that he make in his leadership Prepare and post a 500 word synthesis on your recommendation.
 
+**Due end of week 2**: Choose any story from **part one or two of the **_**Light from Many Lamps**_** anthology**, read and savour its message and prose. \(Don't worry about critically analysing it.\)
+
+1. identify the leadership lesson it tells;
+2. explain its impact/relevance to _your life and practice_ of leadership in your context;
+3. write a 2-3 paragraph response in your blog containing 1 and 2.
+
+
+
