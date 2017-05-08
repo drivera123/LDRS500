@@ -142,5 +142,9 @@ Searle, T.P. and Barbuto, J.E. \(2011\). Servant Leadership, Hope, and Organizat
 
 ## Assignment 3
 
-Reflection Journal 
+Reflection Journal
+
+## Assignment 2
+
+Peer Review: The Impact of Critical Thinking in my Leadership Context  Paper 
 
