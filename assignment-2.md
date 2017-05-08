@@ -2,11 +2,11 @@
 
 Critical thinking is an essential component of leadership because there is an intelligence to practice. This practical wisdom or phronesis is an intellectual virtue incorporating discernment and judgment and is enhanced through practice. How does a leader in your context incorporate critical thinking?  To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org  These should give you enough information. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
 
-Due:
+Due: 
 
-* rough draft - week 7
-* peer review - week 8
-* final draft - week 9
+* rough draft - week 3
+* peer review - week 4
+* final draft - week 5
 
 * [ ] ADD intro APA
 
@@ -42,8 +42,6 @@ Includes a clear illustrative example for each point of significance. \(4 points
 
 Substantive response to two papers by colleagues in the class \(4 points\)
 
-
-
 **Peer Review Protocol**
 
 Post paper to forum.
@@ -62,17 +60,13 @@ D. Participate: Peer critique is a process to support each other, and your feedb
 
 E. When critiquing a peer’s work, use “I” statements. For example, “I’m confused by this part,” rather than “This part makes no sense.” Remember the three important phrases:
 
- A. “I notice….”
+A. “I notice….”
 
- B. “I wonder….”
+B. “I wonder….”
 
- C. “If this were my work, I would….”
+C. “If this were my work, I would….”
 
- D. Use questions whenever possible. For example, “I’m curious why you chose to begin with…?”,  or “Did you consider adding…?”
-
-
+D. Use questions whenever possible. For example, “I’m curious why you chose to begin with…?”,  or “Did you consider adding…?”
 
 Each person revises their paper according to the feedback.
-
-
 
