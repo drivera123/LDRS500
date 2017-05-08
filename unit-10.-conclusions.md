@@ -1,3 +1,5 @@
+## Overview
+
 The essential questions this course has sought to answer are:
 
 What is leadership?
@@ -16,34 +18,51 @@ T**hree fundamental and powerful concepts of LDRS 500 are:**
 
 ![](/assets/import.png)
 
-At the end of this threshold course you should now be able to clarify your understanding of the logic of the discipline of Leadership by considering:
+## Learning Outcomes
 
-What is the p**urpose or goal of studying leadership – what are leaders trying to accomplish?**
+At the end of this threshold course students should be able to: 
 
-What q**uestions do leaders ask and what problems do leaders try to solve?**
+Clarify their understanding of the logic of the discipline of Leadership
 
-How is **Information or data gathered and what sorts of information/**
+Define the purpose or goal of studying leadership
 
-What judgments do leaders need to make? What interpretations and inferences are involved?
+Describe the types of questions leaders ask and what problems leaders try to solve.
 
-What are the e**ssential Concepts – basic ideas or theories of leadership?**
+Assess what kind of information leaders gather and how. 
 
-What a**ssumptions do leaders take for granted?**
+Define the essential Concepts – basic ideas or theories of leadership.
 
-What are the i**mplications and consequences of leadership studies for everyday life?**
+Explain the implications and consequences of leadership studies for everyday life.
 
-What p**oint of view is fostered in leadership?**
+Justify the point of view fostered in transformational servant leadership.
+
+Explain the most basic ideas you are learning about leadership and define its most basic vocabulary. 
+
+Explain the extent to which the subject of leadership involves a great deal of expert disagreement or very little expert disagreement.
+
+Relate the subject of leadership to significant problems in the world and within your own organization.
+
+Explain to what extent thinking in the field of leadership has helped you to become more intellectually humble, perseverant, autonomous, clear, relevant and reasonable.
 
 In a spirit of inquiry, we encourage you to revisit these questions and add to your answers throughout the program.  This will enhance your conceptual framework of leadership and understanding of the logic of the discipline.
 
-·**At the end of the course you should be able to**
+## Learning Activity
 
-* explain the most basic ideas you are learning about leadership who don't understand it and define its most basic vocabulary. 
-* explain the extent to which the subject of leadership involves a great deal of expert disagreement or very little expert disagreement.
-* relate the subject of leadership to significant problems in the world and within your own organization.
-* explain to what extent thinking in the field of leadership has helped you to become more intellectually humble, perseverant, autonomous, clear, relevant and reasonable.
 
-**Final Learning Activity**
 
-Think about what you have learned from this course and choose one related quote that is meaningful for you.  What are two course learnings _that have impacted your practice_?  Explain on two paragraphs on the discussion forum and close with your quote.
+Think about what you have learned from this course and choose one related quote that is meaningful for you.  What are two course learnings _that have impacted your practice_?  Explain in two paragraphs in your blog and close with your quote.
+
+
+
+## Assessment
+
+Due end of week 10: Choose any story from part nine or ten of the _Light from Many Lamps_ anthology, read and savour its message and prose. \(Don't worry about critically analysing it.\)
+
+
+
+1. identify the leadership lesson it tells;
+2. explain its impact/relevance to your life and practice of leadership in your context;
+3. write a 2-3 paragraph response in your blog containing 1 and 2.
+
+
 
