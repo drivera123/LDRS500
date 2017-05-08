@@ -34,7 +34,7 @@ Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Tho
 
 4. Choose three principles of Servant Leadership and give an example of each principle. Which of these three will be most challenging for you to consistently realize in your practice? Close with one question that invites further comment and discussion.
 
-6.  Skim-read Northouse chapters 2,3,4,5. Complete the surveys at the end of each chapter and review/analyze the results for your own information and personal growth.
+5. Skim-read Northouse chapters 2,3,4,5. Complete the surveys at the end of each chapter and review/analyze the results for your own information and personal growth.
 
 ## ![](file:///C:\Users\Adrienne\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png "Text Box: – 5 –")**Personal Inventory of Servant-Leader Characteristics**
 
@@ -68,13 +68,13 @@ none
 
 ## Assessment
 
-## Assignment 1  
+## Assignment 1
 
 ### \*\*[Follow the Leader](assignment-1.md)
 
 #### Due: End Week 1\*\*
 
-## Assignment 2
+## Assignment 3
 
-Read and respond to at least one other blog post. Try to read several of your colleagues’ posts to gain a variety of perspectives and to get to know one another in this learning community.
+Reflection Journal 
 

@@ -20,7 +20,7 @@ T**hree fundamental and powerful concepts of LDRS 500 are:**
 
 ## Learning Outcomes
 
-At the end of this threshold course students should be able to: 
+At the end of this threshold course students should be able to:
 
 Clarify their understanding of the logic of the discipline of Leadership
 
@@ -28,7 +28,7 @@ Define the purpose or goal of studying leadership
 
 Describe the types of questions leaders ask and what problems leaders try to solve.
 
-Assess what kind of information leaders gather and how. 
+Assess what kind of information leaders gather and how.
 
 Define the essential Concepts – basic ideas or theories of leadership.
 
@@ -36,7 +36,7 @@ Explain the implications and consequences of leadership studies for everyday lif
 
 Justify the point of view fostered in transformational servant leadership.
 
-Explain the most basic ideas you are learning about leadership and define its most basic vocabulary. 
+Explain the most basic ideas you are learning about leadership and define its most basic vocabulary.
 
 Explain the extent to which the subject of leadership involves a great deal of expert disagreement or very little expert disagreement.
 
@@ -48,21 +48,17 @@ In a spirit of inquiry, we encourage you to revisit these questions and add to y
 
 ## Learning Activity
 
-
-
 Think about what you have learned from this course and choose one related quote that is meaningful for you.  What are two course learnings _that have impacted your practice_?  Explain in two paragraphs in your blog and close with your quote.
-
-
 
 ## Assessment
 
 Due end of week 10: Choose any story from part nine or ten of the _Light from Many Lamps_ anthology, read and savour its message and prose. \(Don't worry about critically analysing it.\)
 
-
-
 1. identify the leadership lesson it tells;
 2. explain its impact/relevance to your life and practice of leadership in your context;
 3. write a 2-3 paragraph response in your blog containing 1 and 2.
 
+## Assignment 3
 
+Reflection Journal 
 

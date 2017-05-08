@@ -200,7 +200,7 @@ Rank-Talk-Write Purpose
 
 2. Rank the summary sentences in order of importance \(“1” next to most important, “2” and “3” next to the second and third most important summaries of each concept.\)
 
-3. Post to the discussion forum with a one or two paragraph summary of the chosen text. 
+3. Post to the discussion forum with a one or two paragraph summary of the chosen text.
 
 4. Read other's summaries and post comments about at least two.
 
@@ -240,5 +240,7 @@ To prime your thinking, view the following videos \(total of just under 25 minut
 * Includes a clear illustrative example for each point of significance. \(4 points\)
 * Substantive response to two papers by colleagues in the class \(4 points\)  \*I want students to read each others' papers - these marks are part of the assignment not for participation marks.  Students would post papers to an open discussion forum and respond to one another.
 
+## Assignment 3
 
+Reflection Journal 
 

@@ -1,14 +1,6 @@
-**Reflective Responses to Light from Many Lamps 20%**
-
-  
-  
-
+**Responses to Light from Many Lamps 20%**
 
 Watson, L.E. \(1951\). _Light from Many Lamps_. New York: Simon and Schuster. \*Available from Amazon in new editions.
-
-  
-  
-
 
 Due end of week 2: Choose any story from**part one or two of the anthology**, read and savour its message and prose. \(Don't worry about critically analysing it.\)
 
@@ -24,25 +16,15 @@ Due end of week 8: As above with**part seven or eight of the anthology**.
 
 Due end of week 10: As above with**part nine or ten of the anthology**.
 
-
-
 Before you publish your post, make sure you add it to the category 'LDRS500' and tag it with ‘Reflective Responses to Light from Many Lamps’.
-
-
 
 **Criteria and Evaluation**
 
-**All evaluation in MA LEAD is to follow this rubric – based on the assignment it would be applied differently. I suggest below how it would apply to the assignment.**  
-  
-
+**All evaluation in MA LEAD is to follow this rubric – based on the assignment it would be applied differently. I suggest below how it would apply to the assignment.**
 
 **GRADING SYSTEM:MA Lead/MAEL Grading Rubric**
 
 In an effort to ensure consistency in the MAL assignment of grades and to inform graduate students of assessments of the quality of work at the graduate level, the following interpretation of grades in assignments and courses offers a guideline.
-
-  
-  
-
 
 | **Letter Grade** | **%** | **GradePointValue** | **Meaning in Graduate Work Note:**For assignments that meet criteria in several categories, instructors will assign an average grade. |
 | :--- | :--- | :--- | :--- |
@@ -53,16 +35,6 @@ In an effort to ensure consistency in the MAL assignment of grades and to inform
 | **B** | 75-79 | 3.0 | Competent development of position, but possibly with some gaps and/or limitations. Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws. |
 | **B-** | 70-74 | 2.7\* | Unimpressive development of position. Position not completely consistent with personal vision or references and resources not taken fully into account or examples are basic or not completely convincing or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses \(e.g., clarity, coherence, grammar\). Overall quality shows noticeable deficiencies. |
 | **C** | &lt;70 | 2.0 | Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
-
-  
-  
-
-
-  
-  
-
-
-
 
 Criteria and Evaluation /20
 
@@ -78,29 +50,15 @@ Criteria and Evaluation /20
 
 0 No attempt made at the assignment
 
+\*\*Responses to colleagues posts graded holistically/weeks 2-10 /5.
 
-
-**Responses to colleagues posts graded holistically/weeks 2-10 /5.  
-  
-**
-
-
+\*\*
 
 Once you have published your own post, respond to one or two of your colleagues' posts. If your colleague's blog does not allow comments, write your response as a single new post on your own blog and make sure to link to your colleagues' posts. \(5 points\)
-
-
 
 Emerging \(.5-1.5 point\) Responds minimally to peers and does not offer, or minimally offers, any insight into their peer’s response.
 
 Developing \(2-3 points\) Responds with some to good thoughtfulness to their peer’s response but does not, or minimally offers, peers thoughtful feedback.
 
 Mastering \(4-5 points\) Responds thoughtfully with depth of critical thinking to their peer’s response and offers rich and helpful feedback.
-
-
-
-
-
-
-
-
 

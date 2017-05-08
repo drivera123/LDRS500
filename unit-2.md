@@ -122,5 +122,7 @@ The skills model describes important competencies for leaders: problem-solving s
 2. explain its impact/relevance to _your life and practice_ of leadership in your context;
 3. write a 2-3 paragraph response in your blog containing 1 and 2.
 
+## Assignment 3
 
+Reflection Journal 
 
