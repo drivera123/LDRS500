@@ -70,7 +70,7 @@ In reflecting on the article “A Corporate Training View of Ethics Education”
 3. Do you believe, as Mr. Seidman states, that the global economy can make organizations amoral?
 4. Explain how shifting from a program approach of ethics training to a cultural approach to ethical behavior would work in your institution, school, organization, etc.
 
-## Assignment 3
+## 
 
-Reflection Journal 
+
 
