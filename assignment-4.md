@@ -2,7 +2,7 @@
 
 In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
 
-This assignment asks you to develop a story in a video or podcast that you can take with you into future leadership situations.  Follow author Don Miller's story structure: mystorybrand.com  At the website you'll find a handy template to guide and frame your thoughts.  Here is a summary of the seven elements:
+This assignment asks you to develop a story in a video or podcast that you can take with you into future leadership situations.  Follow author Don Miller's story structure: [mystorybrand.com](http://mystorybrand.com)  At the website you'll find a handy template to guide and frame your thoughts.  Here is a summary of the seven elements:
 
 1.Character in the story has to want something – you need to say it clearly and defined manner. We need to define what our customer wants.
 
