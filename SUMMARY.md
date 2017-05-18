@@ -23,6 +23,7 @@
 * [Resources](resources.md)
   * [Leadership Competencies](leadership-competencies.md)
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
+  * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
 * [Learner Profile](learner-profile.md)
 * [Alignment](alignment.md)
 
