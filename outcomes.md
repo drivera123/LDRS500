@@ -5,5 +5,5 @@
 5. The learner will be able to create tools for assessing and developing Transformational Servant-Leadership abilities and appropriate styles of leadership in any organization.
 6. The learner will be able to integrate the tools into the selection of appropriate leadership principles and practices that are lived out within religious and secular context 
 
-I'm not convinced the word "tools" in points 5 and 6 is a good one.... 
+I'm not convinced the word "tools" in points 5 and 6 is a good one....  perhaps 'create methods of' in 5 and 'integrate methods into the selection....
 
