@@ -64,7 +64,7 @@ Take the Gender-Leader Implicit Association test in Northouse chapter 15 and rea
 
 1. identify the leadership lesson it tells;
 2. explain its impact/relevance to your life and practice of leadership in your context;
-3. write a 2-3 paragraph response in your blog containing 1 and 2.
+3. write a 2-3 paragraph response in your blog containing 1 and 2. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
 
 **Due end of week 8:**
 
