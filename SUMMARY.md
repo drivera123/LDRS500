@@ -11,6 +11,8 @@
     * [Assignment 5](assignment-5.md)
     * [Assignment 6](assignment-6.md)
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
+* [Unit 1 Learning Activities](unit-1-learning-activities.md)
+* Unit 1 Assessment
 * [Unit 2. Themes, Theories, and Concepts ](unit-2.md)
 * [Unit 3. Values-Based Leadership and Critical Thinking](unit-3.-values-based-leadership-and-critical-thinking.md)
 * [Unit 4. Transformative and Servant Leadership](unit-4.-transformative-and-servant-leadership.md)
@@ -25,6 +27,5 @@
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
   * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
 * [Learner Profile](learner-profile.md)
-* [Alignment](alignment.md)
-* [Unit 1 Learning Activities](unit-1-learning-activities.md)
+* Unit 1 Assessment
 
