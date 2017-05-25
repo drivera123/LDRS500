@@ -4,17 +4,17 @@ In the transformational leadership model we learn how important it is for a lead
 
 This assignment asks you to develop a story in a video or podcast that you can take with you into future leadership situations.  Follow author Don Miller's story structure: [mystorybrand.com](http://mystorybrand.com)  At the website you'll find a handy template to guide and frame your thoughts.  Here is a summary of the seven elements:
 
-1.Character in the story has to want something – you need to say it clearly and defined manner. We need to define what our customer wants.
+1.Character in the story has to want something – you need to say it clearly in a defined manner. 
 
-2.There needs to be a problem. When you solve the problem the stories over – the problem IS the story. Talk about the problem – it’s the heart of the story.
+2.There needs to be a problem. When you solve the problem the story is over – the problem IS the story. Talk about the problem – it’s the heart of the story.
 
-3.If the hero can solve their own problem the audience will check out. There needs to be another character into the story. Eg. Dan  told a story about his mentor's influence on his life. The purpose of the story is to be ‘the guy’ not to be the hero. You should be able to go to the website of a company and find my story – not just the story of the company.
+3.If the hero can solve their own problem the audience will check out. There needs to be another character into the story. 
 
-4.Plan for the hero to win the day – break down business processes into simple steps. People choose clarity and simplicity.
+4.Plan for the hero to win the day – Break down into simple steps - choose clarity and simplicity.
 
-5.Call to action – eg ‘Buy Now’ button on the top of the website – communicate the ‘to do’ clearly.
+5.Call to action – eg ‘Buy Now’ button on the top of the website – communicate the ‘to do’ clearly. What do you want the people listening to think or do differently as a result of hearing this story?
 
-6.Paint a picture of what life can look like if the do the action or follow the advice. Make it a clear sound bite. Ex Kennedy didn’t say elect me and I’ll build a competitive space program he said I’m going to put a man on the moon.
+6.Paint a picture of what life can look like if the do the action or follow the advice. Make it a clear sound bite. Eg Kennedy didn’t say elect me and I’ll build a competitive space program he said I’m going to put a man on the moon.
 
 7.Define what’s at stake.  Drive home the big idea and purpose of the story.
 
