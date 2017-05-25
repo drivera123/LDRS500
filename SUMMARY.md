@@ -26,4 +26,5 @@
   * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
 * [Learner Profile](learner-profile.md)
 * [Alignment](alignment.md)
+* [Unit 1 Learning Activities](unit-1-learning-activities.md)
 
