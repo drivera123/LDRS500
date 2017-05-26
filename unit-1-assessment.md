@@ -61,13 +61,7 @@ Developing \(1-1.5 points\) Responds with some to good thoughtfulness to their p
 
 Mastering \(2 points\) Responds thoughtfully with depth of critical thinking to their peer’s response and offers rich and helpful feedback.
 
-## Ken's Suggestion
 
-| Category | Exceptional \(10 – 9\) | Very Good \(8 – 7\) | Adequate \(6–5\) | Unsatisfactory \(&lt; 5\) |
-| --- | --- | --- | --- | --- |
-| Argument | Argument is consistent and well laid out. Has no elements of inconsistency. Anticipates criticisms and provides counters arguments. | Argument is mostly  consistent and well laid out. Has one element of inconsistency. Anticipates criticisms and provides counters arguments. | Argument is mostly  consistent and well laid out. Has more than one element of inconsistency. Anticipates criticisms but provides no counter arguments. | Argument is mostly  inconsistent and not well laid out. Has more than one element of inconsistency. Does not anticipate criticisms. |
-| References | Uses 3 or more references that are very relevant and illustrative of position. | Uses 2 references that are very relevant and illustrative of position. | Uses 1 reference that is very relevant and illustrative of position. | References provided are not very relevant and text does not illustrate a deposition. |
-| Style and Grammar | Position is clearly articulated. No errors of style or grammar | Position is clearly articulated but contains up to two errors of style or grammar | Position is articulated with some inconsistency and contains up to four errors of style or grammar | Position is not clear and contains more than four errors of style or grammar |
 
 
 
