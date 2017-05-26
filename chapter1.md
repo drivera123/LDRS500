@@ -14,19 +14,15 @@ Your Birkman assessment and consultation helped you identify three competencies 
 
 At the end of this unit students will be able to:
 
-Analyze various definitions and construct their own preferred definition of leadership.
-
-Evaluate what contributes to effective leadership.
-
-Design a personal action plan for how they will improve their effectiveness as a leader.
+* Analyze various definitions and construct their own preferred definition of leadership.
+* Evaluate what contributes to effective leadership.
+* Design a personal action plan for how they will improve their effectiveness as a leader.
 
 ## **Resources**
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
 
-
 ## References
 
 none
-
 
