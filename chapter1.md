@@ -1,6 +1,6 @@
-# **Unit 1 Defining Leadership and the Essentials of Transformation**
+### **Unit 1 Defining Leadership and the Essentials of Transformation**
 
-## **Overview**
+##### **Overview**
 
 In this first unit a ‘big picture’ view of leadership is introduced. There is a focus on Transformational Servant Leadership and the personal competencies we need to hone to improve leadership.
 
@@ -10,7 +10,7 @@ As a program we draw on the leadership example of Jesus as the supreme example o
 
 Your Birkman assessment and consultation helped you identify three competencies to work on during the program. I suggest that you choose one of your strengths and two other opportunities for growth. As an applied program, we will constantly encourage you to relate concepts to practice. This focus on ‘praxis’ will help you to leverage your learning throughout the program and effect your personal transformation as well as the impact you want to make. You could be thinking about what you wish you could change given the chance or where you hope to be in five years. Let’s get started!
 
-## Learning Objectives:
+##### Learning Objectives:
 
 At the end of this unit students will be able to:
 
@@ -18,11 +18,11 @@ At the end of this unit students will be able to:
 * Evaluate what contributes to effective leadership.
 * Design a personal action plan for how they will improve their effectiveness as a leader.
 
-## **Resources**
+##### **Resources**
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
 
-## References
+##### References
 
 none
 
