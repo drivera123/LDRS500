@@ -15,7 +15,7 @@ Create a post on your own blog and answer the following questions about the lead
 
 Before you publish your post, make sure you add it to the category 'LDRS500' and tag it with 'Follow the Leader'.
 
-Once you have published your own post, respond to one or two of your colleagues' posts. If your colleague's blog does not allow comments, write your response as a single new post on your own blog and make sure to link to your colleagues' posts. 
+Once you have published your own post, respond to one or two of your colleagues' posts. If your colleague's blog does not allow comments, write your response as a single new post on your own blog and make sure to link to your colleagues' posts.
 
 #### **Criteria and Evaluation**
 

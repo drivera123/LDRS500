@@ -14,7 +14,7 @@
 * [Unit 1 Learning Activities](unit-1-learning-activities.md)
 * [Unit 1 Assessment](unit-1-assessment.md)
 * [Unit 2. Themes, Theories, and Concepts ](unit-2.md)
-* Unit 2 Learning Activities
+* [Unit 2 Learning Activities](unit-2-learning-activities.md)
 * [Unit 3. Values-Based Leadership and Critical Thinking](unit-3.-values-based-leadership-and-critical-thinking.md)
 * [Unit 4. Transformative and Servant Leadership](unit-4.-transformative-and-servant-leadership.md)
 * [Unit 5. Team Leadership](unit-5.-team-leadership.md)
@@ -28,5 +28,5 @@
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
   * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
 * [Learner Profile](learner-profile.md)
-* Unit 2 Learning Activities
+* [Unit 2 Learning Activities](unit-2-learning-activities.md)
 
