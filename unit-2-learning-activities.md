@@ -34,7 +34,5 @@ Jesus embodies each of these characteristics, in ways too numerous to write in o
 | 4.Closely supervises performance | 4.Involves the follower in decision making |
 | 5.Key words are structure control and supervise | 5.Key words are listen, praise and facilitate |
 
-**WHEN TO USE EACH STYLE**
-
-
+**WHEN TO USE EACH STYLE**![](/assets/WHEN TO USE EACH STYLE-1_1.jpg)![](/assets/SITUATIONAL VARIABLES IN DETERMINING THE APPROPRIATE LEADERSHIP STYLE TO USE.jpg)
 
