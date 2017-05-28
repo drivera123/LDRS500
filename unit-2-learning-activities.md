@@ -36,3 +36,54 @@ Jesus embodies each of these characteristics, in ways too numerous to write in o
 
 ![](/assets/WHEN TO USE EACH STYLE_1.jpg)![](/assets/WHEN TO USE EACH STYLE_2.jpg)
 
+#### **Learning Outcome - 3 Complete LTQ and Complete Style Questionnaire**
+
+**\(1\)Leadership Trait Questionnaire \(LTQ\)**
+
+Organizations use a wide variety of questionnaires to measure individuals’ personality characteristics. In many organizations, it is common practice to use standard personality measures such as the Minnesota Multiphasic Personality Inventory or the Myers-Briggs Type Indicator. These measures provide valuable information to the individual and the organization about the individuals’ unique attributes for leadership and where the individual could best serve the organization.
+
+In this section, the **Leadership Trait Questionnaire** \(LTQ\) is provided as an example of a measure that can be used to assess your personal leadership characteristics. The LTQ quantifies the perceptions of the individual leader and selected observers, such as subordinates or peers. It measures an individual’s traits and points the individual to the areas in which that individual may have special strengths or weaknesses. By taking the LTQ, you can gain an understanding of how trait measures are used for leadership assessment. You can also assess your own leadership traits.
+
+**Leadership Trait Questionnaire \(LTQ\)**
+
+Instructions: The purpose of this questionnaire is to measure personal characteristics of leadership. The questionnaire should be completed by the leader and five people who are familiar with the leader. Make five copies of this questionnaire. This questionnaire should be completed by you and five people you know \(eg., roommates, coworkers, relatives, friends\).
+
+Using the following scale, have each individual indicate the degree to which they agree or disagree with each of the fourteen statements below. Do not forget to complete one for yourself.
+
+**\(leader’s name\) is\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Key: 1 = Strongly Disagree2 = Disagree 3 = Neutral 4 = Agree 5 = Strongly Agree**
+
+![](/assets/Leadership Trait Questionnaire %28LTQ%29-Graph.jpg)  
+**\(2\)Leadership Instrument**
+
+Many questionnaires assess an individuals’ skills for leadership. A quick search of the Internet provides a host of these questionnaires. Almost all of them are designed to be used in training and development to give people a feel for their leadership abilities. Surveys have been used for years to help people understand and improve their leadership style, but most questionnaires are not used in research because they have not been tested for reliability and validity. Nevertheless, they are useful as self-help instruments because they provide specific information to people about their leadership skills.
+
+In this chapter, we present a comprehensive skills model that is based on many empirical studies of leaders’ skills. Although the questionnaires used in these studies are highly reliable and are valid instruments, they are not suitable for our more pragmatic discussion of leadership in this text. In essence, they are too complex and involved. For example, Mumford, Zaccaro, Harding, et al. \(200\) used measures that included open-ended responses and very sophisticated scoring procedures. Though critically important for validating the model, these complicated measures are less valuable as self-instruction questionnaires.
+
+A skills inventory is provided in the next section to assist you in understanding how leadership skills are measured and what your own skills might be. Your scores on the inventory will give you a sense of your own leadership competencies. You may be strong in all three skills, or you may be stronger in some skills than others. The questionnaire will give you sense of your own skills profile. If you are stronger in one skill and weaker in another, this may help you determine where you want to improve in the future.
+
+**Skills Inventory**
+
+Instructions: Read each item carefully and decide whether the item describes you as a person. Indicate your response to each item by circling one of the five numbers to the right of each item.
+
+**Leadership: Theory and Practice**
+
+**Key: 1 = Not True 2 = Seldom True 3 = Occasionally True 4 = Somewhat True 5 = Very True**
+
+![](/assets/Leadership Instrument-Graph.jpg)
+
+**\(3\)Style Questionnaire**
+
+Researchers and practitioners alike have used many different instruments to assess the styles of leaders. The two most commonly used measures have been the LBDQ \(Stogdill, 1963\) and the Leadership Grid \(Blake & McCanse, 1991\). Both of these measures provide information about the degree to which a leader acts task directed or people directed. The LBDQ was designed primarily for research and has been used extensively since the 1960s. The Leadership Grid was designed primarily for training and development; it continues to be used today for training managers and supervisors in the leadership process.
+
+To assist you in developing a better understanding of how leadership style is measured and what your own style might be, a leadership style questionnaire is included in this section. This questionnaire is made up of 20 items that assess two orientations: task and relationship. By scoring the style questionnaire, you can obtain a general profile of your leadership behavior.
+
+**Style Questionnaire**
+
+Instructions: Read each item carefully and think about how often you \(or the person you are evaluating\) engage in the described behavior. Indicate your response to each item by circling one of the five numbers to the right of each item.
+
+**Key: 1 = Never 2 = Seldom 3 = Occasionally 4 = Often 5 = Always**
+
+![](/assets/Style Questionnaire-Graph.jpg)
+
