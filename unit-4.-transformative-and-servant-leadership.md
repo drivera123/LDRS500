@@ -65,7 +65,7 @@ For this session, you will read the following two chapters from Northouse and po
 
 ·Discuss what other real-world leaders, past or present, could be considered transformational leaders.
 
-**Read Chapter 10: Servant Leadership in your textbook**. \(Prepare a 2OO word precis/synthesis. Post to forum.\)
+**Review Chapter 10: Servant Leadership in your textbook**. \(Prepare a 2OO word precis/synthesis. Post to forum.\)
 
 ·How is awareness in the servant leadership approach different from emotional intelligence, or self-awareness in the psychodynamic approach? Can you identify a person who exemplifies this component of the model?
 
