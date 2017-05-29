@@ -1,4 +1,4 @@
-# **UNIT4 Transformative and Servant Leadership**
+# **UNIT 4 Transformative and Servant Leadership**
 
 ## **Overview**
 
@@ -131,8 +131,6 @@ Searle, T.P. and Barbuto, J.E. \(2011\). Servant Leadership, Hope, and Organizat
     in this research article?
 2. How does positive micro-level behavior described in the article affect performance?
 3. Discuss hope in this article as is relates to positive psychology and servant leadership. Why is hope a significant psychological factor to use when studying servant leadership?
-
-
 
 **Due end of week 4**: Choose any story from part three or four of the _Light from Many Lamps_ anthology, read and savour its message and prose. \(Don't worry about critically analysing it.\)
 
