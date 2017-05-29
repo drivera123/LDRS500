@@ -30,4 +30,5 @@
   * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
 * [Learner Profile](learner-profile.md)
 * Alignment
+* [Grading](grading.md)
 
