@@ -54,11 +54,5 @@ Criteria and Evaluation /15
 
 \*\*
 
-Once you have published your own post, respond to one or two of your colleagues' posts. If your colleague's blog does not allow comments, write your response as a single new post on your own blog and make sure to link to your colleagues' posts. \(5 points\)
 
-Emerging \(.5-1.5 point\) Responds minimally to peers and does not offer, or minimally offers, any insight into their peer’s response.
-
-Developing \(2-3 points\) Responds with some to good thoughtfulness to their peer’s response but does not, or minimally offers, peers thoughtful feedback.
-
-Mastering \(4-5 points\) Responds thoughtfully with depth of critical thinking to their peer’s response and offers rich and helpful feedback.
 
