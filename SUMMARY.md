@@ -2,7 +2,6 @@
 
 * [Syllabus](README.md)
   * [Outcomes](outcomes.md)
-* [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Assignments](assignments.md)
   * [Blogging](blogging.md)
   * [Assignment 1](assignment-1.md)
@@ -12,6 +11,7 @@
   * [Assignment 5](assignment-5.md)
   * [Assignment 6](assignment-6.md)
   * [Alignment](alignment.md)
+* [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 1 Learning Activities](unit-1-learning-activities.md)
 * [Unit 1 Assessment](unit-1-assessment.md)
 * [Unit 2 – Themes, Theories and Concepts](unit-2-themes-theories-and-concepts.md)
