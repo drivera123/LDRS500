@@ -36,7 +36,7 @@ In an effort to ensure consistency in the MAL assignment of grades and to inform
 | **B-** | 70-74 | 2.7\* | Unimpressive development of position. Position not completely consistent with personal vision or references and resources not taken fully into account or examples are basic or not completely convincing or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses \(e.g., clarity, coherence, grammar\). Overall quality shows noticeable deficiencies. |
 | **C** | &lt;70 | 2.0 | Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course. |
 
-Criteria and Evaluation /20
+Criteria and Evaluation /15
 
 **Each biweekly post graded out of 3 points for a total of 15 points.**
 
