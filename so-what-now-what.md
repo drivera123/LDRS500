@@ -1,6 +1,6 @@
-# Unit 8
+### Unit 8
 
-## Overview
+##### Overview
 
 In this unit you will consider the particular role and challenges faced by women in leadership. You will read about the complex path to leadership for women and consider·the research concerning gender and leadership styles, the obstacles encountered and how leaders can work towards leveling the playing field for men and women.
 
@@ -14,7 +14,7 @@ How can leaders level the playing field so that both women and men can have equa
 
 The issue of gender equality in leadership needs to be addressed at the individual, interpersonal, organizational and societal levels. A more androgynous conception of leadership focusing on best practice is what is needed. How might leaders embrace the challenge? During the MA Lead program you have an opportunity to recognize your potential as a leader to transform the culture and spark social change, and be leaders who will work to achieve gender equality. Through education that builds competence and confidence, women are mentored towards a leadership approach that is inclusive and transformative. It’s an approach that helps women find their voice and their style while focusing on issues that are relevant and about which they are passionate to make a difference. Once women gain in their competence and confidence they have what is needed to navigate the labyrinth of being a woman in leadership. Whether you are a woman or not, this is a contemporary issue that all leaders need to be aware of and willing to address in their context.
 
-## Learning Outcomes
+##### Learning Outcomes
 
 **By the end of this unit students will be able to:**
 
@@ -24,7 +24,7 @@ Define the obstacles encountered by women leaders.
 
 Describe how leaders level the playing field so that both women and men can have equal opportunities to make meaningful contributions in leadership.
 
-## Resources
+##### Resources
 
 Castellon, A. \(Ed\) \(2016\). _Three Questions: The challenges of being a woman in leadership_. Unpublished manuscript.
 
@@ -48,7 +48,7 @@ Kaley, M. \(1971\). Attitudes toward the dual role of the married professional w
 
 Nugent, J., Pollack, A. & D. Travis, \(2016\). _The Day to day experiences of workplace inclusion and exclusion_. Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
 
-## Learning Activities
+##### Learning Activities
 
 **Learning Activity \#1 **
 
@@ -58,7 +58,7 @@ Read the 3 brief case studies in Northouse chapter 15. Post a response in your b
 
 Take the Gender-Leader Implicit Association test in Northouse chapter 15 and read through the Catalyst \(2016\) report for practical inclusion ideas . In your blog write about how you can foster recognition and a sense of belonging for women in your workplace. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
 
-## Assessment
+##### Assessment
 
 **Due end of week 8**: Choose any story from part seven or eight of the Light from Many Lamps anthology, read and savour its message and prose. \(Don't worry about critically analysing it.\)
 
@@ -76,11 +76,11 @@ Please email Adrienne.castellon@twu.ca , provide your answers to the three resea
 2. What is something that you do that helps you to meet or deal with this challenge?
 3. Do you have any other advice or encouragement for women in leadership?
 
-## Assignment 3
+##### Assignment 3
 
 Reflection Journal
 
-## Assignment 6: 3 questions Women in Leadership
+##### Assignment 6: 3 questions Women in Leadership
 
 
 

@@ -1,14 +1,12 @@
+### **Unit 2 – Themes, Theories, and Concepts**
 
-
-# **Unit 2 – Themes, Theories and Concepts**
-
-### **Overview**
+##### **Overview**
 
 In week two our will focus will be on historical and current models of leadership theory and practice to build competency in adaptability and change. Furthermore, we examine concepts including the roles of essential leadership, framework of assessing leadership, the role of innate qualities and characteristics in how they are integrated appropriately in leadership practices.The essence of leadership is the process of influencing people, within a group with the attention toward a common goal. \(Northouse p 5,6\) **What is the difference between leadership theory and values?** Theories are research definitions and with measurable methodologies. Values are the key components that everyone agrees are essential to effective leadership
 
 In their book Understanding research: A consumer’s Guide, Plano Clark and Creswell define theory as something that “explains and predicts the probable relationship among different concepts \(variables\)” \(Plano Clark & Creswell, 2015, p. 490\). We could regard that is part of the learning process. If we poke this object with a stick in the side it should move that way. Theories are made by researchers and proven and disproven through experiments and reported to us in research studies.Northouse states that leadership takes many forms from liaise-faire to transformational \(p190\). The liaise-faire approach can be defined as hands off, distance or leadership through avoidance. Transactional is management by exception \(active or passive\), contingent reward etc. The final form which we will aspire to is transformational leadership.
 
-#### **Learning Objectives**
+##### **Learning Objectives**
 
 At the end of this unit the students will be able to
 
@@ -17,7 +15,7 @@ At the end of this unit the students will be able to
 3. Gain and develop a framework for assessing leadership and understand how actions towards others occur on a task level and on a relationship level.
 4. Understand that leadership is composed of both directive and a supportive dimension, recognizing what employees need and then adapting their own style to meet those needs.
 
-#### **Resources**
+##### **Resources**
 
 **Textbook**
 

@@ -1,6 +1,6 @@
-# **Unit 5: Team Leadership**
+### **Unit 5: Team Leadership**
 
-### **Overview**
+##### **Overview**
 
 In Unit 5 Team Leadership, our focus looks at both the internal and external actions of an effective team and requirements of leadership as partnership.The purpose of this module is to critically think through these leadership frameworks along with team-based models and apply them to leadership context. This unit builds competency in innovation, adaptability and change, higher-ordered analysis, values and ethics, relationships and collaboration, team leadership, and people development. Please review the MA Leadership Monograph and Competencies for continued study on how these all fit together.
 
@@ -40,7 +40,7 @@ Spears, Larry C. \(2010\) Character and Servant Leadership: Ten Characteristics 
 
 Page, Don and Wong, Paul T. P. \(nd\)A Conceptual Framework for Measuring Servant-Leadership, Trinity Western University, Langley, B. C, Canada.Available on Research Gate from: [https://www.researchgate.net/publication/242232213\_A\_Conceptual\_Framework\_for\_Measuring\_Servant-Leadership](https://www.researchgate.net/publication/242232213_A_Conceptual_Framework_for_Measuring_Servant-Leadership)
 
-### **Learning Activities**
+##### **Learning Activities**
 
 **Unit 5 Specific Learning Outcomes**
 
@@ -127,5 +127,5 @@ Reflection Journal
 
 ## Assignment 2
 
-Final copy: The Impact of Critical Thinking in my Leadership Context  Paper 
+Final copy: The Impact of Critical Thinking in my Leadership Context  Paper
 

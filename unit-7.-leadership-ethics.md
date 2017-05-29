@@ -1,6 +1,6 @@
-## Unit 7 Leadership Ethics
+### Unit 7 Leadership Ethics
 
-### Overview
+##### Overview
 
 In Unit \# 7 we turn our attention to an integrated approach in looking at issues that arise in leadership situations, while addressing the principles of ethical leadership, perspectives of ethical leadership from a value-based transformational servant leadership approach. This module builds competency in visioning, strategic thinking, innovation, and team leadership. Please review the MA Leadership Monograph and Competencies for continued study on how these all fit together.
 
@@ -22,7 +22,7 @@ Maxwell, J. C. \(1993\). Develop the Leader Within. Nashville: Thomas Nelson.
 
 Wong, P. T., & Davey, D. \(2007\). Best practices in servant leadership. Virginia Beach VA: School of Global Leadership and Entrepreneurship. Retrieved from [https://www.regent.edu/acad/global/publications/sl\_proceedings/2007/wong-davey.pdf](https://www.regent.edu/acad/global/publications/sl_proceedings/2007/wong-davey.pdf)
 
-## Resources
+##### Resources
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409  
 Chapter 13 Leadership Ethics
@@ -32,7 +32,7 @@ Chapter 15- Ethical Leadership
 Learning Activities  
 Learning
 
-## Outcomes
+##### Outcomes
 
 Understanding and answering the questions, what are the moral implications of leadership behavior? How are different leadership styles related to ethics of conduct? What are the factors that determine ethical leadership? The module offers insight in answer these questions by exploring the theories of ethics and leadership and attempting to relate the various leadership styles to extant ethical viewpoints.  
 To examine the important role that leaders have in directing, guiding, and shaping organizations. Think critically and systematically about self-leadership and the leader’s impact on people and organizations to build competency in adaptability and change, ethics and values, and innovation.  
@@ -41,13 +41,13 @@ leadership principles and practices as leadership is lived out in a context to b
 
 Learning Activities are the ungraded things that students do to. They include:
 
-### Read
+##### Read
 
 1. Wang, G., Oh, I. S., Courtright, S. H., & Colbert, A. E. \(2011\). Transformational leadership and performance across criteria and levels: A meta-analytic review of 25 years of research. Group & Organization Management, 36\(2\), 223-270.[http://gom.sagepub.com/content/36/2/223.full.pdf+html?ijkey=DK8XJiNcnahuU&keytype=ref&siteid=spgom](http://gom.sagepub.com/content/36/2/223.full.pdf+html?ijkey=DK8XJiNcnahuU&keytype=ref&siteid=spgom)
 2. Avolio, B. & Gardner, W. \(2005\). Authentic leadership development: Getting to the root of positive forms of leadership. Leadership Quarterly, 16, 315-338.
 3. Thompson, K. R. \(2007\). A corporate training view of ethics education: An interview with Dov L. Seidman, CEO of LRN. Journal of Leadership & Organizational Studies, 13\(3\), 79-91. [http://jlo.sagepub.com/content/13/3/79.full.pdf+html?ijkey=r6EqaD4mQg2nU&keytype=ref&siteid=spjlo](http://jlo.sagepub.com/content/13/3/79.full.pdf+html?ijkey=r6EqaD4mQg2nU&keytype=ref&siteid=spjlo)
 
-### Watch
+##### Watch
 
 Learning Activity \#1 - Watch video: What is Ethical Leadership?  After your view please elaborate on ways that you have found help and can recommend to enable your organization to grow and flourish. [https://www.youtube.com/watch?v=ks2QGoIq5nA](https://www.youtube.com/watch?v=ks2QGoIq5nA)  
 Post / Discuss
@@ -55,7 +55,7 @@ Post / Discuss
 1. In the article “Transformational Leadership and Performance Across Criteria and Levels” What are the main implications for managers in the article? How can you use this information to become a better leader? 
 2. Define and describe the principles of ethical leadership.  Which 2 of the 5 covered in Northouse Chapter 13 do you think are the most important? Why?   
 
-### Assessment
+##### Assessment
 
 In the article entitled A corporate training view of ethics education: An interview with Dov L. Seidman, CEO of LRN \(Thompson, 2007\) graduate student Kenneth R. Thompson of DePaul University presents an in-depth discussion about ethics, organizational culture, education, and corporate governance solutions with Dov L. Seidman, Chief Executive Officer of LRN \(pp. 79-91\). The quote,
 

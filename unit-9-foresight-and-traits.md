@@ -1,10 +1,10 @@
 ### **Unit 9 Foresight and Traits**
 
-### **Overview**
+##### **Overview**
 
 In Unit 9 we turn our attention to Foresight and the traits of a successful value-based transformational servant leader. The fact that values-based transformational servant leaders have important moves to make such as casting vision, setting mission and strategy, developing values, etc. remains at the heart of transformational servant leadership. The purpose of this unit is to critically think through important roles that leaders have in guiding and developing people and organizations. Enable learners to critically think through organizations, how they function, and how leaders function within them. This unit builds competency in strategic thinking, planning and organizing, adaptability and change, ethics and values, innovation, team leadership and collaboration.
 
-### **Resources**
+##### **Resources**
 
 1.Caldwell, C., Dixon, R., Floyd, L., Chaudoin, J., Post, J., & Cheokas, G. \(2016\). Transformative Leadership: Achieving Unparalleled Excellence. Journal Of Business Ethics, \(Preprints\), 1-13.
 
@@ -20,7 +20,7 @@ Malgeri, J. \(2010\). Organizational foresight and stewardship.Public Manager,39
 
 4.[Southwestern Airlines \(A\) Stanford Business School Case HR1-A](Southwestern Airlines %28A%29 - Case Study..pdf)
 
-#### **Learning Activities**
+##### **Learning Activities**
 
 **Specific Learning Outcomes**
 
@@ -32,7 +32,7 @@ Malgeri, J. \(2010\). Organizational foresight and stewardship.Public Manager,39
 
 Learning Activities are the ungraded things that students do to. They include:
 
-#### **Read / Review**
+##### **Read / Review**
 
 PowerPoints on the **Four Components of Foresight**
 
@@ -46,17 +46,17 @@ In the article, Organizational Foresight and Stewardship, Malgeri \(2010\) defin
 
 ![](/assets-3/import.png)
 
-#### **Watch - YouTube Videos**
+##### **Watch - YouTube Videos**
 
 **John Smart-Leadership of Tech Change-WFS 2013**[https://www.youtube.com/watch?v=QhdWqLNUJns](https://www.youtube.com/watch?v=QhdWqLNUJns)
 
 **Keys to Success from Jack Ma- Self Made Billionaire and CEO of Alibaba**[https://www.youtube.com/watch?v=9WjHZ5wLe6w](https://www.youtube.com/watch?v=9WjHZ5wLe6w)
 
-#### **Post / Discuss**
+##### **Post / Discuss**
 
 The two YouTube videos show how all organizations must deal with environmental uncertainty. One recent change in our culture is an increased reliance on technology, especially for communication and transacting business. Consider various organizations, such as the United States Postal Service, Canada Post and retail businesses such as Walmart. How have they responded to these changes? What are some positive and negative consequences of these changes? Would you have done anything differently?
 
-### **Assessment**
+##### **Assessment**
 
 In the article, Southwestern Airlines \(A\) Stanford Business School Case HR1-A.Please provide an integrative reflection of how hiring, performance management, incentives, work design \(teams\), and leadership all support one another and provides an opportunity to warn against attempts to just change one element without an understanding of how they all work together.
 

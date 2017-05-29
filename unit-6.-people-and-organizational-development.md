@@ -1,6 +1,6 @@
-## Unit 6 People and Organizational Development
+### Unit 6 People and Organizational Development
 
-## Overview
+### Overview
 
 This unit is about how a leader supports personal development of followers.  This assumes acknowledging that individuals are valuable and it is a good idea to invest time and resources in them. People development is one of the competencies transformational servant leaders nurture as they help people develop and perform as highly as possible. Based on the commitment to and the responsibility for the development of others, transformational servant leaders consistently promote the ongoing learning of members in their communities. Furthermore, in order to effectively support the developmental needs of members, transformational servant leaders consider appropriate strategies. People development should be approached through systematic, collaborative, and job-embedded processes based on people-centered principles. Such an approach will help promote a positive culture and create positive change in organizations. Supporting people development is the core strategy in producing right results at both personal and organizational levels.
 
@@ -38,7 +38,7 @@ Sokal and Sharma \(2014\), through their review of literature around effective p
 
 To be a transformational servant leader is to develop people and recognize that one person will never possess all the information necessary to make the best decisions, nor have all the skills necessary to run an organization by him/herself. The wisdom is often ‘in the room’ – even among the participants. We must willingly seek input and collaboration with stakeholders. This strengthens both the quality of our decisions and the buy-in of those who will carry out those decisions. Acknowledging our personal limitations as leaders is probably the single most important step toward creating a safe, enjoyable, effective and democratic environment. Transformative learning is not an individual process but rather a personal process that is carried out in ‘integrally webbed totalities’ \(O’Sullivan, 2003 in Merriam S. & Grace A.P., p.328\). Our personal growth and transformation impacts others. As a result of this course or program, you may change the way you make decisions which in turn, affects all of the people in this web differently than they may have otherwise been impacted.
 
-## Learning Objectives
+##### Learning Objectives
 
 By the end of the unit students will be able to :
 
@@ -54,7 +54,7 @@ Design the outline of an employee development plan for their organization.
 
 Generate and list at least three methods for the use of technology in employee development.
 
-## Resources
+##### Resources
 
 Kandampully, J., Bilgihan, A., Tingting, C. \(2016\).Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier. Retrieved from:
 
@@ -74,7 +74,7 @@ Rockwell, D. \(2017, March 17\) The Anatomy of Performance Enhancing Coaching Co
 
 [https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/)
 
-## References  \*These are not assigned readings but references to the notes above.
+##### References  \*These are not assigned readings but references to the notes above.
 
 Dewey, J. \(1944\). Democracy and Education. New York: The Free Press.
 
@@ -90,7 +90,7 @@ Merriam, S.B., & Grace, A.P. \(2011\). Contemporary Issues in Adult Education. S
 
 Sokal, L., & Sharma, U. \(2014\). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. Exceptionality Education International, 23\(1\), 59-71.
 
-## **Learning Activities**
+##### **Learning Activities**
 
 1. Application:How you as a leader can have a conversation about goals and professional development
 
@@ -105,7 +105,7 @@ Role play with a colleague in the class through google handouts, Skype or a chat
 
 * Post to your blog an outline of an employee development plan for your organization using technology.  Include methods to promote organizational citizenship behavior, co-creation and innovation in a service-oriented culture. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
 
-## **Assessment**
+##### **Assessment**
 
 Due end of week 6: Choose any story from part five or six of the _Light from Many Lamps_ anthology, read and savour its message and prose. \(Don't worry about critically analysing it.\)
 
@@ -113,7 +113,7 @@ Due end of week 6: Choose any story from part five or six of the _Light from Man
 2. explain its impact/relevance to your life and practice of leadership in your context;
 3. write a 2-3 paragraph response in your blog containing 1 and 2. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
 
-## Assignment 3
+##### Assignment 3
 
 Reflection Journal
 

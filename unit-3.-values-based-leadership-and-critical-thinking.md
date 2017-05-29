@@ -1,6 +1,6 @@
-# Unit 3 Values Based Leadership and Critical Thinking
+### Unit 3 Values Based Leadership and Critical Thinking
 
-## Overview
+##### Overview
 
 ```
 
@@ -146,7 +146,7 @@ You learn critical thinking through the practice of thinking critically. It is h
 
 Eventually you will be able to engage in the demanding tasks of academic thinking and writing with less effortful analysis or deliberation. However, it is through the effort and struggle that you’ll improve so stay with it. Welcome to the academe!
 
-## Learning Outcomes
+##### Learning Outcomes
 
 At the end of this unit students will be able to:
 
@@ -162,11 +162,11 @@ At the end of this unit students will be able to:
 
 * articulate the compatibility of faith and critical thinking
 
-## Resources
+##### Resources
 
 none
 
-## References
+##### References
 
 Cited in the overview, these resources are for reference purposes–read further in your areas of interest as you wish!
 
@@ -190,7 +190,7 @@ Learning Activities
 
 Carefully read through the overview notes as this comprises the reading for this week. If any of the references referred to are interesting to you, look them up and continue reading for more depth.
 
-## **Learning Activities**
+##### **Learning Activities**
 
 **Learning Activity 1**
 
@@ -204,11 +204,11 @@ Rank-Talk-Write Purpose
 
 4. Read other's summaries on their blogs and post comments about at least two.
 
-## Assignment 3
+##### Assignment 3
 
 Reflection Journal
 
-## Assignment 2
+##### Assignment 2
 
 Rough draft: The Impact of Critical Thinking in my Leadership Context  Paper
 
