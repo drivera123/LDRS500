@@ -10,5 +10,7 @@ Please email Adrienne.castellon@twu.ca , provide your answers to the three resea
 2. What is something that you do that helps you to meet or deal with this challenge?
 3. Do you have any other advice or encouragement for women in leadership?
 
+\[Colin's note: custom post types submitting to central hub\]
+
 
 
