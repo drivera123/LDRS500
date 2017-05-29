@@ -10,5 +10,5 @@ Post the answers to the research questions on your blog including the name of th
 2. What is something that you do that helps you to meet or deal with this challenge?
 3. Do you have any other advice or encouragement for women in leadership?
 
-If the person consents to their answers potentially being part of a research study, email Adrienne.castellon@twu.ca with the blog post, including name and contact information if the person interviewed.
+If the person is willing to be part of a research study, email Adrienne.castellon@twu.ca with the blog post, including their name and contact information. 
 
