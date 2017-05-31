@@ -26,7 +26,7 @@
 * [Unit 6. People and Organizational Development](unit-6.-people-and-organizational-development.md)
 * [Unit. 7 Leadership Ethics](unit-7-leadership-ethics.md)
 * [Unit 7 Learning Activity](unit-7-learning-activity.md)
-* Unit 7 Assessment
+* [Unit 7 Assessment](unit-7-assessment.md)
 * [Unit 8. Women in Leadership](so-what-now-what.md)
 * [Unit 9. Foresight and Traits](unit-9-foresight-and-traits.md)
 * [Unit 10. Conclusions](unit-10.-conclusions.md)
