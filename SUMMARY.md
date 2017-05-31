@@ -21,8 +21,12 @@
 * [Unit 4 Learning Activities](unit-4-learning-activities.md)
 * Unit 4 Assessement 
 * [Unit 5. Team Leadership](unit-5.-team-leadership.md)
+* Unit 5 Learning Activity
+* Unit 5 Assessment
 * [Unit 6. People and Organizational Development](unit-6.-people-and-organizational-development.md)
 * [Unit 7. Leadership Ethics](unit-7.-leadership-ethics.md)
+* Unit 7 Learning Activity
+* Unit 7 Assessment
 * [Unit 8. Women in Leadership](so-what-now-what.md)
 * [Unit 9. Foresight and Traits](unit-9-foresight-and-traits.md)
 * [Unit 10. Conclusions](unit-10.-conclusions.md)
