@@ -22,7 +22,7 @@ At the end of this unit students will be able to:
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
 
-##### References
 
-none
+
+
 
