@@ -2,7 +2,7 @@
 
 ##### Assignment Instructions
 
-_**Due: End Week 1**_
+_**Due: End of Week 1 (Sunday, 11:59 pm)**_
 
 Identify an opinion leader whom you admire and follow that person on at least one social media platform two weeks prior to the class. \(Twitter, Facebook, blog, Instagram, etc.\). The person you choose to follow could be from your area of expertise, but that is not necessary.
 
