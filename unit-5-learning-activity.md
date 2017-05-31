@@ -25,3 +25,13 @@ In the following two exercises below, the primary focus is on gaining skills to 
 
 
 
+**REFERENCES**
+
+Page, D., & Wong, T. P. \(2000\). A conceptual framework for measuring servant leadership. The human factor in shaping the course of history and development, 69-110.
+
+Marciano, P. L. \(2010\). Carrots and sticks don’t work: Build a culture of employee engagement with the principles of RESPECT. New York, NY: McGraw-Hill
+
+Oliver, S. \(2006\). Leadership in health care.Musculoskeletal care,4\(1\), 38.
+
+Zaccaro, S. J., Rittman, A. L., & Marks, M. A. \(2002\). Team leadership.The Leadership Quarterly,12\(4\), 451-483.
+
