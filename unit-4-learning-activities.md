@@ -22,3 +22,13 @@ For this session, you will read the following two chapters from Northouse and po
 
 **Watch**[Serving on Southwest](http://www.youtube.com/watch?v=6TgR95vnM0c)and[Maxwell's Five Levels](https://www.youtube.com/watch?v=aPwXeg8ThWI)
 
+**References**
+
+Northouse, P. G. \(2016\). Leadership: Theory and practice. Sage publications.
+
+Riggio, B. M. \(2006\). Transformational Leadership. New York: Taylor & Francis Group.
+
+Quinn, R. E., & Spreitzer, G. M. \(1997\). The road to empowerment: Seven questions every leader should consider. Organizational Dynamics, 26\(2\), 37-49.
+
+Riggio, B. M. \(2006\). Transformational Leadership. New York: Taylor & Francis Group.
+
