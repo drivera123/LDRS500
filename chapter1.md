@@ -1,4 +1,3 @@
-### **Unit 1 Defining Leadership and the Essentials of Transformation**
 
 ##### **Overview**
 
