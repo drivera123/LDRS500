@@ -24,7 +24,7 @@
 * Unit 5 Learning Activity
 * Unit 5 Assessment
 * [Unit 6. People and Organizational Development](unit-6.-people-and-organizational-development.md)
-* [Unit 7. Leadership Ethics](unit-7.-leadership-ethics.md)
+* [Unit. 7 Leadership Ethics](unit-7-leadership-ethics.md)
 * Unit 7 Learning Activity
 * Unit 7 Assessment
 * [Unit 8. Women in Leadership](so-what-now-what.md)
