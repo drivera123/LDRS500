@@ -34,7 +34,7 @@ Jesus embodies each of these characteristics, in ways too numerous to write in o
 | 4.Closely supervises performance | 4.Involves the follower in decision making |
 | 5.Key words are structure control and supervise | 5.Key words are listen, praise and facilitate |
 
-![](/assets/WHEN TO USE EACH STYLE_1.jpg)![](/assets/Style-2.jpg)
+![](/assets/WHEN TO USE EACH STYLE_1.jpg)
 
 #### **Learning Outcome -  Complete LTQ and Complete Style Questionnaire**
 
@@ -132,9 +132,9 @@ Your results on the style questionnaire give you data about your task orientatio
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, Fifth Edition. Thousand Oaks, CA: SagePublications.
 
-Giroux, S \(2014\) Module 2- Daily discussionhttps://courses.mytwu.ca/mod/forum/discuss.php?d=143509
+Giroux, S \(2014\) Module 2- Daily discussion[https://courses.mytwu.ca/mod/forum/discuss.php?d=143509](https://courses.mytwu.ca/mod/forum/discuss.php?d=143509)
 
-Rakesh Wadhhwa. \(n.d.\). Laissez-faire leadership: an oxymoron? \[Blog post\]. Retrieved fromhttp://wadhwarakesh.com/laissez-faire-leadership-an-oxymoron/
+Rakesh Wadhhwa. \(n.d.\). Laissez-faire leadership: an oxymoron? \[Blog post\]. Retrieved from[http://wadhwarakesh.com/laissez-faire-leadership-an-oxymoron/](http://wadhwarakesh.com/laissez-faire-leadership-an-oxymoron/)
 
-Pooley, A\(2014\) Module 2-Daily discussion.Retrievedfrom https://courses.mytwu.ca/mod/forum/discuss.php?d=143505
+Pooley, A\(2014\) Module 2-Daily discussion.Retrievedfrom [https://courses.mytwu.ca/mod/forum/discuss.php?d=143505](https://courses.mytwu.ca/mod/forum/discuss.php?d=143505)
 
