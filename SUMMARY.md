@@ -30,6 +30,7 @@
 * [Unit 8. Women in Leadership](so-what-now-what.md)
 * [Unit 9. Foresight and Traits](unit-9-foresight-and-traits.md)
 * [Unit 9 Learning Activities](unit-9-learning-activities.md)
+* [Unit 9 Assessment](unit-9-assessment.md)
 * [Unit 10. Conclusions](unit-10.-conclusions.md)
 * [Resources](resources.md)
   * [Leadership Competencies](leadership-competencies.md)
