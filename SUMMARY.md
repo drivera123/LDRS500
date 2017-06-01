@@ -29,10 +29,11 @@
 * [Unit 7 Assessment](unit-7-assessment.md)
 * [Unit 8. Women in Leadership](so-what-now-what.md)
 * [Unit 9. Foresight and Traits](unit-9-foresight-and-traits.md)
+* [Unit 9 Learning Activities](unit-9-learning-activities.md)
 * [Unit 10. Conclusions](unit-10.-conclusions.md)
 * [Resources](resources.md)
   * [Leadership Competencies](leadership-competencies.md)
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
   * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
-* Unit 2 Learning Activities
+* [Unit 2 Learning Activities](unit-2-learning-activities.md)
 
