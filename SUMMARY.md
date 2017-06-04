@@ -4,7 +4,7 @@
   * [Outcomes](outcomes.md)
 * [Assignments](assignments.md)
   * [Blogging](blogging.md)
-  * [Assignment 1](assignment-1.md)
+  * [Follow the leader](assignment-1.md)
   * [Assignment 2](assignment-2.md)
   * [X Assignment 3](assignment-3.md)
   * [Assignment 4](assignment-4.md)

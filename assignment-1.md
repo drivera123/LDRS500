@@ -1,4 +1,4 @@
-### Assignment 1: Follow the Leader
+### Follow the Leader
 
 ##### Assignment Instructions
 
