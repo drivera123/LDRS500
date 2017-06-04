@@ -14,7 +14,7 @@
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 1 Learning Activities](unit-1-learning-activities.md)
 * [Unit 1 Assessment](unit-1-assessment.md)
-* [Unit 2 – Themes, Theories and Concepts](unit-2-themes-theories-and-concepts.md)
+* [Unit 2. Themes, Theories and Concepts](unit-2-themes-theories-and-concepts.md)
 * [Unit 2 Learning Activities](unit-2-learning-activities.md)
 * [Unit 3. Values-Based Leadership and Critical Thinking](unit-3.-values-based-leadership-and-critical-thinking.md)
 * [Unit. 4 Transformative and Servant Leadership](unit-4-transformative-and-servant-leadership.md)
@@ -34,8 +34,8 @@
 * [Unit 10. Conclusions](unit-10.-conclusions.md)
 * [Resources](resources.md)
   * [Leadership Competencies](leadership-competencies.md)
+  * [Unit 2 - Surveys](unit-2-questionnaires.md)
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
   * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
-* [Unit 2 - Questionnaires](unit-2-questionnaires.md)
 * [Unit 2 Learning Activities](unit-2-learning-activities.md)
 
