@@ -36,5 +36,6 @@
   * [Leadership Competencies](leadership-competencies.md)
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
   * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
+* [Unit 2 - Questionnaires](unit-2-questionnaires.md)
 * [Unit 2 Learning Activities](unit-2-learning-activities.md)
 
