@@ -168,7 +168,7 @@ none
 
 ##### References
 
-Cited in the overview, these resources are for reference purposes–read further in your areas of interest as you wish!
+Cited in the Unit Notes, these resources are for reference purposes–read further in your areas of interest as you wish!
 
 Bondi, L., Carr, D, Clark, C and C. Clegg \(2016\). _Towards Professional Wisdom: Practical Deliberation in the Professions_. New York: Routledge.
 

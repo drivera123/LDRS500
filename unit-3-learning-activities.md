@@ -1,3 +1,8 @@
+**Learning Activities**
+
+Learning Activity 1. Carefully read through the Unit Notes as this comprises the reading for this week. If any of the references referred to are interesting to you, look them up and continue reading for more depth.
+
+
 **Unit Notes**
 On Jan. 9, 2017 MA LEAD student Christel Davidson wrote the following post entitled ‘Designing Our Boxes’ for another course. I quote it here, with her permission, as an introduction to this unit on values based leadership and critical thinking.
 
@@ -132,4 +137,19 @@ You learn critical thinking through the practice of thinking critically. It is h
 > Language functions as a mediation tool between humans and their world. As humans, we don’t contemplate reality face to face. Since birth, things in our world don’t come to us in their naked form, but always dressed up in the names our community has given them. This community has already defined how and what the world is like and, therefore, already knows it \(the world\). This knowledge of the world is crystallized in our language. Language, therefore, is not a copy of objects and facts. Language is always interpretation \(cited in Goodson 2013, p.47\).
 
 Eventually you will be able to engage in the demanding tasks of academic thinking and writing with less effortful analysis or deliberation. However, it is through the effort and struggle that you’ll improve so stay with it. Welcome to the academe!
+
+
+**Learning Activity 2**
+
+Rank-Talk-Write Purpose
+
+1. Select a text related to Critical Thinking - from those suggested or another source. During or after reading, write a summary sentence for each key idea or concept you identify.  Write your response in your blog. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
+
+2. Rank the summary sentences in order of importance \(“1” next to most important, “2” and “3” next to the second and third most important summaries of each concept.\)
+
+3. Add to the ranked list of sentences a a one or two paragraph summary of the chosen text.
+
+4. Read other's summaries on their blogs and post comments about at least two.
+
+
 
