@@ -8,15 +8,15 @@ According to Quinn and Spreitzer \(1997\), empowered followers are more effectiv
 
 For this session, you will read the following two chapters from Northouse and post your response to the group discussions on the questions below:
 
-#### **Learning Outcome-1**
+#### **Learning Activity 1**
 
-**Read Chapter 8: Transformational Leadership in your textbook. \(**Prepare a 2OO word precis/synthesis. Post to forum blog.\)
+**Read Chapter 8: Transformational Leadership in your textbook. \(**Prepare a 2OO word precis/synthesis. Post to  your blog and tag your post with the Unit and Learning Activity number of ease of search.\)
 
 ·Discuss what other real-world leaders, past or present, could be considered transformational leaders.
 
-#### **Learning Outcome-2**
+#### **Learning Activity 2**
 
-**Read Chapter 10: Servant Leadership in your textbook**. \(Prepare a 2OO word precis/synthesis. Post to forum blog.\)
+**Read Chapter 10: Servant Leadership in your textbook**. \(Prepare a 2OO word precis/synthesis. Post to your blog and tag your post with the Unit and Learning Activity number of ease of search. .\)
 
 ·How is awareness in the servant leadership approach different from emotional intelligence, or self-awareness in the psychodynamic approach? Can you identify a person who exemplifies this component of the model?
 
