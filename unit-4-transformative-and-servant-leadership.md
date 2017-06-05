@@ -10,9 +10,9 @@ Bass & Riggio \(2006\) in the book Transformational Leadership,states that trans
 
 At the end of this unit the students will be able to:
 
-1. Understanding the conceptual similarities of transformational and servant leadership theories and the contributions both make to the understanding of leadership.
+1. Explain the conceptual similarities of transformational and servant leadership theories and the contributions both make to the understanding of leadership.
 2. Utilize critical thinking skills and incorporate tools for assessing, selecting, and developing approaches for leadership to build competency in higher-ordered analysis.
-3. Understand and integrate leadership thinking related to values-based leadership and transformational servant leadership.
+3. Integrate leadership thinking related to values-based leadership and transformational servant leadership.
 4. Challenge traditional perceptions of leadership and enable integration of Transformative and Servant Leadership in organizations.
 
 ### **Resources**
