@@ -10,7 +10,7 @@ A huge amount of learning takes place in a social context. Have you ever thought
 
 This unit is about values and critical thinking. They are linked intentionally because in order to commit authentically to values we need to have thought critically about what is important to us and what constitutes 'good'.  The internal goods of any discipline are the desirable outcomes characteristically aimed at through practice and make up our conceptual frame of reference.   We don't normally determine our values in a vacuum. Often we are guided and mentored by others or we are challenged by a disorienting dilemma.  The resulting dissonance leads to new perspectives, learning and possibly new understanding of what is important - our values.
 
-In this unit you will explore critical transformational learning, critical thinking, practical wisdom, traits and virtues related to leadership, practical ways to increase in wisdom, the compatibility of faith and critical thinking and the kind of critical thinking you will need in graduate level studies.  The reading for this unit is this overview carefully constructed to give you an overview of the above topics as they pertain to our program.  If you'd like to read more, the references cited provide many avenues for more in-depth exploration of critical thinking and values-based leadership.
+In this unit you will explore critical transformational learning, critical thinking, practical wisdom, traits and virtues related to leadership, practical ways to increase in wisdom, the compatibility of faith and critical thinking and the kind of critical thinking you will need in graduate level studies. The references cited below provide many avenues for more in-depth exploration of critical thinking and values-based leadership.
 
 On Jan. 9, 2017 MA LEAD student Christel Davidson wrote the following post entitled ‘Designing Our Boxes’ for another course. I quote it here, with her permission, as an introduction to this unit on values based leadership and critical thinking.
 
@@ -186,23 +186,7 @@ Kavelin Popov, L. \(2004\). _The Pace of Grace: The Virtues of a Sustainable Lif
 
 Rolheiser, R. \(1995\). _Against an Infinite Horizon_. London: Hodder and Stoughton.
 
-Learning Activities
 
-Carefully read through the overview notes as this comprises the reading for this week. If any of the references referred to are interesting to you, look them up and continue reading for more depth.
-
-##### **Learning Activities**
-
-**Learning Activity 1**
-
-Rank-Talk-Write Purpose
-
-1. Select a text related to Critical Thinking - from those suggested or another source. During or after reading, write a summary sentence for each key idea or concept you identify.  Write your response in your blog. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
-
-2. Rank the summary sentences in order of importance \(“1” next to most important, “2” and “3” next to the second and third most important summaries of each concept.\)
-
-3. Add to the ranked list of sentences a a one or two paragraph summary of the chosen text.
-
-4. Read other's summaries on their blogs and post comments about at least two.
 
 ##### Assignment 3
 
