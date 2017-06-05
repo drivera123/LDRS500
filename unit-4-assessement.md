@@ -1,6 +1,6 @@
 ## **Graded Assessment **
 
-In this Unit session, there are four Journal articles included in your reading. Please review all articles and **respond to two of the journals on questions provided under them**. Each journal response should be a maximum of 400 words each.
+In this Unit, there are four Journal articles included in your reading. Please review all articles and **respond to two of the journals on questions provided under them**. Each journal response should be a maximum of 400 words each.
 
 Mulla, Z.R. and Krishnan, V.R. \(2011\). Transformational leadership: Do the leader’s morals matter and do the follower’s morals change? Journal of Human Values 17\(2\), 129-143. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203](https://www.gitbook.com/book/twonline/ldrs-500/edit)
 
