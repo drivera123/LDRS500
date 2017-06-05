@@ -1,4 +1,4 @@
-### Follow the Leader blog
+### Follow the Leader Blog
 
 #### Assignment Instructions
 
