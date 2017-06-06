@@ -40,4 +40,5 @@
   * [Characteristics of Servant Leadership](characteristics-of-servant-leadership.md)
   * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
 * [Unit 3 Learning Activities](unit-3-learning-activities.md)
+* Links to Images
 
