@@ -50,29 +50,7 @@ Nugent, J., Pollack, A. & D. Travis, \(2016\). _The Day to day experiences of wo
 
 ##### 
 
-##### Assessment
 
-**Due end of week 8**: Choose any story from part seven or eight of the Light from Many Lamps anthology, read and savour its message and prose. \(Don't worry about critically analysing it.\)
-
-1. identify the leadership lesson it tells;
-2. explain its impact/relevance to your life and practice of leadership in your context;
-3. write a 2-3 paragraph response in your blog containing 1 and 2. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
-
-**Due end of week 8:**
-
-One of your course readings for this unit is a compilation of data from BC women leaders and 2 from India. The goal is to reach a larger sample size of women from around the globe. If you are a woman in leadership you can answer the three questions yourself. If you are not a woman in leadership, you will need to interview someone who is.
-
-Please email Adrienne.castellon@twu.ca , provide your answers to the three research questions and a jpeg picture \(if the person gives permission to use for research purposes\). The answers to the questions are more important than the picture of course but will serve to make the envisioned publication more personal and authentic.
-
-1. What is the greatest challenge you have faced or are facing as a woman in leadership?
-2. What is something that you do that helps you to meet or deal with this challenge?
-3. Do you have any other advice or encouragement for women in leadership?
-
-##### Assignment 3
-
-Reflection Journal
-
-##### Assignment 6: 3 questions Women in Leadership
 
 
 
