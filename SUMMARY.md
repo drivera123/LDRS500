@@ -2,7 +2,7 @@
 
 * [Syllabus](README.md)
   * [Outcomes](outcomes.md)
-* [Assignments](assignments.md)
+* [\[Update\] Assignments](assignments.md)
   * [Blogging](blogging.md)
   * [Follow the leader](assignment-1.md)
   * [Critical Thinking](assignment-2.md)
