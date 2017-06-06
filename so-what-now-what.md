@@ -48,15 +48,7 @@ Kaley, M. \(1971\). Attitudes toward the dual role of the married professional w
 
 Nugent, J., Pollack, A. & D. Travis, \(2016\). _The Day to day experiences of workplace inclusion and exclusion_. Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
 
-##### Learning Activities
-
-**Learning Activity \#1 **
-
-Read the 3 brief case studies in Northouse chapter 15. Post a response in your blog to one of the case studies using the questions as guiding prompts.Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
-
-**Learning Activity \#2**
-
-Take the Gender-Leader Implicit Association test in Northouse chapter 15 and read through the Catalyst \(2016\) report for practical inclusion ideas . In your blog write about how you can foster recognition and a sense of belonging for women in your workplace. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
+##### 
 
 ##### Assessment
 
