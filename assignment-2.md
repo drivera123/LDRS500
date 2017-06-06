@@ -45,29 +45,34 @@ Your feedback to your partner should be 150-250 words and may be provided in poi
 
 **Peer Review Protocol**
 
-Post paper to forum.
+Upload your paper as an attachment to the appropriate discussion forum in Moodle by the **end of week 3 \(Sunday night\).**
 
-You have been assigned to a pair.
+Your instructor will assign partners and post the partnerships in the description of the forum in Moodle.
 
-Read and make notes according to grammar, composition, content as prescribed by the assignment. Make notes about strengths, areas to work on \(clarify, more analysis, more of ‘you’/application\).
+Once your partner has posted their paper, download it to your own computer, read it, and make notes according to grammar, composition, and content as prescribed by the assignment. Make notes about the strengths of your partner's paper as well as areas to work on \(clarify, more analysis, more personal application\).
 
-A. Be Kind: Always treat others with dignity and respect. This means we never use words that are hurtful, including sarcasm.
+Summarize your notes in a response to your partner's forum post in 150-250 words by the **end of week 4 \(Sunday night\).**
 
-B. Be Specific: Focus on particular strengths and weaknesses, rather than making general comments like “It’s good” or “I like it.” Provide insight into why it is good or what, specifically, you like about it.
+###### Please remember!
 
-C. Be Helpful: The goal is to positively contribute to the individual or the group, not to simply be heard. Echoing the thoughts of others or cleverly pointing out details that are irrelevant wastes time.
+* Be Kind: Always treat others with dignity and respect. This means we never use words that are hurtful, including sarcasm.
+* Be Specific: Focus on particular strengths and weaknesses, rather than making general comments like “It’s good” or “I like it.” Provide insight into why it is good or what, specifically, you like about it.
+* Be Helpful: The goal is to positively contribute to the individual or the group, not to simply be heard. Echoing the thoughts of others or cleverly pointing out details that are irrelevant wastes time.
+* Participate: Peer critique is a process to support each other, and your feedback is valued!
+* When critiquing a peer’s work, use “I” statements. For example, “I’m confused by this part,” rather than “This part makes no sense.” 
+* Use questions whenever possible. For example, “I’m curious why you chose to begin with…?”,  or “Did you consider adding…?”
 
-D. Participate: Peer critique is a process to support each other, and your feedback is valued!
+Remember the three important phrases:
 
-E. When critiquing a peer’s work, use “I” statements. For example, “I’m confused by this part,” rather than “This part makes no sense.” Remember the three important phrases:
+> “I notice….”
+>
+> “I wonder….”
+>
+> “If this were my work, I would….”
 
-A. “I notice….”
+##### Revisions
 
-B. “I wonder….”
+Once you have received feedback from your partner, please revise your paper incorporating your peer-reviewer's recommendations. You are encouraged to interact with your reviewer in the forum if you need clarification. You are **not** required to address every item that your peer-reviewer mentions in their review of your paper.
 
-C. “If this were my work, I would….”
-
-D. Use questions whenever possible. For example, “I’m curious why you chose to begin with…?”,  or “Did you consider adding…?”
-
-Each person revises their paper according to the feedback.
+Submit your final paper to the appropriate assignment dropbox in Moodle by the** end of week 5 \(Sunday night\).**
 
