@@ -6,7 +6,7 @@
   * [Blogging](blogging.md)
   * [Follow the leader](assignment-1.md)
   * [Critical Thinking](assignment-2.md)
-  * [Learning Journal](assignment-3.md)
+  * [X Learning Journal](assignment-3.md)
   * [My Leadership Story](assignment-4.md)
   * [Light from Many Lamps](assignment-5.md)
   * [Women in Leadership](assignment-6.md)

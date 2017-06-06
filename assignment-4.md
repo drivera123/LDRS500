@@ -4,43 +4,29 @@ In the transformational leadership model we learn how important it is for a lead
 
 This assignment asks you to develop a story in a video or podcast that you can take with you into future leadership situations.  Follow author Don Miller's story structure: [mystorybrand.com](http://mystorybrand.com)  At the website you'll find a handy template to guide and frame your thoughts.  Here is a summary of the seven elements:
 
-1.Character in the story has to want something – you need to say it clearly in a defined manner. 
-
-2.There needs to be a problem. When you solve the problem the story is over – the problem IS the story. Talk about the problem – it’s the heart of the story.
-
-3.If the hero can solve their own problem the audience will check out. There needs to be another character into the story. 
-
-4.Plan for the hero to win the day – Break down into simple steps - choose clarity and simplicity.
-
-5.Call to action – eg ‘Buy Now’ button on the top of the website – communicate the ‘to do’ clearly. What do you want the people listening to think or do differently as a result of hearing this story?
-
-6.Paint a picture of what life can look like if the do the action or follow the advice. Make it a clear sound bite. Eg Kennedy didn’t say elect me and I’ll build a competitive space program he said I’m going to put a man on the moon.
-
-7.Define what’s at stake.  Drive home the big idea and purpose of the story.
+1. Character in the story has to want something – you need to say it clearly in a defined manner.
+2. There needs to be a problem. When you solve the problem the story is over – the problem IS the story. Talk about the problem – it’s the heart of the story.
+3. If the hero can solve their own problem the audience will check out. There needs to be another character into the story.
+4. Plan for the hero to win the day – Break down into simple steps - choose clarity and simplicity.
+5. Call to action – eg ‘Buy Now’ button on the top of the website – communicate the ‘to do’ clearly. What do you want the people listening to think or do differently as a result of hearing this story?
+6. Paint a picture of what life can look like if the do the action or follow the advice. Make it a clear sound bite. Eg Kennedy didn’t say elect me and I’ll build a competitive space program he said I’m going to put a man on the moon.
+7. Define what’s at stake.  Drive home the big idea and purpose of the story.
 
 **Some questions to prompt reflection and recognition:**
 
-What people have had a significant impact on your life and why?
-
-What hardships have you faced and overcome?
-
-What are the greatest blessings in your life?
-
-What do you really, really believe?
-
-What ideas make your heart skip a beat?
-
-What do you know about life now that you wish you had known in high school?
-
-What is the one best piece of advice you could give to a person?
-
-What life lesson would you like to pass on to your children some day?
-
-If you only had one year left to live, how would you spend it?
+* What people have had a significant impact on your life and why?
+* What hardships have you faced and overcome?
+* What are the greatest blessings in your life?
+* What do you really, really believe?
+* What ideas make your heart skip a beat?
+* What do you know about life now that you wish you had known in high school?
+* What is the one best piece of advice you could give to a person?
+* What life lesson would you like to pass on to your children some day?
+* If you only had one year left to live, how would you spend it?
 
 Think beyond clichés \(e.g. Love makes the world go ‘round\) to insights that are unique to you. How might others benefit from hearing this story and your personal connection to it? How does this story point to your vision as a leader?
 
-Criteria and Evaluation
+##### Criteria and Evaluation
 
 _Delivery_
 
