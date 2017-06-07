@@ -1,4 +1,4 @@
-## **Learning Activities**
+ **Learning Activities**
 
 ### **Summary Overview**
 
