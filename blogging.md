@@ -8,7 +8,11 @@ At the end of the course you will be required to cut and paste all your blog pos
 
 **Blog Posts and Responses**
 Unit 1: [Learning Activity 2 and 4.](https://www.gitbook.com/book/twonline/ldrs-500/edit#/edit/master/unit-1-learning-activities.md?_k=36z1lm "Go to Unit 1 Learning Activities.") Respond to colleagues posts. 
-[Unit 2: Learning Activity 3](https://www.gitbook.com/book/twonline/ldrs-500/edit#/edit/master/unit-2-learning-activities.md?_k=i8947b "Go to Unit 2 Learning Activities.").
+
+[Unit 2: Learning Activity 3](https://www.gitbook.com/book/twonline/ldrs-500/edit#/edit/master/unit-2-learning-activities.md?_k=i8947b
+
 Unit 3: Learning Activity 2. Respond to colleagues posts
+
 Unit 4: Learning Activity 1 and 2.
+
 Unit 5: Learning Activity 1 and 2. 
