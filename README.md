@@ -18,12 +18,12 @@ Copyright for this course is held by Adrienne Castellon and Imbenzi George.
 
 ### About this course
 
-This course was co-authoured at [gitbook.com](https://www.gitbook.com/book/twonline/ldrs-500).
+This course was co-authored at [gitbook.com](https://www.gitbook.com/book/twonline/ldrs-500).
 
 It is synchronized with a repository by the same name at [Github](https://github.com/TWUOnline/LDRS500).
 
-It is deployed on a public-facing website at the folliwng sites:
-* [create.twu.ca/ldrs500](https://create.twu.ca/ldrs500/)
+It is deployed on the following public-facing websites:
+* [create.twu.ca/ldrs500](https://create.twu.ca/ldrs500/) (under construction as of June 6/17)
 
 
 
