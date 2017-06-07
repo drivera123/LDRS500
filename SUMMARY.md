@@ -1,6 +1,6 @@
 # Summary
 
-* [Syllabus](README.md)
+* [README](README.md)
   * [Outcomes](outcomes.md)
 * [\[Update\] Assignments](assignments.md)
   * [Blog posts and responses](blogging.md)
