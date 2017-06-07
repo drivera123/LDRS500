@@ -5,7 +5,7 @@
 * [\[Update\] Assignments](assignments.md)
   * [Blogging](blogging.md)
   * [Follow the leader](follow-the-leader.md)
-  * [Critical Thinking](assignment-2.md)
+  * [Critical Thinking](critical-thinking.md)
   * [My Leadership Story](assignment-4.md)
   * [Light from Many Lamps](assignment-5.md)
   * [Women in Leadership](assignment-6.md)
