@@ -6,9 +6,9 @@
 | [My Leadership Story](leadership-story.md) | 10% |
 |  | 20% |
 | [Light from Many Lamps](light-from-many-lamps.md) | 20% |
-| [Impact of Critical Thinking in my Leadership Context paper](critical-thinking.md) | 15% |
+| [Impact of Critical Thinking in my Leadership Context](critical-thinking.md) | 15% |
 | [Regular and substantive blog posts and responses](blogging.md) | 20% |
-| [Women in Leadership 3 questions](/women-in-leadership.md) | 5% |
+| [Women in Leadership](/women-in-leadership.md) | 5% |
 
 
 
