@@ -2,7 +2,7 @@
 
 | Assignment | Value |
 | :--- | :--- |
-| [Follow the Leader: ](assignment-1.md)Blog | 10% |
+| [Follow the Leader: ](follow-the-leader.md)Blog | 10% |
 | [My Leadership Story](assignment-2.md) | 10% |
 | [Integrated Learning Reflection Journal](assignment-3.md) 1 and 2 | 20% |
 | Reflective Responses to Light from Many Lamps | 20% |
