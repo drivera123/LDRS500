@@ -6,7 +6,7 @@ This on-going assignment accounts for 20% of the final grade of this course. The
 
 At the end of the course you will be required to cut and paste all your blog postings and responses into a document and sending it to your instructor for grading. 
 
-Blog Posts and Responses
+**Blog Posts and Responses**
 Unit 1: Learning Activity 2 and 4. Respond to colleagues posts. 
 Unit 2: Learning Activity 3.
 Unit 3: Learning Activity 2. Respond to colleagues posts

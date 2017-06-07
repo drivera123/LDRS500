@@ -3,7 +3,7 @@
 * [Syllabus](README.md)
   * [Outcomes](outcomes.md)
 * [\[Update\] Assignments](assignments.md)
-  * [Blogging](blogging.md)
+  * [Blog posts and responses](blogging.md)
   * [Follow the leader](follow-the-leader.md)
   * [Critical Thinking](critical-thinking.md)
   * [My Leadership Story](assignment-4.md)
