@@ -9,9 +9,8 @@ In fact, team leadership impacts the profitability and productivity of an organi
 
 Team leadership is a classic example of how an organization can influence team performance and effectiveness, and produce phenomenal results. “Team leadership represents a third characteristic of effective team performance” \(Zaccaro, et al., 2001, p. 452\). Effective leaders create, manage and empower teams that incorporate individual efforts of team members to produce high quality services, team performances and remarkable results. This is evident in private sector organizations and similarly, health care organizations dream of creating a “dynamic and responsive” healthcare workforce that can challenge the obstacles towards successful delivery of services \(Oliver, 2006, p. 38\).
 
-**Learning Activities are the ungraded things that students do**
 
-In the following two exercises below, the primary focus is on gaining skills to how effective teams work and management skills required to moving a team forward.
+In the following two activities below, the primary focus is on recognizing the skills of how effective teams work and discussing the management skills required to move a team forward.
 
 **Learning Activity \#1 **- Read chapter 14 of Northouse. Please complete and post a 400 word response to the forum/blog on the following two questions.
 
