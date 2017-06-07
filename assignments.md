@@ -2,7 +2,7 @@
 
 | Assignment | Value |
 | :--- | :--- |
-| [Follow the Leader: ](follow-the-leader.md)Blog | 10% |
+| [Follow the Leader: ](follow-the-leader.md) | 10% |
 | [My Leadership Story](leadership-story.md) | 10% |
 |  | 20% |
 | [Light from Many Lamps](light-from-many-lamps.md) | 20% |
