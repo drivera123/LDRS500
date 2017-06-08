@@ -12,14 +12,18 @@ Although it is hard to teach people ethics, however, it is possible to influence
 
 A great leader is not just telling the follower what to do, but building up their confidence and encouraging independent decision-making. As a leader should not only guide followers about how to work but also should demonstrate to followers how to become a leader. The leader can share power with followers, and give them the freedom to deal with difficult situations and to lead to self-actualization. That is the best way to improve employee engagement, and build a sustainable development for a brighter future.
 
-**Learning Activities are the ungraded things that students do to. They include:**
+Learning Activity 1 - There are a lot of resources for this unit. Students need to be directed to read them. And then what are they to do with them? There are five Unit Learning Objectives stated. How are the students achieving them? 
 
-**Learning Activity \#1** - Watch video: What is Ethical Leadership? After your view please elaborate on ways that you have found help and can recommend to enable your organization to grow and flourish.[https://www.youtube.com/watch?v=ks2QGoIq5nA](https://www.youtube.com/watch?v=ks2QGoIq5nA)
 
-**Discuss on the blog post**
+**Learning Activity 2** - Watch video: What is Ethical Leadership? After your view please discuss ways that you have found help and can recommend to enable your organization to grow and flourish. Post      
+this to your blog and syndicate it appropriately 
+[https://www.youtube.com/watch?v=ks2QGoIq5nA](https://www.youtube.com/watch?v=ks2QGoIq5nA)
+
+Learning Activity 3
 
 1. In the article “Transformational Leadership and Performance Across Criteria and Levels” What are the main implications for managers in the article? How can you use this information to become a better leader?
 2. Define and describe the principles of ethical leadership. Which 2 of the 5 covered in Northouse Chapter 13 do you think are the most important? Why?
+Write your responses in your blog and syndicate it appropriately. 
 
 **References**
 

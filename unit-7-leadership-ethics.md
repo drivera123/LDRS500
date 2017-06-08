@@ -457,15 +457,11 @@ Responsibility is a powerful construct that shapes our decisions, especially in 
 
 At the end of this unit the students will be able to:
 
-vArticulate what are the moral implications of leadership behavior? How are different leadership styles related to ethics of conduct? What are the factors that determine ethical leadership? by exploring the theories of ethics and leadership and attempting to relate the various leadership styles to extant ethical viewpoints.
-
-
-
-vThink critically and systematically about self-leadership and the leader’s impact on people and organizations while building competency in adaptability and change, ethics and values, and innovation.
-
-
-
-vTo synthesize, reflect and integrate leadership thinking related to values-based leadership and transformational servant leadership.
+* Articulate what are the moral implications of leadership behavior 
+* Discuss how different leadership styles relate to ethics of conduct. 
+* Explaing the factors that determine ethical leadership. (by exploring the theories of ethics and leadership and attempting to relate the various leadership styles to extant ethical viewpoint - not sure this is required)
+* Think critically and systematically about self-leadership and the leader’s impact on people and organizations while building competency in adaptability and change, ethics and values, and innovation.(But what do they do to demonstrate this?)
+* Synthesize, reflect and integrate leadership thinking related to values-based leadership and transformational servant leadership.
 
 
 
@@ -477,7 +473,9 @@ Northouse, P. G. \(2016\). Leadership: Theory and practice, seventh Edition. Tho
 
 Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand Oaks, CA: Sage Publications. ISBN 978-1-4833-8326-2
 
-**Chapter 15- Ethical Leadership**
+**Chapter 15- Ethical Leadership** 
+Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand Oaks, CA: Sage Publications. ISBN 978-1-4833-8326-2
+
 
 **Journal articles**
 
