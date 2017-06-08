@@ -18,11 +18,11 @@ The issue of gender equality in leadership needs to be addressed at the individu
 
 **By the end of this unit students will be able to:**
 
-Synthesize generally the research say about how human behavior differs for men and women.
+* Synthesize generally what research says about how human behavior differs for men and women.
 
-Define the obstacles encountered by women leaders.
+* Define the obstacles encountered by women leaders.
 
-Describe how leaders level the playing field so that both women and men can have equal opportunities to make meaningful contributions in leadership.
+* Describe how leaders can level the playing field so that both women and men can have equal opportunities to make meaningful contributions in leadership.
 
 ##### Resources
 
@@ -32,7 +32,7 @@ Northouse chapter 15 Gender and Leadership
 
 Nugent, J., Pollack, A. & D. Travis. _The Day to day experiences of workplace inclusion and exclusion_. \(2016\). Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
 
-**These are references for the introductory notes above:**
+**References**
 
 Bohnet, I. \(2016\). _What works: Gender equality by design_. London: Belkap Press of Harvard Univeristy Press.
 

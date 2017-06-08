@@ -15,6 +15,7 @@ At the end of the course you will be required to cut and paste all your blog pos
 * Unit 5: [Learning Activity 1 and 2.](https://www.gitbook.com/book/twonline/ldrs-500/edit#/edit/master/unit-5-learning-activity.md?_k=4q13n7 "Go to Unit 5 Learning Activities")
 * Unit 6 Learning Activity 2, 3 and 4
 * Unit 7 Learning Activity 2 and 3
+* Unit 8 Learning Activity 1 and 2
 
 
 
