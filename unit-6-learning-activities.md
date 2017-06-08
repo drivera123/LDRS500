@@ -2,7 +2,10 @@
 
 Learning Activity 1. Students have not been directed to read the resources at this point. Also, are some of the resources directly related to the activities below. For example #3 asks student to "outline an employee development plan", is there a guide for them to do so? What information is presented to them that would allow them to do this? 
 
-Learning Activity 2. Application:How you as a leader can have a conversation about goals and professional development
+Learning Activity 2. Read to Androgogy unit notes (and any other resource material). 
+In a blog post, describe your experience working with adult learners or as your experience as an adult learing. Frame your post using the six principles of Androgogy. 
+
+Learning Activity 3. Application:How you as a leader can have a conversation about goals and professional development
 
 An important part of leadership is developing others. To do that, you need to have conversations about goals and interests, professional development needs etc. Practice the constructive feedback guidelines.
 
@@ -13,7 +16,7 @@ Role play with a colleague in the class through google handouts, Skype or a chat
    Describe your idealized future as if it were already happening.
 * How can you get there? What are your ideas for realizing this preferred future?
 
-*Learning Activity 3
+*Learning Activity 4
  Post to your blog an outline of an employee development plan for your organization using technology.  Include methods to promote organizational citizenship behavior, co-creation and innovation in a service-oriented culture. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
 
 ##### **Assessment**
