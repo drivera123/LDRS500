@@ -16,6 +16,7 @@ At the end of the course you will be required to cut and paste all your blog pos
 * Unit 6 Learning Activity 2, 3 and 4
 * Unit 7 Learning Activity 2 and 3
 * Unit 8 Learning Activity 1 and 2
+* Unit 9 Learning Activity 2
 
 
 

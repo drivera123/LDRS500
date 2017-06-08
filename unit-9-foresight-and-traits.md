@@ -8,9 +8,9 @@ In Unit 9 we turn our attention to Foresight and the traits of a successful valu
 
 At the end of this unit the students will be able to
 
-1. To increase critical thinking skills and gains skills in evaluating tools, techniques, and frameworks vital to personal and organizational leadership to build competency in strategic thinking, planning and organizing.
-2. Think critically and systematically about self-leadership and the leader’s impact on people and organizations to build competency in adaptability and change, ethics and values, and innovation.
-3. To synthesize the appropriate leadership principles and practices while building competency in team leadership and collaboration.
+* Apply critical thinking skills and gains skills in evaluating tools, techniques, and frameworks vital to personal and organizational leadership to build competency in strategic thinking, planning and organizing.
+* Think critically and systematically about self-leadership and the leader’s impact on people and organizations to build competency in adaptability and change, ethics and values, and innovation.
+* Synthesize the appropriate leadership principles and practices while building competency in team leadership and collaboration.
 
 ### **Resources**
 
