@@ -26,6 +26,7 @@
 * [Unit 5. Team Leadership](unit-5-team-leadership.md)
 * [Unit 5 Learning Activity](unit-5-learning-activity.md)
 * [Unit 6. People and Organizational Development](unit-6.-people-and-organizational-development.md)
+* [Unit 6 Learning Activities](unit-6-learning-activities.md)
 * [Unit. 7 Leadership Ethics](unit-7-leadership-ethics.md)
 * [Unit 7 Learning Activity](unit-7-learning-activity.md)
 * [Unit 8. Women in Leadership](so-what-now-what.md)

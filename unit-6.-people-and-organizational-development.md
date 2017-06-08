@@ -74,7 +74,7 @@ Rockwell, D. \(2017, March 17\) The Anatomy of Performance Enhancing Coaching Co
 
 [https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/)
 
-##### References  \*These are not assigned readings but references to the notes above.
+##### References  
 
 Dewey, J. \(1944\). Democracy and Education. New York: The Free Press.
 
