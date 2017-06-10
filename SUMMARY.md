@@ -41,8 +41,8 @@
   * [Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
   * [Unit 3 Notes](unit-3-notes.md)
   * [Unit 6 - Androgogy notes](unit-6-androgogy-notes.md)
+  * [Unit 8 - Women in Leadership Notes](unit-8-notes.md)
 * [Unit 3 Learning Activities](unit-3-learning-activities.md)
 * Links to Images
 * [Unit 10 Learning Activity](unit-10-learning-activity.md)
-* [Unit 8 Notes](unit-8-notes.md)
 
