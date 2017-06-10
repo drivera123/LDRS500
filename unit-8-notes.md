@@ -10,3 +10,29 @@ How can leaders level the playing field so that both women and men can have equa
 
 The issue of gender equality in leadership needs to be addressed at the individual, interpersonal, organizational and societal levels. A more androgynous conception of leadership focusing on best practice is what is needed. How might leaders embrace the challenge? During the MA Lead program you have an opportunity to recognize your potential as a leader to transform the culture and spark social change, and be leaders who will work to achieve gender equality. Through education that builds competence and confidence, women are mentored towards a leadership approach that is inclusive and transformative. It’s an approach that helps women find their voice and their style while focusing on issues that are relevant and about which they are passionate to make a difference. Once women gain in their competence and confidence they have what is needed to navigate the labyrinth of being a woman in leadership. Whether you are a woman or not, this is a contemporary issue that all leaders need to be aware of and willing to address in their context.
 
+
+
+**References**
+
+Bohnet, I. \(2016\). _What works: Gender equality by design_. London: Belkap Press of Harvard Univeristy Press.
+
+Day D.,Stogdill R. \(1972\). Leader behavior of male and female supervisors: A comparative study. _Personnel Psychology, 25 _\(2\),353–360.
+
+Deaux K. \(1976\). _The behavior of women and men_. Monterey: Brooks/Cole Publishing Co.
+
+DiMarco N.,Whitsitt S. E. \(1975\). A comparison of female supervisors in business and government organizations. _Journal of Vocational Behavior, 6_,185–196.
+
+Eagly & Johnson \(1990\). Gender and Leadership Style: A Meta Analysis. _Psychological Bulletin_ _108_\(2\), 233-256.
+
+Kaley, M. \(1971\). Attitudes toward the dual role of the married professional woman. _American Psychologist 3_, 26:301-307.
+
+Nugent, J., Pollack, A. & D. Travis, \(2016\). _The Day to day experiences of workplace inclusion and exclusion_. Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
+
+##### 
+
+
+
+
+
+
+
