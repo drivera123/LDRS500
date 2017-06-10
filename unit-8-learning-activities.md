@@ -1,6 +1,6 @@
 **Learning Activity \#1 **
 
-Read the 3 brief case studies in Northouse chapter 15. Post a response in your blog to one of the case studies using the questions as guiding prompts.Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
+Read the Unit 8 Notes and the 3 brief case studies in Northouse chapter 15. Post a response in your blog to one of the case studies using the questions in the Unit Notes as guiding prompts. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
 
 **Learning Activity \#2**
 
