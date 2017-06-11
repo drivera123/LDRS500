@@ -43,6 +43,6 @@
   * [Unit 6 - Androgogy notes](unit-6-androgogy-notes.md)
   * [Unit 8 - Women in Leadership Notes](unit-8-notes.md)
 * [Unit 3 Learning Activities](unit-3-learning-activities.md)
-* Links to Images
+* [Links to Images](links-to-images.md)
 * [Unit 10 Learning Activity](unit-10-learning-activity.md)
 
