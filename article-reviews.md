@@ -1,4 +1,4 @@
-##### Article Reviews** **
+##### Article Reviews
 
 In this unit, there are four journal articles included in your reading. Please review all articles and **respond to two of the articles on questions provided under them**. Each journal response should be a maximum of 400 words each and posted to your blog.
 
@@ -6,7 +6,7 @@ Make sure to include complete bibliographic information in your post and the 'ld
 
 #####Article 1
 
-Mulla, Z.R. and Krishnan, V.R. \(2011\). Transformational leadership: Do the leader’s morals matter and do the follower’s morals change? Journal of Human Values 17\(2\), 129-143. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203](https://www.gitbook.com/book/twonline/ldrs-500/edit)
+Mulla, Z.R. and Krishnan, V.R. \(2011\). Transformational leadership: Do the leader’s morals matter and do the follower’s morals change? Journal of Human Values 17\(2\), 129-143. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/097168581101700203)
 
 **Questions that apply to this article:**
 
@@ -18,7 +18,7 @@ Mulla, Z.R. and Krishnan, V.R. \(2011\). Transformational leadership: Do the lea
 #####Article 2
 
 
-Searle, T.P. and Barbuto, J.E. \(2011\). Servant Leadership, Hope, and Organizational Virtuousness: A Framework Exploring Positive Micro and Macro Behaviors and Performance Impact. Journal of Leadership & Organizational Studies 18\(1\), 107-117. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/pdf/10.1177/1548051810383863](https://www.gitbook.com/book/twonline/ldrs-500/edit)
+Searle, T.P. and Barbuto, J.E. \(2011\). Servant Leadership, Hope, and Organizational Virtuousness: A Framework Exploring Positive Micro and Macro Behaviors and Performance Impact. Journal of Leadership & Organizational Studies 18\(1\), 107-117. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/pdf/10.1177/1548051810383863](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/pdf/10.1177/1548051810383863)
 
 **Questions that apply to this article:**
 
@@ -30,7 +30,7 @@ Searle, T.P. and Barbuto, J.E. \(2011\). Servant Leadership, Hope, and Organizat
 
 #####Article 3
 
-Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). Transformational and servant leadership: Content and contextual comparisons. Journal of Leadership and Organizational Studies 10\(4\), 80-92. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/107179190401000406](https://www.gitbook.com/book/twonline/ldrs-500/edit)
+Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). Transformational and servant leadership: Content and contextual comparisons. Journal of Leadership and Organizational Studies 10\(4\), 80-92. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/107179190401000406](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/abs/10.1177/107179190401000406)
 
 **Questions that apply to this article:**
 
@@ -42,7 +42,7 @@ Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). Transformational and se
 
 #####Article 4
 
-Van Dierendonck, D. \(2011\). Servant leadership: A review and synthesis. Journal of Management 37\(4\), 1228-1261. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462](https://www.gitbook.com/book/twonline/ldrs-500/edit)
+Van Dierendonck, D. \(2011\). Servant leadership: A review and synthesis. Journal of Management 37\(4\), 1228-1261. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462](https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462)
 
 **Questions that apply to this article:**
 
