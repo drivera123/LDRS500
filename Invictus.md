@@ -2,7 +2,7 @@
 
 ESPN 30 for 30 – “The 16th Man.” This documentary showcases the South African “Springbok” National Rugby Team and its impact on South Africa’s transition from segregation to integration. It involves interviews with players and political activists along with vintage video.[http://www.youtube.com/watch?v=MePCZ\_hw9lM,](http://www.youtube.com/watch?v=MePCZ_hw9lM,)
 
-[**http://www.imdb.com/title/tt1057500/plotsummary**](http://www.imdb.com/title/tt1057500/plotsummary)
+[http://www.imdb.com/title/tt1057500/plotsummary](http://www.imdb.com/title/tt1057500/plotsummary)
 
 [**http://www.imdb.com/title/tt1057500/synopsis**](http://www.imdb.com/title/tt1057500/synopsis)**\(**[**IMBD.com**](http://IMBD.com)**\)**
 
@@ -14,7 +14,7 @@ The movie Invictus can be used to illustrate \(or give meaning to\) leadership c
 
 ##### EXHIBIT TN-1: THE EFFECTIVE LEADER
 
-##### ![](/assets/THE EFFECTIVE LEADER)
+ ![](/assets/THE EFFECTIVE LEADER)
 
 ###### ![](file:///C:/Users/MYERTC~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png "Text Box: London, Ontario")Source: J. Gandz, M. Crossan, G. Seijts and C. Stephenson, “Leadership on Trial: A manifesto for Leadership Development,” 2010, Richard Ivey School of Business,
 
