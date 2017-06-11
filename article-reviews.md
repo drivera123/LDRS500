@@ -1,6 +1,8 @@
 ##### Article Reviews** **
 
-In this unit, there are four journal articles included in your reading. Please review all articles and **respond to two of the journals on questions provided under them**. Each journal response should be a maximum of 400 words each.
+In this unit, there are four journal articles included in your reading. Please review all articles and **respond to two of the articles on questions provided under them**. Each journal response should be a maximum of 400 words each and posted to your blog.
+
+Make sure to include complete bibliographic information in your post and the 'ldrs500' category and 'article review' tag.
 
 #####Article 1
 
