@@ -12,7 +12,7 @@ The movie Invictus can be used to illustrate \(or give meaning to\) leadership c
 2. To observe character and its 11 dimensions in practice.
 3. To reflect on our own leadership.
 
-##### EXHIBIT TN-1: THE EFFECTIVE LEADER
+EXHIBIT TN-1: THE EFFECTIVE LEADER
 
  ![](/assets/THE EFFECTIVE LEADER)
 
