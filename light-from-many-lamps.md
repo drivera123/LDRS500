@@ -16,7 +16,9 @@ Due end of week 8: As above with **part seven or eight of the anthology**.
 
 Due end of week 10: As above with **part nine or ten of the anthology**.
 
-Before you publish your post, make sure you add it to the category 'LDRS500' and tag it with ‘Reflective Responses to Light from Many Lamps’.
+Before you publish your post, make sure you add it to the category 'LDRS500' and tag it with ‘Light from Many Lamps’.
+
+##### Assessment
 
 3= Exceptionally well-reasoned, compelling development of position. Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples.
 
@@ -29,6 +31,4 @@ Before you publish your post, make sure you add it to the category 'LDRS500' and
 0 No attempt made at the assignment
 
 \*\*Responses to colleagues posts graded holistically/weeks 2-10 /5
-
-
 
