@@ -38,3 +38,16 @@
 
 [https://www.pexels.com/photo/411948/](https://www.pexels.com/photo/sun-rays-passing-thru-trees-in-the-forest-at-daytime-199230/https://www.pexels.com/photo/silhouette-of-person-raising-arms-while-watch-flock-of-birds-fly-by-during-sunset-198304/https://www.pexels.com/photo/black-and-white-blog-business-coffee-261579/https://www.pexels.com/photo/bridge-grass-outdoors-river-149132/https://static.pexels.com/photos/202879/pexels-photo-202879.jpeghttps://www.pexels.com/photo/white-book-page-128988/https://www.pexels.com/photo/adult-agreement-beard-brainstorming-429247/https://www.pexels.com/photo/pink-and-blue-textile-near-yellow-textile-86757/https://www.pexels.com/photo/blur-close-up-coffee-cup-cup-405238/https://www.pexels.com/photo/autumn-autumn-colours-autumn-leaves-bright-424759/https://www.pexels.com/photo/apple-business-computer-connection-392018/https://www.pexels.com/photo/nature-sunset-red-rocks-56944/https://www.pexels.com/photo/close-up-of-photo-of-books-327882/https://www.pexels.com/photo/bench-black-and-white-chair-design-381677/https://www.pexels.com/photo/411948/)
 
+[https://www.pexels.com/photo/person-wearing-blue-black-jacket-standing-near-gray-bookshelf-203237/](https://www.pexels.com/photo/person-wearing-blue-black-jacket-standing-near-gray-bookshelf-203237/)
+
+[https://www.pexels.com/photo/agree-agreement-ankreuzen-arrangement-210585/](https://www.pexels.com/photo/agree-agreement-ankreuzen-arrangement-210585/)
+
+[https://www.pexels.com/photo/sea-ocean-fish-barracuda-66218/](https://www.pexels.com/photo/sea-ocean-fish-barracuda-66218/)
+
+[https://www.pexels.com/photo/purple-blue-green-pink-orange-and-yellow-highlighter-159659/](https://www.pexels.com/photo/purple-blue-green-pink-orange-and-yellow-highlighter-159659/)
+
+
+
+  
+
+
