@@ -9,7 +9,7 @@
   * [My Leadership Story](leadership-story.md)
   * [Light from Many Lamps](light-from-many-lamps.md)
   * [Women in Leadership](women-in-leadership.md)
-  * [Journal Responses](journal-responses.md)
+  * [Article Reviews \(Formerly Journal REsponses\)](article-reviews.md)
   * [Invictus](Invictus.md)
   * [Corporate Ethics](corporate-ethics.md)
   * [Southwest Airlines \(HBR\)](southwest-airlines.md)
