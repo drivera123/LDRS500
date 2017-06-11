@@ -10,11 +10,11 @@ is a strong statement made by Seidman on his perspective towards ethics training
 
 In reflecting on the article [A Corporate Training View of Ethics Education](http://jlo.sagepub.com/cgi/reprint/13/3/79?ijkey=r6EqaD4mQg2nU&keytype=ref&siteid=spjlo) complete a three page reflection by answering the questions below:
 
-1.What was Mr. Seidman’s view of ethics training?
+1. What was Mr. Seidman’s view of ethics training?
 
-2.Why does he feel that the history of ethical thought isn’t helpful?
+2. Why does he feel that the history of ethical thought isn’t helpful?
 
-3.Do you believe, as Mr. Seidman states, that the global economy can make organizations amoral?
+3. Do you believe, as Mr. Seidman states, that the global economy can make organizations amoral?
 
-4.Explain how shifting from a program approach of ethics training to a cultural approach to ethical behavior would work in your                 institution, school, organization, etc.
+4. Explain how shifting from a program approach of ethics training to a cultural approach to ethical behavior would work in your institution, school, organization, etc.
 
