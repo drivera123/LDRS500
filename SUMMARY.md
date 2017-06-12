@@ -13,6 +13,7 @@
   * [Invictus](Invictus.md)
   * [Corporate Ethics](corporate-ethics.md)
   * [Southwest Airlines \(HBR\)](southwest-airlines.md)
+  * [Survey Assignment](survey-assignment.md)
   * [Alignment](alignment.md)
   * [X Learning Journal](assignment-3.md)
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
@@ -45,5 +46,4 @@
 * [Unit 3 Learning Activities](unit-3-learning-activities.md)
 * [Links to Images](links-to-images.md)
 * [Unit 10 Learning Activity](unit-10-learning-activity.md)
-* [Survey Assignment](survey-assignment.md)
 
