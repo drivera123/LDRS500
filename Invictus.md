@@ -20,7 +20,7 @@ EXHIBIT TN-1: THE EFFECTIVE LEADER
 
 ##### EXHIBIT TN-2: CHARACTER DIMENSIONS AND ELEMENTS
 
-
+![](/assets/character dimensions elements.png)
 
 Source: J. Gandz, M. Crossan, G. Seijts and M. Reno, “Leadership Character and Corporate Governance,” Director 167, May–June 2013, pp. 15–21, reprinted in Ivey Business Journal \[online\],
 
