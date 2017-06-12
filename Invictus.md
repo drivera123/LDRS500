@@ -14,7 +14,7 @@ The movie Invictus can be used to illustrate \(or give meaning to\) leadership c
 
 EXHIBIT TN-1: THE EFFECTIVE LEADER
 
- ![](/assets/THE EFFECTIVE LEADER)
+
 
 ###### ![](file:///C:/Users/MYERTC~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png "Text Box: London, Ontario")Source: J. Gandz, M. Crossan, G. Seijts and C. Stephenson, “Leadership on Trial: A manifesto for Leadership Development,” 2010, Richard Ivey School of Business,
 
