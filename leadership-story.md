@@ -1,4 +1,6 @@
-## **My leadership story**
+###My leadership story
+
+ADD SCAFFOLDING FOR VIDEO
 
 In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
 
