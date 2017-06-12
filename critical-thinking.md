@@ -1,5 +1,7 @@
 ## **The Impact of Critical Thinking in my Leadership Context  Paper **
 
+This assignment is mandatory for all students in LDRS500 including online and on-site cohorts.
+ 
 Due:
 
 * Part 1 - Rough draft - week 3
@@ -12,9 +14,9 @@ Critical thinking is an essential component of leadership because there is an in
 
 ##### Part 1 - Rough draft
 
-Using the resources below, and others you may find, discuss how a leader in your context incorporates critical thinking into their decision making. Please identify at least four specific strategies that they use and include examples of each strategy.
+Using the resources below, and others you will need to find in the TWU Library, discuss how a leader in your context incorporates critical thinking into their decision making. Please identify at least four specific strategies that they use and include examples of each strategy.
 
-Your paper should be referenced in APA format and include references to at least two of the videos listed below and two references to criticalthinking.org. You should be able to complete this assignment in 750-1000 words.
+Your paper should be referenced in APA format and include references to at least two of the videos listed below, two references to criticalthinking.org, and two scholarly articles. You should be able to complete this assignment in 750-1000 words.
 
 ###### Videos and Resources
 
@@ -25,6 +27,7 @@ Your paper should be referenced in APA format and include references to at least
 * [_Beyond Common Sense: Critical Thinking Skills and Decision Making for Leaders_](https://youtu.be/QTWc-JLh3Fw)_ _
 * [_The Importance of Critical Thinking_](https://youtu.be/2yEZHXgQKsM)
 * [_http://www.criticalthinking.org_](http://www.criticalthinking.org/pages/college-and-university-students/799)
+* [TWU Library](https://twu.ca/library)
 
 ##### Part 2 - Peer Review
 
