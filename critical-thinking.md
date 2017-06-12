@@ -39,6 +39,7 @@ Your feedback to your partner should be 150-250 words and may be provided in poi
 * 3-4 pages, double spaced; 12 pt font \(1 point\)
 * Includes at least two references from specified videos \(1 point\)
 * Includes at least two references from criticalthinking.org \(1 point\)
+* Includes at least two references to peer-reviewed scholarly literature \(1 point\)
 * Clearly outlines and develops four points related to the significance of critical thinking in your particular context \(4 points\)
 * Includes a clear illustrative example for each point of significance. \(4 points\)
 * Substantive response to two papers by colleagues in the class \(4 points\)
