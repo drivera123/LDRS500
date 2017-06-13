@@ -4,7 +4,9 @@ Learning Activity 1.Read the Unit 2 Notes, the three listed journal articles abo
 
 Learning Activity 2. Print out and complete the survey assessments. 
 
-Learning Activity 3. Once you have completed the three assessments, prepare a 150 word synthesis commenting on the overall results of these surveys. Do they align with your self-conception or not? Did you have any revelations or new information to consider? Did anything challenge you with respect to the results? Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
+Learning Activity 3. Once you have completed the three assessments, prepare a 150 word synthesis commenting on the overall results of these surveys. Do they align with your self-conception or not? Did you have any revelations or new information to consider? Did anything challenge you with respect to the results? 
+
+Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
 
 
 
