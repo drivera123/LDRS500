@@ -1,4 +1,4 @@
-## ![](file:///C:\Users\Adrienne\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png "Text Box: – 5 –")**Personal Inventory of Servant-Leader Characteristics**
+**Personal Inventory of Servant-Leader Characteristics**
 
 Using the following rating system of response numbers 1 through 4,circle the number that most accurately applies to your current leadership characteristics.When you’ve completed the sheet,save it in a convenient place,such as your desk drawer,and review it on occasion.
 
