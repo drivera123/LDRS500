@@ -1,4 +1,4 @@
-#### **Learning Outcome -  Complete LTQ and Complete Style Questionnaire**
+#### **The LTQ and Complete Style Questionnaires**
 
 **\(1\)Leadership Trait Questionnaire \(LTQ\)**
 
