@@ -28,5 +28,5 @@ Source: J. Gandz, M. Crossan, G. Seijts and M. Reno, “Leadership Character and
 
 ##### **Watch the Movie Invictus and complete the following assignment below:**
 
-The Movie Invictus encouraging people to believe in themselves so that the organization can achieve is a noble quest and requires a leader who can not only see over the horizon but make what is over the horizon tangible. As a team leader, getting people to believe in themselves and the organization is at the heart of the process of any transformative process.** In a three page double space written response**, please reflect on what the key lessons the movie brings across?.
+The Movie Invictus encouraging people to believe in themselves so that the organization can achieve is a noble quest and requires a leader who can not only see over the horizon but make what is over the horizon tangible. As a team leader, getting people to believe in themselves and the organization is at the heart of the process of any transformative process.** In a maximum of 500 words,**  post your reflection on what the key lessons the movie.
 
