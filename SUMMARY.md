@@ -19,6 +19,7 @@
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 1 Learning Activities](unit-1-learning-activities.md)
 * [Unit 2. Themes, Theories and Concepts](unit-2-themes-theories-and-concepts.md)
+* [Unit 2 Notes](unit-2-notes.md)
 * [Unit 2 Learning Activities](unit-2-learning-activities.md)
 * [Unit 3. Values-Based Leadership and Critical Thinking](unit-3.-values-based-leadership-and-critical-thinking.md)
 * [Unit 3 Learning Activities](unit-3-learning-activities.md)
@@ -45,6 +46,5 @@
   * [Unit 8 - Women in Leadership Notes](unit-8-notes.md)
 * [Unit 3 Learning Activities](unit-3-learning-activities.md)
 * [Links to Images](links-to-images.md)
-* [Unit 10 Learning Activity](unit-10-learning-activity.md)
 * [Unit 2 Notes](unit-2-notes.md)
 
