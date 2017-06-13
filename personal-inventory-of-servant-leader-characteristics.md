@@ -21,6 +21,6 @@ Using the following rating system of response numbers 1 through 4, circle the nu
 | Conceptualization | 1 | 2 | 3 | 4 |
 | Foresight | 1 | 2 | 3 | 4 |
 | Stewardship | 1 | 2 | 3 | 4 |
-| Commitment to the growth of people | 1 | 2 | 3 | 4 |
+| Commitment to the growth of people  | 1 | 2 | 3 | 4 |
 | Building community | 1 | 2 | 3 | 4 |
 
