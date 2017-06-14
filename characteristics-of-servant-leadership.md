@@ -1,6 +1,5 @@
 ## **Characteristics of Servant Leadership  **
 
-\[Comment re: characteristics of servant leadership moved to discussions.-cm\]
 
 ### **Listening**
 
