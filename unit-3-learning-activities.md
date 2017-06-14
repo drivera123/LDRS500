@@ -2,9 +2,7 @@
 
 Learning Activity 1. Carefully read through the Unit Notes.  If any of the ideas and/or references are interesting to you, look them up and continue reading for more depth.
 
-Learning Activity 2
-
-Rank-Talk-Write Purpose
+Learning Activity 2. Rank-Talk-Write Purpose
 
 1. Select a text related to Critical Thinking - from the Notes References or another that you source. During or after reading, write a summary sentence for each key idea or concept you identify.   
 
