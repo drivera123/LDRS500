@@ -1,5 +1,3 @@
-
-
 ## **Learning Activities**
 
 #### **Summary Overview**
@@ -8,30 +6,29 @@ Ethical leadership is a necessary element in any organizations. According to Joh
 
 Ethics is a personal trait, and it represents the behavior of a person. The behavior accumulates with a long time practice. Seidman believes that human has innate nature to think that we can figure out the difference between right and wrong \(Thompson 2007\). In other words, every individual has his or her ethical value to judge right and wrong.
 
-Although it is hard to teach people ethics, however, it is possible to influence people’s behavior by effective leadership style. An appropriate leadership style could foster ethical climates in the organizations. Transformational leadership, servant leadership, and responsible leadership are useful approaches to improve the ethical behavior. According to Johnson \(2015\), transformational leaders engage in higher level moral reasoning, demonstrate greater integrity, are more successful at leading ethical organizational turnarounds, encourage the development of positive ethical climates, institutionalize ethical practices, and foster corporate social responsibility \(p. 230\). 
+Although it is hard to teach people ethics, however, it is possible to influence people’s behavior by effective leadership style. An appropriate leadership style could foster ethical climates in the organizations. Transformational leadership, servant leadership, and responsible leadership are useful approaches to improve the ethical behavior. According to Johnson \(2015\), transformational leaders engage in higher level moral reasoning, demonstrate greater integrity, are more successful at leading ethical organizational turnarounds, encourage the development of positive ethical climates, institutionalize ethical practices, and foster corporate social responsibility \(p. 230\).
 
 A great leader is not just telling the follower what to do, but building up their confidence and encouraging independent decision-making. As a leader should not only guide followers about how to work but also should demonstrate to followers how to become a leader. The leader can share power with followers, and give them the freedom to deal with difficult situations and to lead to self-actualization. That is the best way to improve employee engagement, and build a sustainable development for a brighter future.
 
-Learning Activity 1 - There are a lot of resources for this unit. Students need to be directed to read them. And then what are they to do with them? There are five Unit Learning Objectives stated. How are the students achieving them? 
+**Learning Activity 1** - Organizations with a vision to grow have the ability to provide its members with a vision of a possible future which enables them to be co-creators in advancing organizational mandate. This is realised through individuals being able to think critically and systematically about self-leadership and the leader’s impact on people and organizations while building competency in adaptability and change, ethics and values, and innovation in organizational setting. In the article Transformational leadership and performance across criteria and levels: A meta-analytic review of 25 years of research what would you consider to be key take conceptional frameworks?
 
-
-**Learning Activity 2** - Watch video: What is Ethical Leadership? After your view please discuss ways that you have found help and can recommend to enable your organization to grow and flourish. Post      
-this to your blog and syndicate it appropriately 
+**Learning Activity 2** - Watch video: What is Ethical Leadership? After your view please discuss ways that you have found help and can recommend to enable your organization to grow and flourish. Post  
+this to your blog and syndicate it appropriately   
 [https://www.youtube.com/watch?v=ks2QGoIq5nA](https://www.youtube.com/watch?v=ks2QGoIq5nA)
 
 Learning Activity 3
 
 1. In the article “Transformational Leadership and Performance Across Criteria and Levels” What are the main implications for managers in the article? How can you use this information to become a better leader?
 2. Define and describe the principles of ethical leadership. Which 2 of the 5 covered in Northouse Chapter 13 do you think are the most important? Why?
-Write your responses in your blog and syndicate it appropriately. 
+   Write your responses in your blog and syndicate it appropriately. 
 
 **References**
 
-Huizenga, H.J. \(2016\) MILP Leadership values and ethics. https://courses.mytwu.ca/mod/assignment/view.php?id=389134
+Huizenga, H.J. \(2016\) MILP Leadership values and ethics. [https://courses.mytwu.ca/mod/assignment/view.php?id=389134](https://courses.mytwu.ca/mod/assignment/view.php?id=389134)
 
 Johnson, C. E. \(2015\). Meeting the Ethical Challenges of Leadership: Casting Light or Shadow. Thousand Oaks, CA: Sage Publications, Inc.
 
 Maxwell, J. C. \(1993\). Develop the Leader Within. Nashville: Thomas Nelson.
 
-Wong, P. T., & Davey, D. \(2007\). Best practices in servant leadership. Virginia Beach VA: School of Global Leadership and Entrepreneurship. Retrieved from https://www.regent.edu/acad/global/publications/sl\_proceedings/2007/wong-davey.pdf
+Wong, P. T., & Davey, D. \(2007\). Best practices in servant leadership. Virginia Beach VA: School of Global Leadership and Entrepreneurship. Retrieved from [https://www.regent.edu/acad/global/publications/sl\_proceedings/2007/wong-davey.pdf](https://www.regent.edu/acad/global/publications/sl_proceedings/2007/wong-davey.pdf)
 
