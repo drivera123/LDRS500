@@ -1,6 +1,6 @@
 ### Regular and substantive blog posts and responses
 
-As you work through this course \(and the program\), much of your work will be completed on your own blog. You should have already set up a blog during the Orientation course, but if you haven't, you can access instructions here.
+As you work through this course \(and the program\), much of your work will be completed on your own blog. You should have already set up a blog during the Orientation course, but if you haven't, you can access instructions though a link below.
 
 This on-going assignment accounts for 20% of the final grade of this course. The following are the blogging posts and responses that you are asked to make listed by Unit and Learning Activity.
 
