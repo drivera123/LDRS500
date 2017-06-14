@@ -1,12 +1,13 @@
-**Responses to Light from Many Lamps 20%**
+**Responses to Light from Many Lamps**
+
+This is an assignment the carriers on throughout course. See the schedule below for the reading and the due date for each post. 
 
 Watson, L.E. \(1951\). _Light from Many Lamps_. New York: Simon and Schuster. \*Available from Amazon in new editions.
 
-Due end of week 2: Choose any story from **part one or two of the anthology**, read and savour its message and prose. \(Don't worry about critically analysing it.\)
+Due end of week 2: Choose any story from **part one or two of the anthology**, read and savour its message and prose. \(Don't worry about critically analysing it.\). Write a 2-3 paragraph response in your blog that:
 
-1. identify the leadership lesson it tells;
-2. explain its impact/relevance to _your life and practice_ of leadership in your context;
-3. write a 2-3 paragraph response in your blog containing 1 and 2.
+1. identifies the leadership lesson the reading tells;
+2. explains its impact/relevance to _your life and practice_ of leadership in your context;
 
 Due end of week 4: As above with **part three or four of the anthology**.
 
