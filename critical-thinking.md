@@ -35,18 +35,6 @@ On the Monday of week four, you will exchange papers with a partner in the class
 
 Your feedback to your partner should be 150-250 words and may be provided in point form.
 
-##### Criteria and Evaluation
-
-* Displays grammar & editing that is substantially free of technical flaws. Paper consistently models the language and conventions used in scholarly literature. \(2 points\)
-* Addresses the topic in a focused, cohesive and logical manner evident in good overall structure \(intro/body/conclusion\) and transitions between ideas. \(2 point\)
-* 3-4 pages, double spaced; 12 pt font \(1 point\)
-* Includes at least two references from specified videos \(1 point\)
-* Includes at least two references from criticalthinking.org \(1 point\)
-* Includes at least two references to peer-reviewed scholarly literature \(1 point\)
-* Clearly outlines and develops four points related to the significance of critical thinking in your particular context \(4 points\)
-* Includes a clear illustrative example for each point of significance. \(4 points\)
-* Substantive response to two papers by colleagues in the class \(4 points\)
-
 **Peer Review Protocol**
 
 Upload your paper as an attachment to the appropriate discussion forum in Moodle by the **end of week 3 \(Sunday night\).**
@@ -79,4 +67,18 @@ Remember the three important phrases:
 Once you have received feedback from your partner, please revise your paper incorporating your peer-reviewer's recommendations. You are encouraged to interact with your reviewer in the forum if you need clarification. You are **not** required to address every item that your peer-reviewer mentions in their review of your paper.
 
 Submit your final paper to the appropriate assignment dropbox in Moodle by the** end of week 5 \(Sunday night\).**
+
+##### Criteria and Evaluation
+
+* Displays grammar & editing that is substantially free of technical flaws. Paper consistently models the language and conventions used in scholarly literature. \(2 points\)
+* Addresses the topic in a focused, cohesive and logical manner evident in good overall structure \(intro/body/conclusion\) and transitions between ideas. \(2 point\)
+* 3-4 pages, double spaced; 12 pt font \(1 point\)
+* Includes at least two references from specified videos \(1 point\)
+* Includes at least two references from criticalthinking.org \(1 point\)
+* Includes at least two references to peer-reviewed scholarly literature \(1 point\)
+* Clearly outlines and develops four points related to the significance of critical thinking in your particular context \(4 points\)
+* Includes a clear illustrative example for each point of significance. \(4 points\)
+* Substantive response to two papers by colleagues in the class \(4 points\)
+
+
 
