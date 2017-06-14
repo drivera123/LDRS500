@@ -1,6 +1,5 @@
 ## **Leadership Competencies  **
 
-**\[Comment re: Leardership competencies moved to 'Discussions' - cm\]**
 
 ### **Visioning and Strategic Thinking**
 
