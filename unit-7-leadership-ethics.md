@@ -8,28 +8,18 @@ Responsibility is a powerful construct that shapes our decisions, especially in 
 
 **Learning Objectives**
 
-
-
 At the end of this unit the students will be able to:
 
 * Articulate what are the moral implications of leadership behavior 
-* Discuss how different leadership styles relate to ethics of conduct. 
-* Explaing the factors that determine ethical leadership. (by exploring the theories of ethics and leadership and attempting to relate the various leadership styles to extant ethical viewpoint - not sure this is required)
-* Think critically and systematically about self-leadership and the leader’s impact on people and organizations while building competency in adaptability and change, ethics and values, and innovation.(But what do they do to demonstrate this?)
+
+* Think critically and systematically about self-leadership and the leader’s impact on people and organizations while building competency in adaptability and change, ethics and values, and innovation in organizational setting.
 * Synthesize, reflect and integrate leadership thinking related to values-based leadership and transformational servant leadership.
-
-
 
 **Resources**
 
-Northouse, P. G. \(2016\). Leadership: Theory and practice, seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
+Northouse, P. G. \(2016\). Leadership: Theory and practice, seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409 ** Chapter 13 Leadership Ethics**
 
-**Chapter 13 Leadership Ethics**
-
-Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand Oaks, CA: Sage Publications. ISBN 978-1-4833-8326-2
-
-**Chapter 15- Ethical Leadership** 
-Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand Oaks, CA: Sage Publications. ISBN 978-1-4833-8326-2
+Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand Oaks, CA: Sage Publications. ISBN 978-1-4833-8326-2 ** Chapter 15- Ethical Leadership**   
 
 
 **Journal articles**
