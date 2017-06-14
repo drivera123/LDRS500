@@ -12,15 +12,15 @@ Team leadership is a classic example of how an organization can influence team p
 
 In the following two activities below, the primary focus is on recognizing the skills of how effective teams work and discussing the management skills required to move a team forward.
 
-**Learning Activity \#1 **- Read chapter 14 of Northouse. Please complete and post a 400 word response to the forum/blog on the following two questions.
+**Learning Activity 1 **- Read chapter 14 of Northouse. Please complete and post a 400 word response to the blog on the following two questions.
 
 1. What are the 2 critical functions of team effectiveness? Define and then describe the components \(Hackman 
    & Walton\) and the characteristics \(Larson & LaFasto\) provided to support group effectiveness. Give personal examples of 3-4 of these components/characteristics in groups/teams you worked with.
 2. What is principled leadership? What are the 4 sets of processes that influence team effectiveness? Choose one of the 4 processes and give a detailed description of how this process affected you in a team environment.
 
-**Learning Activity \#2** Read Chapter 11 in Cases in Leadership and read article - 10 Characteristics of Effective Caring Leaders. Prepare a 400-word reflection in response to the question below and post to the forum/blog:
+**Learning Activity 2** Read Chapter 11 in Cases in Leadership and the article - 10 Characteristics of Effective Caring Leaders. Prepare a 400-word reflection in response to the instruction below and post to the blog:
 
-1. Describe the internal and external leadership actions a team leader should take when coordinating a group project in an organization.
+Describe the internal and external leadership actions a team leader should take when coordinating a group project in an organization.
 
 
 
