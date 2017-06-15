@@ -48,4 +48,5 @@
 * [Unit 3 Learning Activities](unit-3-learning-activities.md)
 * [Links to Images](links-to-images.md)
 * [Unit 2 Notes](unit-2-notes.md)
+* [Unit 9 Notes](unit-9-notes.md)
 
