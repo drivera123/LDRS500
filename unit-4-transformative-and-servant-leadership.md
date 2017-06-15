@@ -13,7 +13,7 @@ At the end of this unit the students will be able to:
 1. Explain the conceptual similarities of transformational and servant leadership theories and the contributions both make to the understanding of leadership.
 2. Utilize critical thinking skills and incorporate tools for assessing, selecting, and developing approaches for leadership to build competency in higher-ordered analysis.
 3. Integrate leadership thinking related to values-based leadership and transformational servant leadership.
-4. Challenge traditional perceptions of leadership and enable integration of Transformative and Servant Leadership in organizations.
+4. Compare and contrast traditional perceptions of leadership with Transformative and Servant Leadership in organizations.
 
 ### **Resources**
 
