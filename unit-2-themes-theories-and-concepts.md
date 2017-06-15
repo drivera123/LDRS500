@@ -13,7 +13,7 @@ At the end of this unit the students will be able to
 1. Identify the innate qualities and characteristics possessed by great leaders that sets them apart from followers.
 2. Discuss why possessing the right skills are essential in enabling a leader to work effectively and accomplish the organizations goals.
 3. Develop a framework for assessing leadership and understand how actions towards others occur on a task level and on a relationship level.
-4. Understand that leadership is composed of both directive and a supportive dimension, recognizing what employees need and then adapting their own style to meet those needs.
+4. Discuss how leadership is composed of both directive and a supportive dimension, recognizing what employees need and then adapting their own style to meet those needs.
 
 ##### **Resources**
 
