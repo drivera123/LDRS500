@@ -19,8 +19,6 @@ At the end of this unit the students will be able to:
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409 ** Chapter 13 Leadership Ethics**
 
-Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand Oaks, CA: Sage Publications. ISBN 978-1-4833-8326-2 ** Chapter 15- Ethical Leadership**   
-
 
 **Journal articles**
 
