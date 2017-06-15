@@ -19,7 +19,7 @@ Post this to your blog and syndicate it appropriately
 **Learning Activity 2- **In this activity our goal is to synthesize, reflect and integrate leadership thinking related to values-based leadership and transformational servant leadership.
 
 1. In the article “Transformational Leadership and Performance Across Criteria and Levels” What are the main implications for managers in the article? How can you use this information to become a better leader?
-2. Define and describe the principles of ethical leadership. Which 2 of the 5 covered in Northouse Chapter 13 do you think are the most important? Why?
+2. Define and describe the principles of ethical leadership. Which 2 of the 5 covered in Northouse Chapter 13 do you think are the most important? Why? 
    Write your responses in your blog and syndicate it appropriately. 
 
 **References**
