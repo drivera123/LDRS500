@@ -10,17 +10,20 @@ For this session, you will read the following two chapters from Northouse and po
 
 #### **Learning Activity 1**
 
-**Read Chapter 8: Transformational Leadership in your textbook. \(**Prepare a 2OO word precis/synthesis. Post to  your blog and tag your post with the Unit and Learning Activity number of ease of search.\)
+**Read Chapter 8: Transformational Leadership in your textbook as well as all journal articles. \(**Prepare a 2OO word precis/synthesis. Post to  your blog and tag your post with the Unit and Learning Activity number of ease of search.\)
 
 ·Discuss what other real-world leaders, past or present, could be considered transformational leaders.
 
 #### **Learning Activity 2**
 
-**Read Chapter 10: Servant Leadership in your textbook**. \(Prepare a 2OO word precis/synthesis. Post to your blog and tag your post with the Unit and Learning Activity number of ease of search. .\)
+**Read Chapter 10: Servant Leadership in your textbook**.
+**Watch**   [Serving on Southwest](http://www.youtube.com/watch?v=6TgR95vnM0c) and  [Maxwell's Five Levels](https://www.youtube.com/watch?v=aPwXeg8ThWI)
+
+Considering all this information including the journal articles as well prepare a 2OO word precis/synthesis. Post to your blog and tag your post with the Unit and Learning Activity number of ease of search.
 
 ·How is awareness in the servant leadership approach different from emotional intelligence, or self-awareness in the psychodynamic approach? Can you identify a person who exemplifies this component of the model?
 
-**Watch**[Serving on Southwest](http://www.youtube.com/watch?v=6TgR95vnM0c)and[Maxwell's Five Levels](https://www.youtube.com/watch?v=aPwXeg8ThWI)
+
 
 **References**
 
