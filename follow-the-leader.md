@@ -1,8 +1,10 @@
 ### Follow the Leader
 
-##### Assignment Instructions
+This assignment is worth 10% of the final grade and is _**due the end of Week 1 (Sunday, 11:59 pm)**_
 
-_**Due: End of Week 1 (Sunday, 11:59 pm)**_
+
+
+##### Assignment Instructions
 
 Identify an opinion leader whom you admire and follow that person on at least one social media platform two weeks prior to the class. \(Twitter, Facebook, blog, Instagram, etc.\). The person you choose to follow could be from your area of expertise, but that is not necessary.
 
@@ -19,7 +21,7 @@ Once you have published your own post, respond to one or two of your colleagues'
 
 #####Assessment
 
-This assignment will be graded out of 10 marks \(outlined above\), and is worth 10% of your final grade for the course.
+Marks are awarded bassed on your response to the questions above. Maximum marks for each questions are indicated in brackets.  
 
 
 
