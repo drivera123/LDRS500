@@ -1,6 +1,6 @@
-## **The Impact of Critical Thinking in my Leadership Context  Paper **
+### **The Impact of Critical Thinking in my Leadership Context   **
 
-This assignment is mandatory for all students in LDRS500 including online and on-site cohorts.
+This assignment is mandatory for all students in LDRS500 including online and on-site cohorts. This assignment is worth 15% of the final grade. 
  
 Due:
 
@@ -68,7 +68,8 @@ Once you have received feedback from your partner, please revise your paper inco
 
 Submit your final paper to the appropriate assignment dropbox in Moodle by the** end of week 5 \(Sunday night\).**
 
-##### Criteria and Evaluation
+#### Assessment
+Marks will be awarded based on the following criteria: 
 
 * Displays grammar & editing that is substantially free of technical flaws. Paper consistently models the language and conventions used in scholarly literature. \(2 points\)
 * Addresses the topic in a focused, cohesive and logical manner evident in good overall structure \(intro/body/conclusion\) and transitions between ideas. \(2 point\)
