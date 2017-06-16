@@ -21,7 +21,7 @@ Once you have published your own post, respond to one or two of your colleagues'
 
 #####Assessment
 
-Marks are awarded bassed on your response to the questions above. Maximum marks for each question is indicated in brackets.  
+Marks are awarded bassed on your response to the questions above. Maximum marks for each question are indicated in brackets.  
 
 
 
