@@ -1,6 +1,6 @@
 ### **Learning Activities**
 
-1. Complete the [Personal Inventory of Servant Leadership](https://www.gitbook.com/book/twonline/ldrs-500/edit#/edit/master/personal-inventory-of-servant-leader-characteristics.md) characteristics.
+1. Complete the Personal Inventory of Servant Leadership survey. Access the survey from the link below. 
 
 2. Read chapters 1 and 10 of Northouse text. Start writing your blog. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found. Begin with Northouse’s definition of leadership as above in the unit overview. Then explain your ideas about the following components of leadership: process, power, influence, group context and goal attainment. Close with one question that invites further comment and discussion.
 
