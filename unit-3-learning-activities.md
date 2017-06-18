@@ -1,6 +1,6 @@
 **Learning Activities**
 
-Learning Activity 1. Carefully read through the Unit Notes.  If any of the ideas and/or references are interesting to you, look them up and continue reading for more depth.
+Learning Activity 1. Carefully read through the Unit Notes accessed from the link below.  If any of the ideas and/or references are interesting to you, look them up and continue reading for more depth.
 
 Learning Activity 2. Rank-Talk-Write Purpose
 
