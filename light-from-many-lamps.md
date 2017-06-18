@@ -14,7 +14,7 @@ Before you publish your post, make sure you add it to the category 'LDRS500' and
 
 In the week following submission, review some of your colleauges blogs and respond to two. 
 
-In the remaining posts, respond to the same points for content indicated below: 
+For the remaining posts in the assignment, respond to the same points for content indicated below: 
 
 * Due end of week 4:  **part three or four of the anthology**.
 
