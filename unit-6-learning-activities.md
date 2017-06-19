@@ -19,7 +19,7 @@ Role play with a colleague in the class through google handouts, Skype or a chat
    Describe your idealized future as if it were already happening.
 * How can you get there? What are your ideas for realizing this preferred future?
 
-* Learning Activity 4
+* Learning Activity 4.
  Post to your blog an outline of an employee development plan for your organization using technology.  Include methods to promote organizational citizenship behavior, co-creation and innovation in a service-oriented culture. Syndicate your blog to the Learning Activities area of the course blog. Be sure to tag the response with the unit and learning activity number so it can be easily found.
 
 
