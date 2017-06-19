@@ -4,7 +4,7 @@ Learning Activity 1.
 Students have not been directed to read the resources at this point. Also, are some of the resources directly related to the activities below. For example #3 asks student to "outline an employee development plan", is there a guide for them to do so? What information is presented to them that would allow them to do this? 
 
 Learning Activity 2. 
-Read to Androgogy unit notes (and any other resource material). 
+Read the Unit notes on Androgogy access from the link below.  
 In a blog post, describe your experience working with adult learners or as your experience as an adult learing. Frame your post using the six principles of Androgogy. 
 
 Learning Activity 3. 
