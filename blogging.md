@@ -13,10 +13,11 @@ All blog posts should be between 150 - 250 words.
 * Unit 3: Learning Activity 2.  Respond to colleagues posts
 * Unit 4: Learning Activity 1 and 2.
 * Unit 5: Learning Activity 1 and 2.
-* Unit 6 Learning Activity 2, 3 and 4
+* Unit 6 Learning Activity 1, 2 and 3
 * Unit 7 Learning Activity 2 and 3
 * Unit 8 Learning Activity 1 and 2
 * Unit 9 Learning Activity 2
+* Unit 10 Learning Activity 1
 
 
 
