@@ -1,4 +1,7 @@
-# Course Assessments
+# Course Assignments
+
+The table below lists all of the possible assignments for this course. Assignments with * are assignments of choice. You must choose to complete two of the four in order to be graded out of 100. All other assignments listed are mandatory. 
+
 
 | Assignment | Value |
 | :--- | :--- |
@@ -12,5 +15,5 @@
 |Southwest Air*| 10%|
 | My Leadership Story | 10% |
 
+Instructions for each assignment are available in the appropriate unit. 
 
-Assignments with * are assignments of choice. You must choose to complete two of the four in order to be graded out of 100. All other assignments listed are mandatory. 
