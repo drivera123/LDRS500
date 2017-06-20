@@ -13,4 +13,4 @@
 | My Leadership Story | 10% |
 
 
-Assignments with * above are assignments of choice. You must choose to complete two of the four in order to be graded out of 100. 
+Assignments with * above are assignments of choice. You must choose to complete two of the four in order to be graded out of 100. All other assignments listed above are mandatory. 
