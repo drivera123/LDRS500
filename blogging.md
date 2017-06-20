@@ -2,7 +2,7 @@
 
 As you work through this course \(and the program\), much of your work will be completed on your own blog. You should have already set up a blog during the Orientation course, but if you haven't, you can access instructions through a link below.
 
-This on-going assignment accounts for 20% of the final grade of this course. The following are the blogging posts and responses that you are asked to make listed by Unit and Learning Activity. When you post, remember to tag each entry with the Unit and Learning Activity number so it can be easily searched. 
+This on-going assignment accounts for 30% of the final grade of this course. The following are the blogging posts and responses that you are asked to make listed by Unit and Learning Activity. When you post, remember to tag each entry with the Unit and Learning Activity number so it can be easily searched. 
 
 All blog posts should be between 150 - 250 words. 
  
