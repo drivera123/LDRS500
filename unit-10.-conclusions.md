@@ -8,7 +8,7 @@ What contributes to effective leadership?
 
 How can I become a more effective leader?
 
-T**hree fundamental and powerful concepts explored in LDRS 500 are:**
+**Three fundamental and powerful concepts explored in LDRS 500 are:**
 
 1.Leading is serving followers and working with them/influencing them to achieve organizational results.
 
