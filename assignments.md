@@ -2,6 +2,8 @@
 
 The table below lists all of the possible assignments for this course. Assignments with \* are assignments of choice but you must choose two to complete. All other assignments listed are mandatory.
 
+
+
 | Assignment | Value |
 | :--- | ---: |
 | Follow the Leader | 10% |
@@ -13,6 +15,8 @@ The table below lists all of the possible assignments for this course. Assignmen
 | Women in Leadership\* | 10% |
 | Southwest Air\* | 10% |
 | My Leadership Story | 10% |
+
+
 
 Instructions for each assignment are available in the appropriate unit.
 
