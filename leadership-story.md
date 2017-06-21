@@ -1,4 +1,4 @@
-###My Leadership Story
+### My Leadership Story
 
 ADD SCAFFOLDING FOR VIDEO
 
@@ -9,7 +9,6 @@ To help you understand the purpose and value of this assignment consider the fol
 I am drawn to stories, as the consumer and the teller. I am drawn to storytellers impacting the communities they live in and role-modeling for generations to come. Deepa Kiran is a pioneering Indian storyteller, dancer, artist, author and mother of two boys \(Nair, 2016\).She has presented at Tedx and an international festival in Iran, and speaks nine languages \(Nair, 2016\).She is a pioneer in storytelling workshops for adults – reminding them of their forgotten and inner storyteller and guiding them back to the creativeness of their childhood \(Nair, 2016\). Kiran’s connection of our forgotten inner-child storytelling talent is connected to resilience. Have we ever wondered how children can be so resilient? It might be because wonder is most potent when we are young. In mindfulness practice, students are taught to reacquaint themselves with a beginner’s eye, a childlike curiosity we discard around 9 years old. As the insulation of childhood erodes, so does our degree of wonder. “There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle \(Einstein, n.d.\)”.  View this article about Deepa Kiran   [http://telanganatoday.news/the-tale-of-storyteller](http://telanganatoday.news/the-tale-of-storyteller)
 
 Perhaps telling stories as adults will remind us to wonder more – and strengthen our resilience in the process?
-
 
 This assignment asks you to develop a story in a video or podcast that you can take with you into future leadership situations. Here is a summary of the seven elements of a good story from [Don Miller](http://mystorybrand.com):
 
@@ -57,13 +56,11 @@ Conclusion hones in on the leadership lesson: restates the message or main point
 
 Substantive response to two stories by colleagues in the class \(4 points\)
 
-
-
 References
 
-Deepa. \(2017\). What does name “Deepa” mean? InSeven Reflectionsonline. Retrieved from [http://www.sevenreflections.com/name/deepa/](http://www.sevenreflections.com/name/deepa/)
+Deepa. \(2017\). What does name “Deepa” mean? In _Seven Reflections Online_. Retrieved from [http://www.sevenreflections.com/name/deepa/](http://www.sevenreflections.com/name/deepa/)
 
-Einstein, A. \(n.d.\). Albert Einstein quotes. InBrainyQuoteonline. Retrieved from [https://www.brainyquote.com/quotes/quotes/a/alberteins390808.html](https://www.brainyquote.com/quotes/quotes/a/alberteins390808.html)
+Einstein, A. \(n.d.\). Albert Einstein quotes.  Retrieved from [https://www.brainyquote.com/quotes/quotes/a/alberteins390808.html](https://www.brainyquote.com/quotes/quotes/a/alberteins390808.html)
 
 Another poignant reason to share your story as part of your leadership practice is provided here:
 
