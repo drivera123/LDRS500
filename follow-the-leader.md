@@ -1,8 +1,6 @@
 ### Follow the Leader
 
-This assignment is worth 10% of the final grade and is _**due the end of Week 1 (Sunday, 11:59 pm)**_
-
-
+This assignment is worth 10% of the final grade and is _**due the end of Week 1 \(Sunday, 11:59 pm\)**_
 
 ##### Assignment Instructions
 
@@ -19,9 +17,7 @@ Before you publish your post, make sure you add it to the category 'LDRS500' and
 
 Once you have published your own post, respond to one or two of your colleagues' posts. If your colleague's blog does not allow comments, write your response as a single new post on your own blog and make sure to link to your colleagues' posts. \(2 marks\)
 
-#####Assessment
+##### Assessment
 
-Marks are awarded bassed on your response to the questions above. Maximum marks for each question are indicated in brackets.  
-
-
+Marks are awarded based on your response to the questions above. Maximum marks for each question are indicated in brackets.
 

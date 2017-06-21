@@ -1,12 +1,12 @@
 ### **The Impact of Critical Thinking in my Leadership Context   **
 
-This assignment is mandatory for all students in LDRS500 including online and on-site cohorts. This assignment is worth 15% of the final grade. 
- 
-Due:
+This assignment is mandatory for all students in LDRS500 including online and on-site cohorts. This assignment is worth 15% of your final grade.
 
-* Part 1 - Rough draft - week 3
-* Part 2 - Peer review - week 4
-* Part 3 - Final draft - week 5
+##### Due Dates
+
+* Part 1 - Rough draft - end of week 3
+* Part 2 - Peer review - end of week 4
+* Part 3 - Final draft - end of week 5
 
 Critical thinking is an essential component of leadership because there is an intelligence to practice. This practical wisdom or phronesis is an intellectual virtue incorporating discernment and judgment and is enhanced through practice. How does a leader in your context incorporate critical thinking?  To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org  These should give you enough information. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
 
@@ -18,7 +18,7 @@ Using the resources below, and others you will need to find in the TWU Library, 
 
 Your paper should be referenced in APA format and include references to at least two of the videos listed below, two references to criticalthinking.org, and two scholarly articles. You should be able to complete this assignment in 750-1000 words.
 
-###### Videos and Resources
+##### Videos and Resources
 
 * [_Critical Thinking_](https://youtu.be/6OLPL5p0fM)
 * [_What is Critical Thinking_](https://youtu.be/9oAf3g5_138)
@@ -35,7 +35,7 @@ On the Monday of week four, you will exchange papers with a partner in the class
 
 Your feedback to your partner should be 150-250 words and may be provided in point form.
 
-**Peer Review Protocol**
+###### **Peer Review Protocol**
 
 Upload your paper as an attachment to the appropriate discussion forum in Moodle by the **end of week 3 \(Sunday night\).**
 
@@ -52,7 +52,10 @@ Summarize your notes in a response to your partner's forum post in 150-250 words
 * Be Helpful: The goal is to positively contribute to the individual or the group, not to simply be heard. Echoing the thoughts of others or cleverly pointing out details that are irrelevant wastes time.
 * Participate: Peer critique is a process to support each other, and your feedback is valued!
 * When critiquing a peer’s work, use “I” statements. For example, “I’m confused by this part,” rather than “This part makes no sense.” 
-* Use questions whenever possible. For example, “I’m curious why you chose to begin with…?”,  or “Did you consider adding…?”
+* Use questions whenever possible. For example
+  * I’m curious why you chose to begin with…?
+  * Did you consider adding…?
+  * What evidence do you have for...?
 
 Remember the three important phrases:
 
@@ -62,14 +65,15 @@ Remember the three important phrases:
 >
 > “If this were my work, I would….”
 
-##### Part 3 - Final draft 
+##### Part 3 - Final draft
 
 Once you have received feedback from your partner, please revise your paper incorporating your peer-reviewer's recommendations. You are encouraged to interact with your reviewer in the forum if you need clarification. You are **not** required to address every item that your peer-reviewer mentions in their review of your paper.
 
 Submit your final paper to the appropriate assignment dropbox in Moodle by the** end of week 5 \(Sunday night\).**
 
 #### Assessment
-Marks will be awarded based on the following criteria: 
+
+Marks will be awarded based on the following criteria:
 
 * Displays grammar & editing that is substantially free of technical flaws. Paper consistently models the language and conventions used in scholarly literature. \(2 points\)
 * Addresses the topic in a focused, cohesive and logical manner evident in good overall structure \(intro/body/conclusion\) and transitions between ideas. \(2 point\)
