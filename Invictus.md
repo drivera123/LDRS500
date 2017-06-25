@@ -1,5 +1,5 @@
 ##### Invictus Assignment
-This is an optional exercise. If you choose to complete it, it is worth 10% of the final grade and is **due end of week 6.**
+This is an optional exercise. If you choose to complete it, it is worth 10% of the final grade and is **due end of week 5.**
 
 ESPN 30 for 30 – “The 16th Man.” This documentary showcases the South African “Springbok” National Rugby Team and its impact on South Africa’s transition from segregation to integration. It involves interviews with players and political activists along with vintage video.[http://www.youtube.com/watch?v=MePCZ\_hw9lM,](http://www.youtube.com/watch?v=MePCZ_hw9lM,)
 
