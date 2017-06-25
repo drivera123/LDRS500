@@ -1,6 +1,9 @@
 
 
 ### **Corporate Ethics**
+This is an optional exercise. If you choose to complete it, it is worth 10% of the final grade and is **due end of week 7.**
+
+
 
 In the article entitled _A corporate training view of ethics education: An interview with Dov L. Seidman, CEO of LRN_ \(Thompson, 2007\) graduate student Kenneth R. Thompson of DePaul University presents an in-depth discussion about ethics, organizational culture, education, and corporate governance solutions with Dov L. Seidman, Chief Executive Officer of LRN \(pp. 79-91\).The quote,
 
