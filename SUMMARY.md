@@ -14,7 +14,7 @@
   * [Corporate Ethics](corporate-ethics.md)
   * [Southwest Airlines \(HBR\)](southwest-airlines.md)
   * [Survey Assignment](survey-assignment.md)
-  * Policy Analysis
+  * [Policy Analysis](policy-analysis.md)
   * [Alignment](alignment.md)
   * [Creating a tool for policy analysis](creating-a-tool-for-policy-analysis.md)
   * [X Learning Journal](assignment-3.md)
