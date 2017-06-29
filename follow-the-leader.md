@@ -1,6 +1,6 @@
 ### Follow the Leader
 
-This assignment is worth 10% of the final grade and is _**due the end of Week 1 \(Sunday, 11:59 pm\)**_
+This assignment is worth 10% of the final grade.
 
 ##### Assignment Instructions
 
