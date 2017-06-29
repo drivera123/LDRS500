@@ -1,29 +1,23 @@
- **Learning Activities**
-
-### **Summary Overview**
-
 Transformational leaders inspire and motivate followers to reach their fullest potential for the good of the organization \(Northouse, 2016\). Whereas servant leaders put followers first, empower them, and help them develop their full personal capacities” \(Northouse, 2016, p.225\). One would argue that to best serve individuals in a dynamic external environment, a leader must have a leadership style that deeply cares for employees’ needs and the organizational objectives. The co-mingling of both approaches is the best approach in that leaders must serve both interests” Transformational servant leadership would be an ideal style when faced with a dynamic external environment and endeavoring to empower, encourage innovation and risk-taking amongst the team members.
 
 According to Quinn and Spreitzer \(1997\), empowered followers are more effective, more innovative, and are transformational in the work they do. When employees are empowered, they perform better and to their full potential to overcome obstacles. In traditional leadership, upper management issue instructions to their employees who are responsible to complete tasks according to guidelines. Comparably, transformational servant leaders empower and motivate their followers to think and act, which develops self-confidence.
 
-For this session, you will read the following two chapters from Northouse and post your response to the group discussions on the questions below:
+For these activities, you will read the following two chapters from Northouse and post your response to the group discussions on the questions below:
 
 #### **Learning Activity 1**
 
-**Read Chapter 8: Transformational Leadership in your textbook as well as all journal articles. \(**Prepare a 2OO word precis/synthesis. Post to  your blog and tag your post with the Unit and Learning Activity number of ease of search.\)
-
-·Discuss what other real-world leaders, past or present, could be considered transformational leaders.
+1. Read Chapter 8: Transformational Leadership in your textbook as well as all journal articles. 
+2. Prepare a 2OO word precis/synthesis. Post to your blog and tag your post with the Unit and Learning Activity number of ease of search.\)
+3. ·Discuss what other real-world leaders, past or present, could be considered transformational leaders.
 
 #### **Learning Activity 2**
 
-**Read Chapter 10: Servant Leadership in your textbook**.
+**Read Chapter 10: Servant Leadership in your textbook**.  
 **Watch**   [Serving on Southwest](http://www.youtube.com/watch?v=6TgR95vnM0c) and  [Maxwell's Five Levels](https://www.youtube.com/watch?v=aPwXeg8ThWI)
 
 Considering all this information including the journal articles as well prepare a 2OO word precis/synthesis. Post to your blog and tag your post with the Unit and Learning Activity number of ease of search.
 
 ·How is awareness in the servant leadership approach different from emotional intelligence, or self-awareness in the psychodynamic approach? Can you identify a person who exemplifies this component of the model?
-
-
 
 **References**
 
