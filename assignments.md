@@ -1,6 +1,6 @@
 # Course Assignments
 
-The table below lists all of the possible assignments for this course. Assignments with \* are assignments of choice and you must **choose two** to complete. All other assignments listed are mandatory.
+The table below lists all of the possible assignments for this course. Assignments with \* are assignments of choice and you must **choose one** to complete. All other assignments listed are mandatory.
 
 ****
 
@@ -15,6 +15,7 @@ The table below lists all of the possible assignments for this course. Assignmen
 | Women in Leadership\* | 10% |
 | Southwest Air\* | 10% |
 | My Leadership Story | 10% |
+| Policy Analysis | 10% |
 
 
 
