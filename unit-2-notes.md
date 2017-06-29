@@ -11,11 +11,24 @@ As we read peer reviewed literature we can take these learned theories and put t
 
 **Values-Based Leadership and Transformational Servant Leadership?**
 
-Values-based or ethical leadership is defined as "the demonstration of normatively appropriate conduct through personal actions and interpersonal relationships, and the promotion of such conduct to followers through two-way communication, reinforcement and decision-making" \(Brown, Trevino, & Harrison, 2005, in Leadership Monograph 2014, 2014, p 11\).
+Values-based or ethical leadership is defined as 
 
-Transformational servant leadership combines the transformational and servant leadership models, and is described by Spears \(2004, in Leadership Monograph 2014, 2014, p 15-17\) as inclusive of 10 characteristics: listening, empathy, healing, awareness, persuasion, conceptualization, foresight, stewardship, commitment to the growth of people, and building community.
+> "the demonstration of normatively appropriate conduct through personal actions and interpersonal relationships, and the promotion of such conduct to followers through two-way communication, reinforcement and decision-making" \(Brown, Trevino, & Harrison, 2005, in Leadership Monograph 2014, 2014, p 11\).
 
-Jesus embodies each of these characteristics, in ways too numerous to write in one forum posting. \(Pooley, 2014\) asserts that, he is the son of God, yet was born in human form so he could best understand the temptations, pains and fears that we go through \(listening, empathy\). Healing was one of his primary callings, physically as well as emotionally and spiritually. He connected closely to God to develop self and community awareness, including conceptualization and foresight to develop goals and how to achieve those goals. He was the steward of the earth, with the salvation of humanity entrusted to him. Not once was a person converted due to coercion, but through genuine persuasion of the goodness of God. Jesus was committed to the growth of people through the development of his disciples, and their responsibility to spread God's worth in culturally sensitive ways. All of this developed the everlasting Christian faith community
+Transformational servant leadership combines the transformational and servant leadership models, and is described by Spears \(2004, in Leadership Monograph 2014, 2014, p 15-17\) as inclusive of 10 characteristics: 
+
+* listening, 
+* empathy, 
+* healing, 
+* awareness, 
+* persuasion, 
+* conceptualization, 
+* foresight, 
+* stewardship, 
+* commitment to the growth of people, and 
+* building community.
+
+Jesus embodies each of these characteristics, in ways too numerous to write in one forum posting. Pooley \(2014\) asserts that he is the son of God, yet was born in human form so he could best understand the temptations, pains and fears that we go through \(listening, empathy\). Healing was one of his primary callings, physically as well as emotionally and spiritually. He connected closely to God to develop self and community awareness, including conceptualization and foresight to develop goals and how to achieve those goals. He was the steward of the earth, with the salvation of humanity entrusted to him. Not once was a person converted due to coercion, but through genuine persuasion of the goodness of God. Jesus was committed to the growth of people through the development of his disciples, and their responsibility to spread God's worth in culturally sensitive ways. All of this developed the everlasting Christian faith community
 
 **BASIC LEADERSHIP STYLES**
 
@@ -30,10 +43,5 @@ Jesus embodies each of these characteristics, in ways too numerous to write in o
 | 4.Closely supervises performance | 4.Involves the follower in decision making |
 | 5.Key words are structure control and supervise | 5.Key words are listen, praise and facilitate |
 
-(/assets/WHEN TO USE EACH STYLE_1.jpg)(/assets/Style-2.jpg)
-
-
-
-
-
+\(/assets/WHEN TO USE EACH STYLE\_1.jpg\)\(/assets/Style-2.jpg\)
 
