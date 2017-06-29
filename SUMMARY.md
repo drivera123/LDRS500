@@ -15,8 +15,6 @@
   * [Southwest Airlines \(HBR\)](southwest-airlines.md)
   * [Policy Analysis](policy-analysis.md)
   * [Alignment](alignment.md)
-  * [Creating a tool for policy analysis](creating-a-tool-for-policy-analysis.md)
-  * [X Learning Journal](assignment-3.md)
 * [Unit 1. Defining Leadership and the Essentials of Transformation](chapter1.md)
 * [Unit 1 Learning Activities](unit-1-learning-activities.md)
 * [Unit 2. Themes, Theories and Concepts](unit-2-themes-theories-and-concepts.md)
