@@ -1,10 +1,12 @@
 ### My Leadership Story
 
+##### Check the course Timeline for due date. 
+
 In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
 
 To help you understand the purpose and value of this assignment consider the following:
 
-I am drawn to stories, as the consumer and the teller. I am drawn to storytellers impacting the communities they live in and role-modeling for generations to come. Deepa Kiran is a pioneering Indian storyteller, dancer, artist, author and mother of two boys \(Nair, 2016\).She has presented at Tedx and an international festival in Iran, and speaks nine languages \(Nair, 2016\).She is a pioneer in storytelling workshops for adults – reminding them of their forgotten and inner storyteller and guiding them back to the creativeness of their childhood \(Nair, 2016\). Kiran’s connection of our forgotten inner-child storytelling talent is connected to resilience. Have we ever wondered how children can be so resilient? It might be because wonder is most potent when we are young. In mindfulness practice, students are taught to reacquaint themselves with a beginner’s eye, a childlike curiosity we discard around 9 years old. As the insulation of childhood erodes, so does our degree of wonder. 
+I am drawn to stories, as the consumer and the teller. I am drawn to storytellers impacting the communities they live in and role-modeling for generations to come. Deepa Kiran is a pioneering Indian storyteller, dancer, artist, author and mother of two boys \(Nair, 2016\).She has presented at Tedx and an international festival in Iran, and speaks nine languages \(Nair, 2016\).She is a pioneer in storytelling workshops for adults – reminding them of their forgotten and inner storyteller and guiding them back to the creativeness of their childhood \(Nair, 2016\). Kiran’s connection of our forgotten inner-child storytelling talent is connected to resilience. Have we ever wondered how children can be so resilient? It might be because wonder is most potent when we are young. In mindfulness practice, students are taught to reacquaint themselves with a beginner’s eye, a childlike curiosity we discard around 9 years old. As the insulation of childhood erodes, so does our degree of wonder.
 
 > “There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle \(Einstein, n.d.\)”.
 
@@ -61,5 +63,5 @@ Deepa. \(2017\). What does name “Deepa” mean? In _Seven Reflections Online_.
 
 Einstein, A. \(n.d.\). Albert Einstein quotes.  Retrieved from [https://www.brainyquote.com/quotes/quotes/a/alberteins390808.html](https://www.brainyquote.com/quotes/quotes/a/alberteins390808.html)
 
-Spink, K. \(2006\). _The miracle, the message, the story: Jean Vanier and L'Arche. _London: HiddenSpring
+Spink, K. \(2006\). \_The miracle, the message, the story: Jean Vanier and L'Arche. \_London: HiddenSpring
 
