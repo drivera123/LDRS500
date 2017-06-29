@@ -1,7 +1,7 @@
 
 
 ### **Corporate Ethics**
-This is an optional exercise. If you choose to complete it, it is worth 10% of the final grade and is **due end of week 7.**
+This is an optional exercise. If you choose to complete it, it is worth 10% of the final grade.
 
 
 
