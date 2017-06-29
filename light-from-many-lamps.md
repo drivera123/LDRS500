@@ -1,20 +1,20 @@
 **Responses to Light from Many Lamps**
 
-This is an assignment the carries on throughout the course and accounts for 20% of the final grade. See the schedule below for the reading and the due date for each post. 
+This is an assignment the carries on throughout the course and accounts for 20% of the final grade. See the schedule below for the reading and the due date for each post.
 
-Obtain a copy of:
+Obtain a copy of:  
 Watson, L.E. \(1951\). _Light from Many Lamps_. New York: Simon and Schuster. \*Available from Amazon in new editions.
 
-Due end of week 2: Choose any story from **part one or two of the anthology**, read and savour its message and prose. \(Don't worry about critically analysing it). Write a 2-3 paragraph response in your blog that:
+Due end of week 2: Choose any story from **part one or two of the anthology**, read and savour its message and prose. \(Don't worry about critically analysing it\). Write a 2-3 paragraph response in your blog that:
 
 1. identifies the leadership lesson the reading tells;
 2. explains its impact/relevance to _your life and practice_ of leadership in your context
 
 Before you publish your post, make sure you add it to the category 'LDRS500' and tag it with ‘Light from Many Lamps’.
 
-In the week following submission, review some of your colleauges blogs and respond to two. 
+In the week following submission, review some of your colleagues' blogs and respond to two.
 
-For the remaining posts in the assignment, respond to the same points for content indicated below: 
+For the remaining posts in the assignment, respond to the same points for content indicated below:
 
 * Due end of week 4:  **part three or four of the anthology**.
 
@@ -24,9 +24,8 @@ For the remaining posts in the assignment, respond to the same points for conten
 
 * Due end of week 10:  **part nine or ten of the anthology**.
 
-
-
 #### Assessment
+
 Marks will be awarded by the following criteria:
 
 3 points. Exceptionally well-reasoned, compelling development of position. Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples.
