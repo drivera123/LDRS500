@@ -2,7 +2,7 @@
 
 This assignment is worth 10% of the final grade.
 
-Check the course Timeline for due date. 
+##### Check the course Timeline for due date.
 
 ##### Assignment Instructions
 
