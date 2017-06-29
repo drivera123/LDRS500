@@ -1,6 +1,6 @@
 ### **The Impact of Critical Thinking in my Leadership Context   **
 
-This assignment is mandatory for all students in LDRS500 including online and on-site cohorts. This assignment is worth 15% of your final grade.
+This assignment is mandatory for all students in LDRS500 including online and on-site cohorts. This assignment is worth 10% of your final grade.
 
 ##### Due Dates
 
@@ -43,7 +43,7 @@ Your instructor will assign partners and post the partnerships in the descriptio
 
 Once your partner has posted their paper, download it to your own computer, read it, and make notes according to grammar, composition, and content as prescribed by the assignment. Make notes about the strengths of your partner's paper as well as areas to work on \(clarify, more analysis, more personal application\).
 
-Summarize your notes in a response to your partner's forum post in 150-250 words by the **end of week 4 \(Sunday night\).**
+Summarize your notes in a response to your partner's forum post in 150-250 words by the **end of week 4 \(Sunday night\).** Please remember that your response will be visible to all members of the class in the forum.
 
 ###### Please remember!
 
