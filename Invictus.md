@@ -1,5 +1,8 @@
 ##### Invictus Assignment
+
 This is an optional exercise. If you choose to complete it, it is worth 10% of the final grade.
+
+##### Check the course Timeline for the due date.
 
 ESPN 30 for 30 – “The 16th Man.” This documentary showcases the South African “Springbok” National Rugby Team and its impact on South Africa’s transition from segregation to integration. It involves interviews with players and political activists along with vintage video.[http://www.youtube.com/watch?v=MePCZ\_hw9lM,](http://www.youtube.com/watch?v=MePCZ_hw9lM,)
 
@@ -29,5 +32,5 @@ Source: J. Gandz, M. Crossan, G. Seijts and M. Reno, “Leadership Character and
 
 ##### **Watch the Movie Invictus and complete the following assignment below:**
 
-The Movie Invictus encouraging people to believe in themselves so that the organization can achieve is a noble quest and requires a leader who can not only see over the horizon but make what is over the horizon tangible. As a team leader, getting people to believe in themselves and the organization is at the heart of the process of any transformative process.** In a maximum of 500 words,**  post to your blog your reflection on what you believe are the key lessons of the movie. 
+The Movie Invictus encouraging people to believe in themselves so that the organization can achieve is a noble quest and requires a leader who can not only see over the horizon but make what is over the horizon tangible. As a team leader, getting people to believe in themselves and the organization is at the heart of the process of any transformative process.** In a maximum of 500 words,**  post to your blog your reflection on what you believe are the key lessons of the movie.
 
