@@ -1,6 +1,6 @@
 ##### Women in Leadership
 
-This is an optional exercise. If you choose to complete it, it is worth 10% of the final grade and is **due end of week 8.**
+This is an optional exercise. If you choose to complete it, it is worth 10% of the final grade.
 
 **Assignment Instructions**
 One of your course readings for this unit is a compilation of profiles of women leaders in BC and India. Your task for this assignment is to either interview a woman in a leadership position, or, if you are a woman in a leadership position yourself, respond to the following questions.
