@@ -4,7 +4,7 @@ Carefully read through the Unit Notes accessed from the link below.  If any of t
 
 ##### Learning Activity 2
 
-Rank-Talk-Write Purpose
+Rank-Talk-Write
 
 1. Select a text related to Critical Thinking from the Notes References for unit 3 or another that you source. During or after reading, write a summary sentence for each key idea or concept you identify in a post on your blog.
 
