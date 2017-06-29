@@ -1,3 +1,7 @@
+This assignment is worth 10% of your final grade.
+
+##### Check the course Timeline for the due date.
+
 All policy is part of the public exercise of power and is driven by values – whether explicitly stated or not. This two-part assignment asks you undertake an analysis of a policy in light of transformational servant leadership \(TSL\) characteristics and then create a leadership tool for TSL policy analysis in your organization.
 
 ##### Your Task
