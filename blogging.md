@@ -24,7 +24,7 @@ All blog posts should be between 150 - 250 words.
 The following criteria will be used to assign marks to your blog posts and colleague responses
 
 * The original posting is of high quality, showing depth of knowledge on the topic. The post ends with an open-ended question to advance the discussion.
-* Replies occur under two or more different threads, other than that belonging to the student. Replies are posted on more than one day during the posting period.
+* Replies to other students are **_posted to your own blog_** and provide a link to the original post on another student's blog. Replies are posted on more than one day during the posting period.
 * Response posts to peers' original postings are respectful, show clear synthesis and evaluation of the content read, and provide depth, breath, or new insight to the topic. Reply posts stimulate thinking and advance the conversation.
 * As appropriate, references are included from scholarly peer-reviewed non-course text or readings to support what is said in both original and reply posts.
 * All posts are clearly written and contain no APA/spelling/grammatical errors
