@@ -2,7 +2,7 @@
 
 **Overview**
 
-In Unit \# 7 we turn our attention to an integrated approach in looking at issues that arise in leadership situations, while addressing the principles of ethical leadership, perspectives of ethical leadership from a value-based transformational servant leadership approach. This module builds competency in visioning, strategic thinking, innovation, and team leadership. Please review the MA Leadership Monograph and Competencies for continued study on how these all fit together.
+In Unit \# 7 we turn our attention to an integrated approach in looking at issues that arise in leadership situations, while addressing the principles of ethical leadership, perspectives of ethical leadership from a value-based transformational servant leadership approach. This module builds competency in visioning, strategic thinking, innovation, and team leadership. Please review the _MA Leadership Monograph and Competencies_ for continued study on how these all fit together.
 
 Responsibility is a powerful construct that shapes our decisions, especially in leadership positions of management. The higher the leadership position, the greater the amount of responsibility. “Leaders have the power to illuminate the lives of followers or to cover them in darkness” \(Johnson, 2015, p. 2\) Positions of leadership come with great responsibilities. These consist of organizational responsibilities and the responsibilities to our subordinates. Huizenga \(2016\) asserts that how we carry out these responsibilities can be indicative of both good and bad leadership. Good leadership brings light to subordinates. Bad leadership can bring darkness in the form of harm to the organization and harm to the subordinates. Mistaken assumptions and the lack of moral imagination can play a role in this kind of leadership, and Maxwell \(1993\) emphasizes, “Everything rises and falls on leadership” \(p. 162\). Therefore, we find that the behaviors of servant leadership facilitate good leadership that fosters ethical decision making. Servant leaders focus on and anticipate the needs of others. “They can feel the pulse of the world which they inhabit and anticipate the world that is not yet born” \(Wong & Davey, 2007, p. 9\). This world considers the well-being of those we lead. “What we need most are servant leaders with exceptional abilities blended with hearts full of humility and love.Such leaders can make this world a better place and restore people’s hope in the future” \(Wong & Davey, p. 11\).
 
@@ -10,15 +10,15 @@ Responsibility is a powerful construct that shapes our decisions, especially in 
 
 At the end of this unit the students will be able to:
 
-* Articulate what are the moral implications of leadership behavior 
+* Articulate what are the moral implications of leadership behavior
 
 * Think critically and systematically about self-leadership and the leader’s impact on people and organizations while building competency in adaptability and change, ethics and values, and innovation in organizational setting.
+
 * Synthesize, reflect and integrate leadership thinking related to values-based leadership and transformational servant leadership.
 
 **Resources**
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409 ** Chapter 13 Leadership Ethics**
-
 
 **Journal articles**
 
