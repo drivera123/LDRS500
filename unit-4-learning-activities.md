@@ -7,9 +7,9 @@ For these activities, you will read the following two chapters from Northouse an
 #### **Learning Activity 1**
 
 1. Read Chapter 8: Transformational Leadership in your textbook as well as all journal articles. 
-2. Prepare a 2OO word precis/synthesis. 
+2. Create a new post on your blog and prepare a 2OO word precis/synthesis. 
 3. Discuss what other real-world leaders, past or present, could be considered transformational leaders.
-4. Post to your blog and categorize your post with 'Unit 4' and 'Learning Activities'
+4. Categorize your post with 'Unit 4' and 'Learning Activities'
 
 #### **Learning Activity 2**
 
