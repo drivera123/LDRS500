@@ -1,16 +1,14 @@
 ### Unit 6 People and Organizational Development
 
-### Overview
+##### Overview
 
 This unit is about how a leader supports personal development of followers.  This assumes acknowledging that individuals are valuable and it is a good idea to invest time and resources in them. People development is one of the competencies transformational servant leaders nurture as they help people develop and perform as highly as possible. Based on the commitment to and the responsibility for the development of others, transformational servant leaders consistently promote the ongoing learning of members in their communities. Furthermore, in order to effectively support the developmental needs of members, transformational servant leaders consider appropriate strategies. People development should be approached through systematic, collaborative, and job-embedded processes based on people-centered principles. Such an approach will help promote a positive culture and create positive change in organizations. Supporting people development is the core strategy in producing right results at both personal and organizational levels.
 
 This unit you will learn about the foundational principles of andragogy and how transformational servant leaders create learning experiences that develop people and organizations.
 
-
-
 ##### Learning Objectives
 
-By the end of the unit students will be able to :
+By the end of the unit students will be able to:
 
 * Define andragogy.
 
@@ -40,7 +38,7 @@ Rockwell, D. \(2017, March 17\) The Anatomy of Performance Enhancing Coaching Co
 
 [https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/)
 
-##### References  
+##### References
 
 Dewey, J. \(1944\). Democracy and Education. New York: The Free Press.
 
@@ -55,5 +53,4 @@ Merriam, S. B., & Bierema, L. L. \(2014\). Adult learning: Linking theory and pr
 Merriam, S.B., & Grace, A.P. \(2011\). Contemporary Issues in Adult Education. San Francisco: Jossey-Bass.
 
 Sokal, L., & Sharma, U. \(2014\). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. Exceptionality Education International, 23\(1\), 59-71.
-
 
