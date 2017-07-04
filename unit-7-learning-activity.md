@@ -26,7 +26,7 @@ In this activity our goal is to synthesize, reflect and integrate leadership thi
 2. Define and describe the principles of ethical leadership. Which 2 of the 5 covered in Northouse Chapter 13 do you think are the most important? Why? 
    Write your responses in your blog using the categories 'Unit 7' and 'Learning Activity'. 
 
-**References**
+##### **References**
 
 Huizenga, H.J. \(2016\) MILP Leadership values and ethics. [https://courses.mytwu.ca/mod/assignment/view.php?id=389134](https://courses.mytwu.ca/mod/assignment/view.php?id=389134)
 
