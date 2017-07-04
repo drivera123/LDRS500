@@ -2,13 +2,12 @@
 
 #### **Summary Overview**
 
-In fact, team leadership impacts the profitability and productivity of an organizationand success to a large extendis determined by the quality of the serviceprovided.Page and Wong \(2000\) use the image of a diamond to illustrate the reversal of roles that takes place between the leader and the followers in an organization when leadership is functioning optimally. Initially, vision and direction must be embodied and spread to the followers by the leader in a top-down approach. However, once the followers have embraced the vision, leadership becomes fluid and begins to shift to a follower-driven model. The leader’s job is now to “invest in and serve others so that the mission can be accomplished.” \(p.8\)
+In fact, team leadership impacts the profitability and productivity of an organization and success to a large extent is determined by the quality of the service provided. Page and Wong \(2000\) use the image of a diamond to illustrate the reversal of roles that takes place between the leader and the followers in an organization when leadership is functioning optimally. Initially, vision and direction must be embodied and spread to the followers by the leader in a top-down approach. However, once the followers have embraced the vision, leadership becomes fluid and begins to shift to a follower-driven model. The leader’s job is now to “invest in and serve others so that the mission can be accomplished.” \(p.8\)
 
 ![](/assets/Conceptual Framework)  
 **Page & Wong \(n.d.\)A conceptual framework for measuring servant-leadership**
 
 Team leadership is a classic example of how an organization can influence team performance and effectiveness, and produce phenomenal results. “Team leadership represents a third characteristic of effective team performance” \(Zaccaro, et al., 2001, p. 452\). Effective leaders create, manage and empower teams that incorporate individual efforts of team members to produce high quality services, team performances and remarkable results. This is evident in private sector organizations and similarly, health care organizations dream of creating a “dynamic and responsive” healthcare workforce that can challenge the obstacles towards successful delivery of services \(Oliver, 2006, p. 38\).
-
 
 In the following two activities below, the primary focus is on recognizing the skills of how effective teams work and discussing the management skills required to move a team forward.
 
@@ -21,8 +20,6 @@ In the following two activities below, the primary focus is on recognizing the s
 **Learning Activity 2** Read Chapter 11 in Cases in Leadership and the article - 10 Characteristics of Effective Caring Leaders. Prepare a 400-word reflection in response to the instruction below and post to the blog:
 
 Describe the internal and external leadership actions a team leader should take when coordinating a group project in an organization.
-
-
 
 **REFERENCES**
 
