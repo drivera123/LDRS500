@@ -2,7 +2,7 @@
 
 1. Complete the Personal Inventory of Servant Leadership survey. Access the survey from the link below.
 
-2. Read chapters 1 and 10 of Northouse text. Start writing your blog. Begin with Northouse’s definition of leadership as above in the unit overview. Then explain your ideas about the following components of leadership: process, power, influence, group context and goal attainment. Close with one question that invites further comment and discussion. Add your post to the 'Learning Activities' and 'Unit 1' categories.
+2. Read chapters 1 and 10 of Northouse text. Start writing your blog. Begin with Northouse’s definition of leadership as above in the unit overview. Then explain your ideas about the following components of leadership: process, power, influence, group context and goal attainment. Close with one question that invites further comment and discussion. Add your post to the 'Learning Activities' and 'Unit 1' categories. If you are uncertain about how to set-up your blog, use the link at the bottom of this page to access How to information. 
 
 3. Distinguish between _assigned_ and _emergent_ leaders.  In your blog give an example of an instance in which you ‘emerged’ as a leader. Citing references from Northouse \(and referencing according to APA\), identify the essential activities of management and leadership. How are these activities played out by managers and leaders? Which approaches do you think are most essential for an organization to prosper? Close with one question that invites further comment and discussion.Add your post to the 'Learning Activities' and 'Unit 1' categories.
 
