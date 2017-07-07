@@ -12,7 +12,7 @@ Rank-Talk-Write
 
 3. Add to the ranked list of sentences a one or two paragraph summary of the chosen text.
 
-4. Tag your post to the 'Unit 4 Learning Activities'  category.
+4. Tag your post to the 'Unit 3 Learning Activities'  category.
 
 5. Read other's summaries on their blogs and post comments about at least two.
 
