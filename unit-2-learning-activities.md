@@ -2,7 +2,7 @@
 
 ##### Learning Activity 1.
 
-Read the Unit 2 Notes which are accessed from the link below, the three listed journal articles above and Northouse chapters 2, 3, 4, 5.
+Read the Unit 2 Notes which are accessed from the link below, the three listed journal articles and Northouse chapters 2, 3, 4, 5.
 
 ##### Learning Activity 2.
 
