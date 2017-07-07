@@ -1,54 +1,8 @@
-### Overview
+In this threshold course in the MA LEAD program you explored a number of topics that will be dealt with in more depth throughout the program in different courses. To set the tone we focused on Transformational Servant Leadership and the personal competencies we need to hone to improve leadership. We looked at leadership generally and more particularly, Women in Leadership, Ethical Leadership, Values-Based Leadership and Team Leadership.  We also explored certain skills that leadership need to develop such as Critical Thinking skills, how to develop people and organizations and the role of Foresight and Strategy.
 
-The essential questions this course has sought to answer are:
+As mentioned in the introductory unit, it bears repeating: while the complexity of leadership is undeniable, our conceptualization of it in the MA LEAD program aims to be holistic. Northouse (2016) defines leadership as ‘a process whereby an individual influences a group of individuals to achieve a common goal’ (p.6).  It is less important to know various definitions of leadership and more important to know the essence, principles and practices of good leadership. It is also important to know how leadership and management differ.
 
-What is leadership?
-
-What contributes to effective leadership?
-
-How can I become a more effective leader?
-
-**Three fundamental and powerful concepts explored in LDRS 500 are:**
-
-1.Leading is serving followers and working with them/influencing them to achieve organizational results.
-
-2.The right leadership can contribute to an engaged and transformed workforce.
-
-3.The study of leadership is a journey of personal awareness and transformation based on increasing understanding of human behaviour.
-
-![](/assets/import.png)
-
-##### Learning Outcomes
-
-At the end of this threshold course students should be able to:
-
-* Clarify their understanding of the logic of the discipline of Leadership
-
-* Define the purpose or goal of studying leadership
-
-* Describe the types of questions leaders ask and what problems leaders try to solve.
-
-* Assess what kind of information leaders gather and how.
-
-* Define the essential Concepts – basic ideas or theories of leadership.
-
-* Explain the implications and consequences of leadership studies for everyday life.
-
-* Justify the point of view fostered in transformational servant leadership.
-
-* Explain the most basic ideas you are learning about leadership and define its most basic vocabulary.
-
-* Explain the extent to which the subject of leadership involves a great deal of expert disagreement or very little expert disagreement.
-
-* Relate the subject of leadership to significant problems in the world and within your own organization.
-
-* Explain to what extent thinking in the field of leadership has helped you to become more intellectually humble, perseverant, autonomous, clear, relevant and reasonable.
-
-In a spirit of inquiry, we encourage you to revisit these questions and add to your answers throughout the program.  This will enhance your conceptual framework of leadership and understanding of the logic of the discipline.
-
-##### 
-
-##### 
+We hope you have enjoyed this first course and sincerely look forward to working with you throughout the program.
 
 
 
