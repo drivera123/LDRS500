@@ -19,9 +19,9 @@ Complete the exercise to evaluate your trusted network for diversity.
 2.	On a piece of paper, jot down the first names or initials of 10 people you know who are not family members.  (1 min)
 3.	Open the Trusted 10 work sheet and review the diversity dimensions. Code your named people within the worksheet categories.  Once complete, review the worksheet and consider how diverse your group is. (5 min)
 4.	Now on a separate sheet of paper draw one large ring, another ring inside it and a ring inside of it, so you have a model three rings. Place the names of your named people in the rings where:  
- • Outer Ring is Level 1 and the people are         acquaintances, 
- • Middle Ring is Level 2 and you are comfortable with these people in your home,
- • Inside Ring is Level 3 and these people are your trusted 10. 
+* Outer Ring is Level 1 and the people are         acquaintances, 
+* Middle Ring is Level 2 and you are comfortable with these people in your home,
+* Inside Ring is Level 3 and these people are your trusted 10. 
 
 Again, review this drawing in context of diversity. It is most common that we tend to replicate our world and we trust people who are like ourselves.  Is that true of yourself? If so, what can you do to increase diversity and trustedness within your network? 
 
