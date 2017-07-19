@@ -4,14 +4,14 @@ According to Quinn and Spreitzer \(1997\), empowered followers are more effectiv
 
 For these activities, you will read the following two chapters from Northouse and post your response to the group discussions on the questions below:
 
-#### **Learning Activity 1**
+##### **Learning Activity 1**
 
 1. Read Chapter 8: Transformational Leadership in your textbook as well as all journal articles. 
 2. Create a new post on your blog and prepare a 2OO word precis/synthesis. 
 3. Discuss what other real-world leaders, past or present, could be considered transformational leaders.
 4. Categorize your post with 'Unit 4' and 'Learning Activities'
 
-#### **Learning Activity 2**
+##### **Learning Activity 2**
 
 1. Read Chapter 10: Servant Leadership in your textbook.
 2. Watch [Serving on Southwest](http://www.youtube.com/watch?v=6TgR95vnM0c) and [Maxwell's Five Levels](https://www.youtube.com/watch?v=aPwXeg8ThWI)

@@ -1,12 +1,8 @@
-## **Unit 5: Team Leadership**
-
-### **Overview**
-
 In Unit 5 Team Leadership, our focus looks at both the internal and external actions of an effective team and requirements of leadership as partnership.The purpose of this module is to critically think through these leadership frameworks along with team-based models and apply them to leadership context. This unit builds competency in innovation, adaptability and change, higher-ordered analysis, values and ethics, relationships and collaboration, team leadership, and people development. Please review the MA Leadership Monograph and Competencies for continued study on how these all fit together.
 
 While team leadership focuses on providing and achieving tasks/projects that are aligned to the vision and mission of the organization, it also takes into consideration the importance of respect drivers practiced not only among the employee-employer level but also among the team members. Marciano \(2010\) presents essential RESPECT drivers in a workplace as recognition, empowerment, supportive feedback, expectations, partnering, consideration and trust.
 
-#### **Learning Objectives**
+##### **Learning Objectives**
 
 At the end of this unit the students will be able to:
 
