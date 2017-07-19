@@ -1,9 +1,8 @@
-**Unit 3 Notes**
 On Jan. 9, 2017 MA LEAD student Christel Davidson wrote the following post entitled ‘Designing Our Boxes’ for another course. I quote it here, with her permission, as an introduction to this unit on values based leadership and critical thinking.
 
 > “Critical transformational learning is a holistic learning practice that helps people to crawl out of their boxes, experience the space outside the box and then reconstruct their next box which in turn they will crawl out of again and repeat over and over again. I say they will reconstruct their box each time because as human beings we need boundaries to our thought, actions and emotions, and without them, we become unsure of whether anything is concrete or valid, so to feel safe we have our boxes. This is perfectly alright as long as we don't get stuck in the same box forever.
 >
-> The value of critical transformational learning is that there is a personal intentionality to the process. This can be guided by an educator or it can happen independently. Each time the learner temporarily exits the box to take a fresh view of life, it is not to throw the person into a state of chaos or abandonment of absolutes, but to give a moment where thoughts can be free to explore other possible points of view or to reflect on habits and unconscious actions that are rooted in their beliefs. Once challenged or left open for review, a critical analysis can be made, conclusions drawn and a shifted belief or valuestabilized, by restating or redesigning their box.
+> The value of critical transformational learning is that there is a personal intentionality to the process. This can be guided by an educator or it can happen independently. Each time the learner temporarily exits the box to take a fresh view of life, it is not to throw the person into a state of chaos or abandonment of absolutes, but to give a moment where thoughts can be free to explore other possible points of view or to reflect on habits and unconscious actions that are rooted in their beliefs. Once challenged or left open for review, a critical analysis can be made, conclusions drawn and a shifted belief or value stabilized, by restating or redesigning their box.
 >
 > There are endless ways that this can be accomplished, so long as the process evokes the emotions, stimulates the soul and matures the mind.”
 
@@ -132,5 +131,4 @@ You learn critical thinking through the practice of thinking critically. It is h
 > Language functions as a mediation tool between humans and their world. As humans, we don’t contemplate reality face to face. Since birth, things in our world don’t come to us in their naked form, but always dressed up in the names our community has given them. This community has already defined how and what the world is like and, therefore, already knows it \(the world\). This knowledge of the world is crystallized in our language. Language, therefore, is not a copy of objects and facts. Language is always interpretation \(cited in Goodson 2013, p.47\).
 
 Eventually you will be able to engage in the demanding tasks of academic thinking and writing with less effortful analysis or deliberation. However, it is through the effort and struggle that you’ll improve so stay with it. Welcome to the academe!
-
 
