@@ -1,9 +1,3 @@
-### My Leadership Story
-
-This assignment is worth 10% of the final grade.
-
-##### Check the course Timeline for due date.
-
 In the transformational leadership model we learn how important it is for a leader to articulate his or her vision to others. One way of doing that is through sharing stories and personal anecdotes.
 
 To help you understand the purpose and value of this assignment consider the following:
