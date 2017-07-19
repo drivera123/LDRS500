@@ -8,19 +8,19 @@
 
 Read Rockwell, D. \(2017, March 17\) _The Anatomy of Performance Enhancing Coaching Conversations_.
 
-Upon completion consider how you as a leader can have a conversation about goals and professional development
+Upon completion, consider how you as a leader can have a conversation about goals and professional development
 
 An important part of leadership is developing others. To do that, you need to have conversations about goals and interests, professional development needs etc. Practice the constructive feedback guidelines.
 
-Role play with a colleague in the class through Google Hangouts, appear.in,  Skype or a chat. Try to set up a time you can interact in real time. Ask each other the following questions and then post on your blog a paragraph or two introducing the person you interviewed. 
+Role play with a colleague in the class through Google Hangouts, appear.in,  Skype or a chat. Try to set up a time you can interact in real time. Ask each other the following questions and then post on your blog a paragraph or two introducing the person you interviewed.
 
-Use the categories 'Unit 6' and 'Learning Activity'.
-
- Here are some possible questions:
+Here are some possible questions:
 
 * When are you at your best? Describe a time when you performed really well what were the circumstances during that time?
 * Where do you want to be in five years from now? Describe your idealized future as if it were already happening.
 * How can you get there? What are your ideas for realizing this preferred future?
+
+Use the categories 'Unit 6' and 'Learning Activity'.
 
 ##### Learning Activity 3
 
@@ -30,7 +30,7 @@ This article is an example of technology use in a hospitality field and will giv
 
 Also review the Dan Rockwell resource links and the Northouse case studies for additional understanding about developing employee development plans.
 
-Post to your blog an outline of an employee development plan for your organization using technology.  Include methods to promote organizational citizenship behavior, co-creation and innovation in a service-oriented culture. 
+Post to your blog an outline of an employee development plan for your organization using technology.  Include methods to promote organizational citizenship behavior, co-creation and innovation in a service-oriented culture.
 
 Use the categories 'Unit 6' and 'Learning Activity'.
 

@@ -1,7 +1,3 @@
-### Unit 6 People and Organizational Development
-
-##### Overview
-
 This unit is about how a leader supports personal development of followers.  This assumes acknowledging that individuals are valuable and it is a good idea to invest time and resources in them. People development is one of the competencies transformational servant leaders nurture as they help people develop and perform as highly as possible. Based on the commitment to and the responsibility for the development of others, transformational servant leaders consistently promote the ongoing learning of members in their communities. Furthermore, in order to effectively support the developmental needs of members, transformational servant leaders consider appropriate strategies. People development should be approached through systematic, collaborative, and job-embedded processes based on people-centered principles. Such an approach will help promote a positive culture and create positive change in organizations. Supporting people development is the core strategy in producing right results at both personal and organizational levels.
 
 This unit you will learn about the foundational principles of andragogy and how transformational servant leaders create learning experiences that develop people and organizations.
