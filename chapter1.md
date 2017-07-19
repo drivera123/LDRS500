@@ -1,6 +1,3 @@
-
-##### **Overview**
-
 In this first unit a ‘big picture’ view of leadership is introduced. There is a focus on Transformational Servant Leadership and the personal competencies we need to hone to improve leadership.
 
 Definitions of leadership since the early 1900s reflect evolving understandings of people, process, power and society. While the complexity of leadership is undeniable, our conceptualization of it in the MA LEAD program aims to be holistic. Northouse \(2016\) defines leadership as ‘a process whereby an individual influences a group of individuals to achieve a common goal’ \(p.6\). It is less important to know various definitions of leadership and more important to know the essence, principles and practices of good leadership. It is also important to know how leadership and management differ.
@@ -9,7 +6,7 @@ As a program we draw on the leadership example of Jesus as the supreme example o
 
 Your Birkman assessment and consultation helped you identify three competencies to work on during the program. I suggest that you choose one of your strengths and two other opportunities for growth. As an applied program, we will constantly encourage you to relate concepts to practice. This focus on ‘praxis’ will help you to leverage your learning throughout the program and effect your personal transformation as well as the impact you want to make. You could be thinking about what you wish you could change given the chance or where you hope to be in five years. Let’s get started!
 
-##### Learning Objectives:
+##### Learning Objectives
 
 At the end of this unit students will be able to:
 
@@ -20,8 +17,4 @@ At the end of this unit students will be able to:
 ##### **Resources**
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
-
-
-
-
 
