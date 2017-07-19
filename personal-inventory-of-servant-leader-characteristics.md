@@ -1,6 +1,6 @@
-**Personal Inventory of Servant-Leader Characteristics**
+##### **Personal Inventory of Servant-Leader Characteristics**
 
-Print this page out in order to complete the survey. 
+Print this page out in order to complete the survey.   
 Using the following rating system of response numbers 1 through 4, circle the number that most accurately applies to your current leadership characteristics. When you’ve completed the sheet, save it in a convenient place, such as your desk drawer, and review it on occasion.
 
 1. I don't believe this is an important characteristic of leadership.
@@ -11,7 +11,7 @@ Using the following rating system of response numbers 1 through 4, circle the nu
 
 4. I exhibit and practice this characteristic now,consciously and consistently.
 
-**RATING YOUR SERVANT·LEADER CHARACTERISTICS:**
+##### **RATING YOUR SERVANT·LEADER CHARACTERISTICS:**
 
 | Listening | 1 | 2 | 3 | 4 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,6 +22,8 @@ Using the following rating system of response numbers 1 through 4, circle the nu
 | Conceptualization | 1 | 2 | 3 | 4 |
 | Foresight | 1 | 2 | 3 | 4 |
 | Stewardship | 1 | 2 | 3 | 4 |
-| Commitment to the growth of people  | 1 | 2 | 3 | 4 |
+| Commitment to the growth of people | 1 | 2 | 3 | 4 |
 | Building community | 1 | 2 | 3 | 4 |
+
+
 
