@@ -1,13 +1,8 @@
-### Unit 8
-
-##### Overview
-
 In this unit you will consider the particular role and challenges faced by women in leadership. You will read about the complex path to leadership for women and consider·the research concerning gender and leadership styles, the obstacles encountered and how leaders can work towards leveling the playing field for men and women.
-
 
 ##### Learning Outcomes
 
-**By the end of this unit students will be able to:**
+By the end of this unit students will be able to:
 
 * Synthesize generally what research says about how human behavior differs for men and women.
 
@@ -21,7 +16,7 @@ Northouse chapter 15 Gender and Leadership
 
 Nugent, J., Pollack, A. & D. Travis. _The day to day experiences of workplace inclusion and exclusion_. \(2016\). Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
 
-**References**
+##### **References**
 
 Bohnet, I. \(2016\). _What works: Gender equality by design_. London: Belkap Press of Harvard Univeristy Press.
 
@@ -38,8 +33,6 @@ Kaley, M. \(1971\). Attitudes toward the dual role of the married professional w
 Nugent, J., Pollack, A. & D. Travis, \(2016\). _The Day to day experiences of workplace inclusion and exclusion_. Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
 
 ##### 
-
-
 
 
 

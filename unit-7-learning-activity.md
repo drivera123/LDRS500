@@ -1,7 +1,3 @@
-## **Learning Activities**
-
-#### **Summary Overview**
-
 Ethical leadership is a necessary element in any organizations. According to Johnson \(2015\), ethical leadership enhances organizational trust levels, fostering perceptions that the organization is competent, open, concerned for employees, and reliable. Such trust leads to improved organizational performance and greater profitability. Moreover, ethical leadership grows an ethical organization climate that can increase job satisfaction and commitment to the organization \(p. xxi\).
 
 Ethics is a personal trait, and it represents the behavior of a person. The behavior accumulates with a long time practice. Seidman believes that human has innate nature to think that we can figure out the difference between right and wrong \(Thompson 2007\). In other words, every individual has his or her ethical value to judge right and wrong.
@@ -12,9 +8,9 @@ A great leader is not just telling the follower what to do, but building up thei
 
 ##### **Learning Activity 1**
 
-Watch video: What is Ethical Leadership?  After you watch the video, articulate what are the moral implications of leadership behavior and also elaborate on ways that you have found helpful as presented by Avolio and Gardner's \(2005\) journal article authentic leadership development and can recommend to enable your organization to grow and flourish.
+Watch the video [What is Ethical Leadership?](https://www.youtube.com/watch?v=ks2QGoIq5nA)  
 
-[https://www.youtube.com/watch?v=ks2QGoIq5nA](https://www.youtube.com/watch?v=ks2QGoIq5nA)
+After you watch the video, articulate what are the moral implications of leadership behavior and also elaborate on ways that you have found helpful as presented by Avolio and Gardner's \(2005\) journal article authentic leadership development and can recommend to enable your organization to grow and flourish.
 
 Post this to your blog using the categories 'Unit 7' and 'Learning Activity'.
 
