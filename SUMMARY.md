@@ -43,9 +43,7 @@
   * [Unit 3 Notes](unit-3-notes.md)
   * [Unit 1 Personal Inventory of Servant-Leader Characteristics](personal-inventory-of-servant-leader-characteristics.md)
   * [Unit 6 - Androgogy notes](unit-6-androgogy-notes.md)
-* [Unit 3 Learning Activities](unit-3-learning-activities.md)
 * [Links to Images](links-to-images.md)
-* [Unit 2 Notes](unit-2-notes.md)
 * [Unit 9 Notes](unit-9-notes.md)
 * [Trusted 10 worksheet](trusted-10-worksheet.md)
 
