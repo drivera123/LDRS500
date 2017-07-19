@@ -1,11 +1,14 @@
 All policy is part of the public exercise of power and is driven by values – whether explicitly stated or not. This two-part assignment asks you undertake an analysis of a policy in light of transformational servant leadership \(TSL\) characteristics and then create a leadership tool for TSL policy analysis in your organization.
 
-##### Your Task
+##### Part 1
 
 * Choose a policy \(preferably from your organization\)
 * State the policy verbatim.
 * Identify the values assumed by the policy and explain these in context.
 * Compare the assumed values to TSL principles.
+
+##### Part 2
+
 * Create a tool \(model, flow chart, series of questions etc\) to engage leadership and assist in TSL policy analysis in your organization.
 * In a paragraph, explain how your tool will foster Transformational Servant-Leadership abilities and appropriate styles of leadership in your organization.
 * Identify how you could enhance the tool and/or what you will do with it.
