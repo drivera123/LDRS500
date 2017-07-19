@@ -1,5 +1,3 @@
-##### T**he essence of leadership**
-
 As we read peer reviewed literature we can take these learned theories and put them into practice. When we put theory into practice it will transform our values. This would be the goal of Transformational Leadership. Giroux \(2014\) suggests, there may be some days where the servant leader could be accused of laissez-faire leadership. When we know the rationale behind his/her decisions, however, we gain a better understanding of the why behind engaging laissez-faire. Author, Rakesh Wadhhwa \(n.d.\) blogs about the oxymoron in the term laissez-faire leadership and in fact, points out some of its benefits’ that could be seen to encompass some of the goals of transactional and servant leadership
 
 * instills a higher sense of responsibility among team members
