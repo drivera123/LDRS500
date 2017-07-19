@@ -1,10 +1,5 @@
-### Women in Leadership
+##### **Assignment Instructions**
 
-This is an optional exercise. If you choose to complete it, it is worth 10% of the final grade.
-
-##### Check the course Timeline for due date.
-
-**Assignment Instructions**  
 One of your course readings for this unit is a compilation of profiles of women leaders in BC and India. Your task for this assignment is to either interview a woman in a leadership position, or, if you are a woman in a leadership position yourself, respond to the following questions.
 
 Before you interview a leader, you must first get permission from the person that you would like to interview to post the responses to the questions along with their name on a public blog.

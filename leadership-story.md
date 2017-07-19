@@ -26,7 +26,7 @@ This assignment asks you to develop a story in a video or podcast that you can t
 6. Paint a picture of what life can look like if the do the action or follow the advice. Make it a clear sound bite. Eg Kennedy didn’t say elect me and I’ll build a competitive space program he said I’m going to put a man on the moon.
 7. Define what’s at stake.  Drive home the big idea and purpose of the story.
 
-**Some questions to prompt reflection and recognition:**
+##### **Some questions to prompt reflection and recognition:**
 
 * What people have had a significant impact on your life and why?
 * What hardships have you faced and overcome?
