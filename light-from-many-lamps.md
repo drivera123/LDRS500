@@ -1,5 +1,3 @@
-**Responses to Light from Many Lamps**
-
 This is an assignment the carries on throughout the course and accounts for 20% of the final grade. See the schedule below for the reading and the due date for each post.
 
 Obtain a copy of:  
@@ -24,7 +22,7 @@ For the remaining posts in the assignment, respond to the same points for conten
 
 * Due end of week 10:  **part nine or ten of the anthology**.
 
-#### Assessment
+##### Assessment
 
 Marks will be awarded by the following criteria:
 
