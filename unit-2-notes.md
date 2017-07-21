@@ -30,7 +30,7 @@ Jesus embodies each of these characteristics, in ways too numerous to write in o
 
 **\(Based upon Blanchard & Hersey model\)**
 
-\(/assets/WHEN TO USE EACH STYLE\_1.jpg\)\(/assets/Style-2.jpg\)
+
 
 
 
