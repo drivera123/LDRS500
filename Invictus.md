@@ -1,4 +1,4 @@
-ESPN 30 for 30 – “The 16th Man.” This documentary showcases the South African “Springbok” National Rugby Team and its impact on South Africa’s transition from segregation to integration. It involves interviews with players and political activists along with vintage video.[http://www.youtube.com/watch?v=MePCZ\_hw9lM,](http://www.youtube.com/watch?v=MePCZ_hw9lM,)
+ESPN 30 for 30 – “The 16th Man.” This documentary showcases the South African “Springbok” National Rugby Team and its impact on South Africa’s transition from segregation to integration. It involves interviews with players and political activists along with vintage video. [https://www.youtube.com/watch?v=o8MGI8b\_tZA ](https://www.youtube.com/watch?v=o8MGI8b_tZA)
 
 [http://www.imdb.com/title/tt1057500/plotsummary](http://www.imdb.com/title/tt1057500/plotsummary)
 
@@ -10,7 +10,7 @@ The movie Invictus can be used to illustrate \(or give meaning to\) leadership c
 2. To observe character and its 11 dimensions in practice.
 3. To reflect on our own leadership.
 
-EXHIBIT TN-1: THE EFFECTIVE LEADER
+##### EXHIBIT TN-1: THE Effective Leader
 
 ###### ![](/assets/c1c391f0-3ece-48f1-9ea3-bd51760a1313.jpg)
 
