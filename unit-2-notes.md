@@ -26,7 +26,7 @@ Transformational servant leadership combines the transformational and servant le
 
 Jesus embodies each of these characteristics, in ways too numerous to write in one forum posting. Pooley \(2014\) asserts that he is the son of God, yet was born in human form so he could best understand the temptations, pains and fears that we go through \(listening, empathy\). Healing was one of his primary callings, physically as well as emotionally and spiritually. He connected closely to God to develop self and community awareness, including conceptualization and foresight to develop goals and how to achieve those goals. He was the steward of the earth, with the salvation of humanity entrusted to him. Not once was a person converted due to coercion, but through genuine persuasion of the goodness of God. Jesus was committed to the growth of people through the development of his disciples, and their responsibility to spread God's worth in culturally sensitive ways. All of this developed the everlasting Christian faith community
 
-##### **BASIC LEADERSHIP STYLES**
+##### Basic Leadership Styles
 
 **\(Based upon Blanchard & Hersey model\)**
 
