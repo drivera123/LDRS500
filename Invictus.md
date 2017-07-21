@@ -22,7 +22,7 @@ Source: J. Gandz, M. Crossan, G. Seijts and C. Stephenson, “Leadership on Tria
 
 Source: J. Gandz, M. Crossan, G. Seijts and M. Reno, “Leadership Character and Corporate Governance,” Director 167, May–June 2013, pp. 15–21, reprinted in Ivey Business Journal \[online\],
 
-[http://iveybusinessjournal.com/topics/leadership/leadership-character-and-corporate-governance,](http://iveybusinessjournal.com/topics/leadership/leadership-character-and-corporate-governance,)
+[http://iveybusinessjournal.com/publication/leadership-character-and-corporate-governance/](http://iveybusinessjournal.com/publication/leadership-character-and-corporate-governance/)
 
 ##### **Watch the Movie Invictus and complete the following assignment below:**
 
