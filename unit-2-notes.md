@@ -30,14 +30,7 @@ Jesus embodies each of these characteristics, in ways too numerous to write in o
 
 **\(Based upon Blanchard & Hersey model\)**
 
-| DIRECTIVE BEHAVIOR | SUPPORTIVE BEHAVIOR |
-| :--- | :--- |
-| The extent to which the leader: | The extent to which the leader |
-| 1.Engages in one-way communication | 1.Engages in two-way communication |
-| 2.Spells out the follower’s role | 2.Listens and provides support and encouragement |
-| 3.Tells the follower what, where, when, and how to do something | 3.Facilitates interaction |
-| 4.Closely supervises performance | 4.Involves the follower in decision making |
-| 5.Key words are structure control and supervise | 5.Key words are listen, praise and facilitate |
-
 \(/assets/WHEN TO USE EACH STYLE\_1.jpg\)\(/assets/Style-2.jpg\)
+
+
 
