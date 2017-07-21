@@ -16,7 +16,6 @@ Your paper should be referenced in APA format and include references to at least
 
 ##### Videos and Resources
 
-* [_Critical Thinking_](https://youtu.be/6OLPL5p0fM)
 * [_What is Critical Thinking_](https://youtu.be/9oAf3g5_138)
 * [_Example of Lateral Thinking when it matters_](https://youtu.be/q3HjWA7bii4?list=PL3fSda8lJVjQ4Sdumgrz1Ghfdx_DgovoS)
 * [_Edward de Bono discusses Lateral Thinking_](https://youtu.be/Nb9Oe83ruUw?)
