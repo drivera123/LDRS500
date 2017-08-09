@@ -22,7 +22,9 @@ Another poignant reason to share your story as part of your leadership practice 
 
 This is how we build understanding, eliminate false dichotomies, and connect to the humanity of those we view as different from us. In recent months, Manitoba has made international headlines for the number of refugees crossing the border in to Canada. Judgement abounds over the validity of these refugee claims. There was a man from the border town who adamantly opposed the idea of allowing asylum seekers to enter Canada in this way, until he opened his front door to head to work one morning and saw a family of five shivering, hungry and disoriented asking for assistance. He invited them in, listened to their story, and his heart was transformed. When we listen to another’s story, learn their name and their suffering our hearts are transformed. This is the vision for communion and community that as transformational servant leaders we seek to establish.
 
-This assignment asks you to develop a story in a video or podcast that you can take with you into future leadership situations. Here is a summary of the seven elements of a good story from [Don Miller](http://mystorybrand.com):
+This assignment asks you to develop a story in a podcast that you can take with you into future leadership situations. There is a section of the Orientation that explains how to create a podcast.  If you know how to create video you are welcome to do that instead. It is your choice to create a podcast or video.
+
+Here is a summary of the seven elements of a good story from [Don Miller](http://mystorybrand.com):
 
 1. Character in the story has to want something – you need to say it clearly in a defined manner.
 2. There needs to be a problem. When you solve the problem the story is over – the problem IS the story. Talk about the problem – it’s the heart of the story.

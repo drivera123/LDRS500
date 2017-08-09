@@ -1,4 +1,4 @@
-### **The Impact of Critical Thinking in my Leadership Context   **
+ L## **The Impact of Critical Thinking in my Leadership Context   **
 
 This assignment is mandatory for all students in LDRS500 including online and on-site cohorts. This assignment is worth 10% of your final grade.
 
