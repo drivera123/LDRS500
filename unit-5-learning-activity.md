@@ -16,14 +16,14 @@ In the following two activities below, the primary focus is on recognizing the s
       & Walton\) and the characteristics \(Larson & LaFasto\) provided to support group effectiveness. Give personal examples of 3-4 of these components/characteristics in groups/teams you worked with.
    2. What is principled leadership? What are the 4 sets of processes that influence team effectiveness? Choose one of the 4 processes and give a detailed description of how this process affected you in a team environment.
 
-3. Use the categories 'Unit 5' and 'Learning Activity'.
+3. Use the categories 'Unit 5' and 'LDRS500'.
 
 ##### **Learning Activity 2**
 
 1. Read Chapter 11 in _Cases in Leadership_ and the article - _10 Characteristics of Effective Caring Leaders_. 
 2. Prepare a 400-word reflection in response to the instruction below and post to your blog:
 3. Describe the internal and external leadership actions a team leader should take when coordinating a group project in an organization.
-4. Use the categories 'Unit 5' and 'Learning Activity'.
+4. Use the categories 'Unit 5' and 'LDRS500'.
 
 ##### References
 
