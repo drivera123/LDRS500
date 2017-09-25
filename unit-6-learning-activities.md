@@ -2,7 +2,7 @@
 
 1. Read the Unit notes on Androgogy access from the link below.
 2. In a blog post, describe your experience working with adult learners or as your experience as an adult learner. Frame your post using the six principles of Androgogy.
-3. Use the categories 'Unit 6' and 'Learning Activity'
+3. Use the categories 'Unit 6' and 'LDRS500'
 
 ##### Learning Activity 2
 
@@ -20,7 +20,7 @@ Here are some possible questions:
 * Where do you want to be in five years from now? Describe your idealized future as if it were already happening.
 * How can you get there? What are your ideas for realizing this preferred future?
 
-Use the categories 'Unit 6' and 'Learning Activity'.
+Use the categories 'Unit 6' and 'LDRS500'.
 
 ##### Learning Activity 3
 
@@ -32,5 +32,5 @@ Also review the Dan Rockwell resource links and the Northouse case studies for a
 
 Post to your blog an outline of an employee development plan for your organization using technology.  Include methods to promote organizational citizenship behavior, co-creation and innovation in a service-oriented culture.
 
-Use the categories 'Unit 6' and 'Learning Activity'.
+Use the categories 'Unit 6' and 'LDRS500'.
 
