@@ -24,7 +24,7 @@ In this activity our goal is to synthesize, reflect and integrate leadership thi
 
 ##### **References**
 
-Huizenga, H.J. \(2016\) MILP Leadership values and ethics. [https://courses.mytwu.ca/mod/assignment/view.php?id=389134](https://courses.mytwu.ca/mod/assignment/view.php?id=389134)
+Huizenga, H.J. \(2016\) MILP Leadership values and ethics. 
 
 Johnson, C. E. \(2015\). Meeting the Ethical Challenges of Leadership: Casting Light or Shadow. Thousand Oaks, CA: Sage Publications, Inc.
 
