@@ -8,11 +8,11 @@ A great leader is not just telling the follower what to do, but building up thei
 
 ##### **Learning Activity 1**
 
-Watch the video [What is Ethical Leadership?](https://www.youtube.com/watch?v=ks2QGoIq5nA)  
+Watch the video [What is Ethical Leadership?](https://www.youtube.com/watch?v=ks2QGoIq5nA)
 
 After you watch the video, articulate what are the moral implications of leadership behavior and also elaborate on ways that you have found helpful as presented by Avolio and Gardner's \(2005\) journal article authentic leadership development and can recommend to enable your organization to grow and flourish.
 
-Post this to your blog using the categories 'Unit 7' and 'Learning Activity'.
+Post this to your blog using the categories 'Unit 7' and 'LDRS500'.
 
 ##### **Learning Activity 2**
 
@@ -20,7 +20,7 @@ In this activity our goal is to synthesize, reflect and integrate leadership thi
 
 1. In the article _Transformational Leadership and Performance Across Criteria and Levels,_ what are the main implications for managers in the article? How can you use this information to become a better leader?
 2. Define and describe the principles of ethical leadership. Which 2 of the 5 covered in Northouse Chapter 13 do you think are the most important? Why? 
-   Write your responses in your blog using the categories 'Unit 7' and 'Learning Activity'. 
+   Write your responses in your blog using the categories 'Unit 7' and 'LDRS500'. 
 
 ##### **References**
 
