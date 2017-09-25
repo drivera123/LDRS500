@@ -10,7 +10,7 @@ Read the Unit Notes and Malgeri \(2010\). In the article, Organizational Foresig
    1. [John Smart-Leadership of Tech Change-WFS 2013](https://www.youtube.com/watch?v=QhdWqLNUJns) 
    2. [https://www.youtube.com/watch?v=9WjHZ5wLe6w](https://www.youtube.com/watch?v=9WjHZ5wLe6w)**    **
 2. The two videos show how all organizations must deal with environmental uncertainty. One recent change in our culture is an increased reliance on technology, especially for communication and transacting business. Consider various organizations, such as the United States Postal Service, Canada Post and retail businesses such as Walmart. How have they responded to these changes? What are some positive and negative consequences of these changes? Would you have done anything differently?
-3. Post your response to your blog under the categories 'Unit 9' and 'Learning Activity'.
+3. Post your response to your blog under the categories 'Unit 9' and 'LDRS500'.
 
 
 
