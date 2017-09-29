@@ -38,11 +38,11 @@
 * [Unit 8. Women in Leadership](so-what-now-what.md)
   * [Unit 8 Learning Activities](unit-8-learning-activities.md)
   * [Unit 8 Notes](unit-8-notes.md)
+  * [Trusted 10 worksheet](trusted-10-worksheet.md)
 * [Unit 9. Foresight and Traits](unit-9-foresight-and-traits.md)
   * [Unit 9 Learning Activities](unit-9-learning-activities.md)
   * [Unit 9 Notes](unit-9-notes.md)
 * [Unit 10. Conclusions](unit-10.-conclusions.md)
-* [Trusted 10 worksheet](trusted-10-worksheet.md)
 
 
 
