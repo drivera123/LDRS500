@@ -14,23 +14,23 @@ Using the following scale, have each individual indicate the degree to which the
 
 **\(leader’s name\) is\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Key: 1 = Strongly Disagree,2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree**
+See the Leadership Trait Questionnaire, below.
 
-![](/assets/LTQ.jpg)**Scoring**
+**Key: 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree**
 
-1. Enter the responses for Raters 1, 2, 3, 4, and 5 in the appropriate columns as shown in Example 2.1. The example provides hypothetical ratings to help explain how the questionnaire can be used.
+**Scoring**
+
+1. Enter the responses for Raters 1, 2, 3, 4, and 5 in the appropriate columns as shown in the LTQ Example, below. The example provides hypothetical ratings to help explain how the questionnaire can be used.
 2. For each of the 14 items, compute the average for the five raters and place that number in the “average rating” column.
 3. Place your own scores in the “self-rating” column.
 
-**Example 2.1 Leadership Traits Questionnaire Ratings**
-
-![](/assets/Questionnaire Rating.jpg)**Scoring Interpretation**
+**Scoring Interpretation**
 
 The scores you received on the LTQ provide information about how you see yourself and how others see you as a leader. The chart allows you to see where your perceptions are the same as those of others and they differ.
 
 The example ratings show how the leader self-rated higher than the observers did on the characteristic Articulate. On the second characteristic, Perceptive, the leader self-rated substantially higher than others. On the Self-confident characteristics, the leader self-rated quite close to others’ ratings but lower. There are no best ratings on this questionnaire. The purpose of the instrument is to give you a way to assess your strengths and weaknesses and to evaluate areas where you’re your perceptions are congruent with those of others and where there are discrepancies.
 
-#### **Leadership Instrument**
+#### Leadership Instrument
 
 Many questionnaires assess an individuals’ skills for leadership. A quick search of the Internet provides a host of these questionnaires. Almost all of them are designed to be used in training and development to give people a feel for their leadership abilities. Surveys have been used for years to help people understand and improve their leadership style, but most questionnaires are not used in research because they have not been tested for reliability and validity. Nevertheless, they are useful as self-help instruments because they provide specific information to people about their leadership skills.
 
@@ -44,11 +44,14 @@ Instructions: Read each item carefully and decide whether the item describes you
 
 ##### **Leadership: Theory and Practice**
 
-##### **Key: 1 = Not True, 2 = Seldom True, 3 = Occasionally True, 4 = Somewhat True, 5 = Very True**![](/assets/Leadership-Theory and Practice.jpg)**Scoring**
+##### **Key: 1 = Not True, 2 = Seldom True, 3 = Occasionally True, 4 = Somewhat True, 5 = Very True**
+
+See Leadership Theory and Practice, below.
+
+**Scoring**
 
 The skills inventory is designed to measure three broad types of leadership skills: technical, human, and conceptual. Score the questionnaire by doing the following. First, sum the responses on items 1, 4, 7, 10, 13, and 16. This is your technical skill score. Second, sum the responses on items 2, 5, 8, 11, 14, and 17. This is your human skill score. Third, sum the responses on items 3, 6, 9, 12, 15, and 18. This is your conceptual skill score.
 
-Total scores: **Technical skill score **          ** Human skill score **                **Conceptual skill score**
 
 ##### **Scoring Interpretation**
 
@@ -64,7 +67,10 @@ To assist you in developing a better understanding of how leadership style is me
 
 Instructions: Read each item carefully and think about how often you \(or the person you are evaluating\) engage in the described behavior. Indicate your response to each item by circling one of the five numbers to the right of each item.
 
-##### **Key: 1 = Never, 2 = Seldom, 3 = Occasionally, 4 = Often, 5 = Always**![](/assets/Style Questionnaire.jpg)**Scoring**
+##### **Key: 1 = Never, 2 = Seldom, 3 = Occasionally, 4 = Often, 5 = Always**
+See the Style Questionnaire, below.
+
+**Scoring**
 
 The style questionnaire is designed to measure two major types of leadership behaviors: task and relationship. Score the questionnaire by doing the following: First, sum the responses on the odd-numbered items. This is your task score. Second, sum the responses on the even-numbered items. This is your relationship score.
 
