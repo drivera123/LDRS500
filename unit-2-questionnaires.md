@@ -18,7 +18,7 @@ See the [Leadership Trait Questionnaire](https://create.twu.ca/ldrs500/unit-2-th
 
 **Scoring**
 
-1. Enter the responses for Raters 1, 2, 3, 4, and 5 in the appropriate columns as shown in the [LTQ Example](/ https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below. The example provides hypothetical ratings to help explain how the questionnaire can be used.
+1. Enter the responses for Raters 1, 2, 3, 4, and 5 in the appropriate columns as shown in the [LTQ Example](https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below. The example provides hypothetical ratings to help explain how the questionnaire can be used.
 2. For each of the 14 items, compute the average for the five raters and place that number in the “average rating” column.
 3. Place your own scores in the “self-rating” column.
 
@@ -44,7 +44,7 @@ Instructions: Read each item carefully and decide whether the item describes you
 
 ##### **Key: 1 = Not True, 2 = Seldom True, 3 = Occasionally True, 4 = Somewhat True, 5 = Very True**
 
-See [Leadership Theory and Practice](/ https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below.
+See [Leadership Theory and Practice](https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below.
 
 **Scoring**
 
@@ -66,7 +66,7 @@ To assist you in developing a better understanding of how leadership style is me
 Instructions: Read each item carefully and think about how often you \(or the person you are evaluating\) engage in the described behavior. Indicate your response to each item by circling one of the five numbers to the right of each item.
 
 ##### **Key: 1 = Never, 2 = Seldom, 3 = Occasionally, 4 = Often, 5 = Always**
-See the [Style Questionnaire](/ https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below.
+See the [Style Questionnaire](https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below.
 
 **Scoring**
 
