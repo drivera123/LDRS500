@@ -9,7 +9,7 @@ As we read peer reviewed literature we can take these learned theories and put t
 
 Values-based or ethical leadership is defined as
 
-> "the demonstration of normatively appropriate conduct through personal actions and interpersonal relationships, and the promotion of such conduct to followers through two-way communication, reinforcement and decision-making" \(Brown, Trevino, & Harrison, 2005, in Leadership Monograph 2014, 2014, p 11\).
+> "the demonstration of normatively appropriate conduct through personal actions and interpersonal relationships, and the promotion of such conduct to followers through two-way communication, reinforcement and decision-making" \(Link requires login - [Brown, Trevino, & Harrison, 2005](http://www.sciencedirect.com/science/article/pii/S0749597805000397?via%3Dihub)\)
 
 Transformational servant leadership combines the transformational and servant leadership models, and is described by Spears \(2004, in Leadership Monograph 2014, 2014, p 15-17\) as inclusive of 10 characteristics:
 
