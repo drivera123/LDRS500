@@ -14,13 +14,13 @@ Using the following scale, have each individual indicate the degree to which the
 
 **\(leader’s name\) is\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-See the Leadership Trait Questionnaire, below.
+See the [Leadership Trait Questionnaire](https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below.
 
 **Key: 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree**
 
 **Scoring**
 
-1. Enter the responses for Raters 1, 2, 3, 4, and 5 in the appropriate columns as shown in the LTQ Example, below. The example provides hypothetical ratings to help explain how the questionnaire can be used.
+1. Enter the responses for Raters 1, 2, 3, 4, and 5 in the appropriate columns as shown in the [LTQ Example](/ https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below. The example provides hypothetical ratings to help explain how the questionnaire can be used.
 2. For each of the 14 items, compute the average for the five raters and place that number in the “average rating” column.
 3. Place your own scores in the “self-rating” column.
 
@@ -46,7 +46,7 @@ Instructions: Read each item carefully and decide whether the item describes you
 
 ##### **Key: 1 = Not True, 2 = Seldom True, 3 = Occasionally True, 4 = Somewhat True, 5 = Very True**
 
-See Leadership Theory and Practice, below.
+See [Leadership Theory and Practice](/ https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below.
 
 **Scoring**
 
@@ -68,27 +68,26 @@ To assist you in developing a better understanding of how leadership style is me
 Instructions: Read each item carefully and think about how often you \(or the person you are evaluating\) engage in the described behavior. Indicate your response to each item by circling one of the five numbers to the right of each item.
 
 ##### **Key: 1 = Never, 2 = Seldom, 3 = Occasionally, 4 = Often, 5 = Always**
-See the Style Questionnaire, below.
+See the [Style Questionnaire](/ https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below.
 
 **Scoring**
 
 The style questionnaire is designed to measure two major types of leadership behaviors: task and relationship. Score the questionnaire by doing the following: First, sum the responses on the odd-numbered items. This is your task score. Second, sum the responses on the even-numbered items. This is your relationship score.
 
-Total scores:  ** Task **             ** Relationship**
 
 ##### **Scoring Interpretation**
 
-45-50 Very high range
+45-50 - Very high range
 
-30-34 Moderately low range
+30-34 - Moderately low range
 
-40-44 High range
+40-44 - High range
 
-25-29 Low range
+25-29 - Low range
 
-35-39 Moderately high range
+35-39 - Moderately high range
 
-10-24 Very low range
+10-24 - Very low range
 
 The score you receive for task refers to the degree to which you help others by defining their roles and letting them know what is expected of them. This factor describes your tendencies to be task directed toward others when you are in a leadership position. The score you receive for relationship is a measure of the degree to which you try to make subordinates feel comfortable with themselves, each other, and the group itself. It represents a measure of how people oriented you are.
 
