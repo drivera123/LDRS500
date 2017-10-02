@@ -14,7 +14,7 @@ Using the following scale, have each individual indicate the degree to which the
 
 **\(leader’s name\) is\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-See the Leadership Trait Questionnaire, below.
+See the Leadership Trait Questionnaire at the bottom of the page.
 
 **Key: 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree**
 
