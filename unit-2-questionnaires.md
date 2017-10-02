@@ -12,8 +12,6 @@ Instructions: The purpose of this questionnaire is to measure personal character
 
 Using the following scale, have each individual indicate the degree to which they agree or disagree with each of the fourteen statements below. Do not forget to complete one for yourself.
 
-**\(leader’s name\) is\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
 See the [Leadership Trait Questionnaire](https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below.
 
 **Key: 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree**
