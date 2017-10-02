@@ -1,4 +1,4 @@
-As we read peer reviewed literature we can take these learned theories and put them into practice. When we put theory into practice it will transform our values. This would be the goal of Transformational Leadership. Giroux \(2014\) suggests, there may be some days where the servant leader could be accused of laissez-faire leadership. When we know the rationale behind his/her decisions, however, we gain a better understanding of the why behind engaging laissez-faire. Author, Rakesh Wadhhwa \(n.d.\) blogs about the oxymoron in the term laissez-faire leadership and in fact, points out some of its benefits’ that could be seen to encompass some of the goals of transactional and servant leadership
+As we read peer reviewed literature we can take these learned theories and put them into practice. When we put theory into practice it will transform our values. This would be the goal of Transformational Leadership. Giroux \(2014\) suggests, there may be some days where the servant leader could be accused of laissez-faire leadership. When we know the rationale behind his/her decisions, however, we gain a better understanding of the why behind engaging laissez-faire. Author, Rakesh Wadhhwa \([2012](http://wadhwarakesh.com/laissez-faire-leadership-an-oxymoron/)\) blogs about the oxymoron in the term laissez-faire leadership and in fact, points out some of its benefits’ that could be seen to encompass some of the goals of transactional and servant leadership
 
 * instills a higher sense of responsibility among team members
 * exposes team members to tough business decisions, helping them to gain more experience and grow faster
@@ -9,9 +9,9 @@ As we read peer reviewed literature we can take these learned theories and put t
 
 Values-based or ethical leadership is defined as
 
-> "the demonstration of normatively appropriate conduct through personal actions and interpersonal relationships, and the promotion of such conduct to followers through two-way communication, reinforcement and decision-making" \(Link requires login - [Brown, Trevino, & Harrison, 2005](http://www.sciencedirect.com/science/article/pii/S0749597805000397?via%3Dihub)\)
+> "the demonstration of normatively appropriate conduct through personal actions and interpersonal relationships, and the promotion of such conduct to followers through two-way communication, reinforcement and decision-making" \(Link requires login to TWU Library - [Brown, Trevino, & Harrison, 2005](http://www.sciencedirect.com/science/article/pii/S0749597805000397?via%3Dihub)\)
 
-Transformational servant leadership combines the transformational and servant leadership models, and is described by Spears \(2004, in Leadership Monograph 2014, 2014, p 15-17\) as inclusive of 10 characteristics:
+Transformational servant leadership combines the transformational and servant leadership models, and is described by Spears \(Link requires login to TWU Library - [2004](http://onlinelibrary.wiley.com/doi/10.1002/ltl.94/full)\) as inclusive of 10 characteristics:
 
 * listening, 
 * empathy, 
