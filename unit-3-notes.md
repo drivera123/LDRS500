@@ -17,7 +17,7 @@ Critical thinking is an essential component of leadership because there is an in
 * Spiritual discernment
 * Practical reasoning
 
-Check out her article referenced under ‘resources’ if you’re interested in learning more about this topic. Experiential learning can lead to wisdom if experience is accompanied by critical thinking and intentionally grounded in values and beliefs about what is good. This wisdom is transformational both personally and professionally. But does that mean that in order to be a leader a person has to wait until s/he has a lot of experience? Not exactly – it’s possible to nurture leadership and indeed learn how to be a leader. Northouse \(2016, p.27\) identifies certain traits to cultivate in order to be perceived as a leader:
+Check out her article referenced under ‘Resources’ if you’re interested in learning more about this topic. Experiential learning can lead to wisdom if experience is accompanied by critical thinking and intentionally grounded in values and beliefs about what is good. This wisdom is transformational both personally and professionally. But does that mean that in order to be a leader a person has to wait until s/he has a lot of experience? Not exactly – it’s possible to nurture leadership and indeed learn how to be a leader. Northouse \(2016, p.27\) identifies certain traits to cultivate in order to be perceived as a leader:
 
 * Intelligence
 * Self-confidence
@@ -131,4 +131,26 @@ You learn critical thinking through the practice of thinking critically. It is h
 > Language functions as a mediation tool between humans and their world. As humans, we don’t contemplate reality face to face. Since birth, things in our world don’t come to us in their naked form, but always dressed up in the names our community has given them. This community has already defined how and what the world is like and, therefore, already knows it \(the world\). This knowledge of the world is crystallized in our language. Language, therefore, is not a copy of objects and facts. Language is always interpretation \(cited in Goodson 2013, p.47\).
 
 Eventually you will be able to engage in the demanding tasks of academic thinking and writing with less effortful analysis or deliberation. However, it is through the effort and struggle that you’ll improve so stay with it. Welcome to the academe!
+
+##### References
+
+Cited in the Unit Notes, these resources are for reference purposes–read further in your areas of interest as you wish!
+
+Bondi, L., Carr, D, Clark, C and C. Clegg \(2016\). _Towards Professional Wisdom: Practical Deliberation in the Professions_. New York: Routledge.
+
+Cahalan, K.,Foley, E. and G. S. Mikoski eds. \(2017\). Integrative Knowing and Practical Wisdom in _Minding the Gaps: Integrating Work in Theological Education_. Eugene, OR: Wipf and Stock.
+
+Chong Ho Song, P. \(2015\). _How to read Journal Articles in the Social Sciences._ Thousand Oaks, CA: Sage Publications.
+
+Durant, W. \(1926\). _The Story of Philosophy_. New York: Garden City Publishers.
+
+Goodson, Patricia \(2013\)._Becoming an Academic Writer_. Los Angeles: Sage
+
+Hoerr, T. \(2017\)._The Formative Five: Fostering Grit, Empathy and other Success Skills Every Student Needs_. Alexandria, VA: Association for Supervison and Curriculum Development.
+
+Kavelin Popov, L. \(2004\). _The Pace of Grace: The Virtues of a Sustainable Life_. New York: Penguin.
+
+Rolheiser, R. \(1995\). _Against an Infinite Horizon_. London: Hodder and Stoughton.
+
+
 
