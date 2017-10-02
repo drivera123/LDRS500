@@ -24,23 +24,3 @@ At the end of this unit students will be able to:
 
 Unit 3 Notes
 
-##### References
-
-Cited in the Unit Notes, these resources are for reference purposes–read further in your areas of interest as you wish!
-
-Bondi, L., Carr, D, Clark, C and C. Clegg \(2016\). _Towards Professional Wisdom: Practical Deliberation in the Professions_. New York: Routledge.
-
-Cahalan, K.,Foley, E. and G. S. Mikoski eds. \(2017\). Integrative Knowing and Practical Wisdom in _Minding the Gaps: Integrating Work in Theological Education_. Eugene, OR: Wipf and Stock.
-
-Chong Ho Song, P. \(2015\). _How to read Journal Articles in the Social Sciences._ Thousand Oaks, CA: Sage Publications.
-
-Durant, W. \(1926\). _The Story of Philosophy_. New York: Garden City Publishers.
-
-Goodson, Patricia \(2013\)._Becoming an Academic Writer_. Los Angeles: Sage
-
-Hoerr, T. \(2017\)._The Formative Five: Fostering Grit, Empathy and other Success Skills Every Student Needs_. Alexandria, VA: Association for Supervison and Curriculum Development.
-
-Kavelin Popov, L. \(2004\). _The Pace of Grace: The Virtues of a Sustainable Life_. New York: Penguin.
-
-Rolheiser, R. \(1995\). _Against an Infinite Horizon_. London: Hodder and Stoughton.
-
