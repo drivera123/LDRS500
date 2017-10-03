@@ -14,7 +14,6 @@ Critical thinking is an essential component of leadership because there is an in
 * [_Beyond Common Sense: Critical Thinking Skills and Decision Making for Leaders_](https://youtu.be/QTWc-JLh3Fw)_ _
 * [_The Importance of Critical Thinking_](https://youtu.be/2yEZHXgQKsM)
 * [_http://www.criticalthinking.org_](http://www.criticalthinking.org/pages/college-and-university-students/799)
-* [TWU Library](https://twu.ca/library)
 
 ### Task
 
