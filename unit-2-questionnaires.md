@@ -93,8 +93,6 @@ Your results on the style questionnaire give you data about your task orientatio
 
 ##### **References**
 
-##### **Credits on Instruments**
-
 Northouse, P. G. \(2016\). Leadership: Theory and practice, Fifth Edition. Thousand Oaks, CA: SagePublications.
 
 Giroux, S \(2014\) Module 2- Daily discussion[https://courses.mytwu.ca/mod/forum/discuss.php?d=143509](https://courses.mytwu.ca/mod/forum/discuss.php?d=143509)

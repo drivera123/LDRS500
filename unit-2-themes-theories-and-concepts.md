@@ -15,10 +15,11 @@ At the end of this unit the students will be able to
 
 ##### **Resources**
 
-**Textbook**
+Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
 
-1. Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
-2. Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand Oaks, CA: Sage Publications. ISBN 978-1-4833-8326-2
+Plano, C. V. L., & Creswell, J. W. (2015). Understanding research: A consumer's guide. Boston: Pearson Education
+
+Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand Oaks, CA: Sage Publications. ISBN 978-1-4833-8326-2
 
 **Journal Articles**
 
