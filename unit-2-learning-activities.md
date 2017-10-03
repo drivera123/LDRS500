@@ -8,7 +8,7 @@ Hwang, H., Kang, M., & Youn, M. \(2014\). The influence of a leader's servant le
 
 Meaklim, T., & Sims, J. \(2011\). Leading Powerful Partnerships - a new model of public sector leadership development. International Journal of Leadership In Public Services, 7\(1\), 21-31.
 
-Van Dierendonck, D., Stam, D., Boersma, P., de Windt, N., & Alkema, J. \(2014\). Same difference? Exploring the differential mechanisms linking servant leadership and transformational leadership to follower outcomes. Leadership Quarterly, 25\(3\), 544-562
+Van Dierendonck, D., Stam, D., Boersma, P., de Windt, N., & Alkema, J. \(2014\). Same difference? Exploring the differential mechanisms linking servant leadership and transformational leadership to follower outcomes. Leadership Quarterly, 25\(3\), 544-562. Accessed from [https://doi.org/10.1016/j.leaqua.2013.11.014](https://doi.org/10.1016/j.leaqua.2013.11.014)
 
 ##### Learning Activity 2
 
