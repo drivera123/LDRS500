@@ -23,6 +23,8 @@ Using the resources above, and others you will need to find in the TWU Library, 
 
 Your paper should be referenced in APA format and include references to at least two of the videos listed above, two references to criticalthinking.org, and two scholarly articles. You should be able to complete this assignment in 750-1000 words.
 
+Please complete this assignment in a word processing document, such as MS Word.
+
 ##### Part 2 - Peer Review
 
 On the Monday of week four, you will exchange papers with a partner in the class and perform a peer review for each other. Your peer review should be collegial and address issues like grammar and structure as well as the quality of arguments and evidence presented in the paper.
