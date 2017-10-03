@@ -31,7 +31,7 @@ Your feedback to your partner should be 150-250 words and may be provided in poi
 
 ###### **Peer Review Protocol**
 
-Upload your paper as an attachment to the appropriate discussion forum in Moodle by the **end of week 3 \(Sunday night\).**
+Upload your paper as an attachment to the [appropriate discussion forum in Moodle \(login required\)](https://learn.twu.ca/mod/forum/post.php?forum=2216) by the **end of week 3 \(Sunday night\).**
 
 Your instructor will assign partners and post the partnerships in the description of the forum in Moodle.
 
