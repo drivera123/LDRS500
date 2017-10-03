@@ -6,14 +6,6 @@
 
 Critical thinking is an essential component of leadership because there is an intelligence to practice. This practical wisdom or phronesis is an intellectual virtue incorporating discernment and judgment and is enhanced through practice. How does a leader in your context incorporate critical thinking?  To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org  These should give you enough information. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
 
-### Task
-
-##### Part 1 - Rough draft
-
-Using the resources below, and others you will need to find in the TWU Library, discuss how a leader in your context incorporates critical thinking into their decision making. Please identify at least four specific strategies that they use and include examples of each strategy.
-
-Your paper should be referenced in APA format and include references to at least two of the videos listed below, two references to criticalthinking.org, and two scholarly articles. You should be able to complete this assignment in 750-1000 words.
-
 ##### Videos and Resources
 
 * [_What is Critical Thinking_](https://youtu.be/9oAf3g5_138)
@@ -23,6 +15,14 @@ Your paper should be referenced in APA format and include references to at least
 * [_The Importance of Critical Thinking_](https://youtu.be/2yEZHXgQKsM)
 * [_http://www.criticalthinking.org_](http://www.criticalthinking.org/pages/college-and-university-students/799)
 * [TWU Library](https://twu.ca/library)
+
+### Task
+
+##### Part 1 - Rough draft
+
+Using the resources below, and others you will need to find in the TWU Library, discuss how a leader in your context incorporates critical thinking into their decision making. Please identify at least four specific strategies that they use and include examples of each strategy.
+
+Your paper should be referenced in APA format and include references to at least two of the videos listed below, two references to criticalthinking.org, and two scholarly articles. You should be able to complete this assignment in 750-1000 words.
 
 ##### Part 2 - Peer Review
 
