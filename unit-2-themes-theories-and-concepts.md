@@ -23,9 +23,12 @@ Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand
 
 **Journal Articles**
 
-1. Meaklim, T., & Sims, J. \(2011\). Leading Powerful Partnerships - a new model of public sector leadership development. International Journal of Leadership In Public Services, 7\(1\), 21-31.
-2. Hwang, H., Kang, M., & Youn, M. \(2014\). The influence of a leader's servant leadership on employees' perception of customers' satisfaction with the service and employees' perception of customers' trust in the service firm: the moderating role of employees' trust in the leader.Journal of Global Scholars of Marketing Science,24\(1\), 65-76.
-3. Van Dierendonck, D., Stam, D., Boersma, P., de Windt, N., & Alkema, J. \(2014\). Same difference? Exploring the differential mechanisms linking servant leadership and transformational leadership to follower outcomes.Leadership Quarterly,25\(3\), 544-562
+
+Hwang, H., Kang, M., & Youn, M. \(2014\). The influence of a leader's servant leadership on employees' perception of customers' satisfaction with the service and employees' perception of customers' trust in the service firm: the moderating role of employees' trust in the leader.Journal of Global Scholars of Marketing Science,24\(1\), 65-76.
+
+Meaklim, T., & Sims, J. \(2011\). Leading Powerful Partnerships - a new model of public sector leadership development. International Journal of Leadership In Public Services, 7\(1\), 21-31.
+
+Van Dierendonck, D., Stam, D., Boersma, P., de Windt, N., & Alkema, J. \(2014\). Same difference? Exploring the differential mechanisms linking servant leadership and transformational leadership to follower outcomes.Leadership Quarterly,25\(3\), 544-562
 
 
 
