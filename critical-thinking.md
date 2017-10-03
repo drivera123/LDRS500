@@ -4,7 +4,7 @@
 * Part 2 - Peer review - end of week 4
 * Part 3 - Final draft - end of week 5
 
-Critical thinking is an essential component of leadership because there is an intelligence to practice. This practical wisdom or phronesis is an intellectual virtue incorporating discernment and judgment and is enhanced through practice. How does a leader in your context incorporate critical thinking?  To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org  These should give you enough information. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
+Critical thinking is an essential component of leadership because there is an intelligence to practice. This practical wisdom or phronesis is an intellectual virtue incorporating discernment and judgment and is enhanced through practice. How does a leader in your context incorporate critical thinking?  To prime your thinking, view the following videos \(total of just under 25 minutes\).  Then explore the website www.criticalthinking.org.  These should give you enough information to complete this assignment. You may also research other sources but remember the emphasis of this paper is on applied critical thinking in your leadership context.
 
 ##### Videos and Resources
 
@@ -19,9 +19,9 @@ Critical thinking is an essential component of leadership because there is an in
 
 ##### Part 1 - Rough draft
 
-Using the resources below, and others you will need to find in the TWU Library, discuss how a leader in your context incorporates critical thinking into their decision making. Please identify at least four specific strategies that they use and include examples of each strategy.
+Using the resources above, and others you will need to find in the TWU Library, discuss how a leader in your context incorporates critical thinking into their decision making. Please identify at least four specific strategies that they use and include examples of each strategy.
 
-Your paper should be referenced in APA format and include references to at least two of the videos listed below, two references to criticalthinking.org, and two scholarly articles. You should be able to complete this assignment in 750-1000 words.
+Your paper should be referenced in APA format and include references to at least two of the videos listed above, two references to criticalthinking.org, and two scholarly articles. You should be able to complete this assignment in 750-1000 words.
 
 ##### Part 2 - Peer Review
 
