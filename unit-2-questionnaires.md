@@ -26,7 +26,7 @@ See the [Leadership Trait Questionnaire](https://create.twu.ca/ldrs500/unit-2-th
 
 The scores you received on the LTQ provide information about how you see yourself and how others see you as a leader. The chart allows you to see where your perceptions are the same as those of others and they differ.
 
-The example ratings show how the leader self-rated higher than the observers did on the characteristic Articulate. On the second characteristic, Perceptive, the leader self-rated substantially higher than others. On the Self-confident characteristics, the leader self-rated quite close to others’ ratings but lower. There are no best ratings on this questionnaire. The purpose of the instrument is to give you a way to assess your strengths and weaknesses and to evaluate areas where you’re your perceptions are congruent with those of others and where there are discrepancies.
+The example ratings show how the leader self-rated higher than the observers did on the characteristic, articulate. On the second characteristic, perceptive, the leader self-rated substantially higher than others. On the self-confident characteristics, the leader self-rated quite close to others’ ratings but lower. There are no best ratings on this questionnaire. The purpose of the instrument is to give you a way to assess your strengths and weaknesses and to evaluate areas where you’re your perceptions are congruent with those of others and where there are discrepancies.
 
 #### Leadership Instrument
 
@@ -50,7 +50,6 @@ See [Leadership Theory and Practice](https://create.twu.ca/ldrs500/unit-2-themes
 
 The skills inventory is designed to measure three broad types of leadership skills: technical, human, and conceptual. Score the questionnaire by doing the following. First, sum the responses on items 1, 4, 7, 10, 13, and 16. This is your technical skill score. Second, sum the responses on items 2, 5, 8, 11, 14, and 17. This is your human skill score. Third, sum the responses on items 3, 6, 9, 12, 15, and 18. This is your conceptual skill score.
 
-
 ##### **Scoring Interpretation**
 
 The scores you have received on the skills inventory provide information about your leadership skills in three areas. By comparing the differences between your scores, you can determine where you have leadership strengths and where you have leadership weaknesses. Your scores also point toward the level of management for which you might be most suited.
@@ -66,12 +65,12 @@ To assist you in developing a better understanding of how leadership style is me
 Instructions: Read each item carefully and think about how often you \(or the person you are evaluating\) engage in the described behavior. Indicate your response to each item by circling one of the five numbers to the right of each item.
 
 ##### **Key: 1 = Never, 2 = Seldom, 3 = Occasionally, 4 = Often, 5 = Always**
+
 See the [Style Questionnaire](https://create.twu.ca/ldrs500/unit-2-themes-theories-and-concepts/unit-2-questionnaires/#questionnaires), below.
 
 **Scoring**
 
 The style questionnaire is designed to measure two major types of leadership behaviors: task and relationship. Score the questionnaire by doing the following: First, sum the responses on the odd-numbered items. This is your task score. Second, sum the responses on the even-numbered items. This is your relationship score.
-
 
 ##### **Scoring Interpretation**
 
@@ -94,10 +93,4 @@ Your results on the style questionnaire give you data about your task orientatio
 ##### **References**
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, Fifth Edition. Thousand Oaks, CA: SagePublications.
-
-Giroux, S \(2014\) Module 2- Daily discussion[https://courses.mytwu.ca/mod/forum/discuss.php?d=143509](https://courses.mytwu.ca/mod/forum/discuss.php?d=143509)
-
-Rakesh Wadhhwa. \(n.d.\). Laissez-faire leadership: an oxymoron? \[Blog post\]. Retrieved from[http://wadhwarakesh.com/laissez-faire-leadership-an-oxymoron/](http://wadhwarakesh.com/laissez-faire-leadership-an-oxymoron/)
-
-Pooley, A\(2014\) Module 2-Daily discussion.Retrievedfrom [https://courses.mytwu.ca/mod/forum/discuss.php?d=143505](https://courses.mytwu.ca/mod/forum/discuss.php?d=143505)
 
