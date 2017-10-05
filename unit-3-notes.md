@@ -150,7 +150,7 @@ Hoerr, T. \(2017\)._The Formative Five: Fostering Grit, Empathy and other Succes
 
 Kavelin Popov, L. \(2004\). _The Pace of Grace: The Virtues of a Sustainable Life_. New York: Penguin.
 
+Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
+
 Rolheiser, R. \(1995\). _Against an Infinite Horizon_. London: Hodder and Stoughton.
-
-
 
