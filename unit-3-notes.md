@@ -44,9 +44,9 @@ How does a leader develop integrity in him/herself and in others? Kavelin Popov 
 * Find examples to discuss in the news
 * Share your decisions, actions, rationale when faced with a decision where integrity was required
 
-Excellence is a habit \(Aristotle\) that we cultivate through practice. As philosopher Will Durant \(1926\) explains:
+Excellence is a habit that we cultivate through practice. As philosopher Will Durant \(1926, p. 87\) explains:
 
-> Excellence is an art won by training and habituation: we not act rightly because we have virtue or excellence, but rather have these because we have acted rightly; these virtues are formed in man by doing his actions; we are we repeatedly do. Excellence, then, is not an act but a habit.
+> Excellence is an art won by training and habituation: we not act rightly because we have virtue or excellence, but rather have these because we have acted rightly; "these virtues are formed in man by doing his actions" \(Aristotle\); we are we repeatedly do. Excellence, then, is not an act but a habit.
 
 How does a leader increase in wisdom?
 
@@ -135,6 +135,8 @@ Eventually you will be able to engage in the demanding tasks of academic thinkin
 ##### References
 
 Cited in the Unit Notes, these resources are for reference purposes–read further in your areas of interest as you wish!
+
+Aristotle. & Smith, J. A. & Chase, D. P.  \(1911\).  _The Nicomachean ethics of Aristotle_.  London; Dutton
 
 Bondi, L., Carr, D, Clark, C and C. Clegg \(2016\). _Towards Professional Wisdom: Practical Deliberation in the Professions_. New York: Routledge.
 
