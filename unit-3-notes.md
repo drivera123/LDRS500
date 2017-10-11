@@ -67,7 +67,7 @@ In graduate studies you are expected to think critically, analyze the assertions
 
 * are the principal means through which knowledge is advanced
 * differ from articles published in newspapers and magazines and from chapters published in books
-* are based on evidence, research \(whereas articles in newspapers and magazines express opinions – with generally meager rationale or evidence\)
+* are based on evidence and research. While newspaper and magazine articles may be helpful in providing up-to-date information on current events, because they are a different genre of writing, they are not considered to be peer-reviewed, academic sources such as articles in academic journals.
 * that are difficult to read due to jargon or those that have weak implications for policy or practice can limit the good that leaders can gain from reading journals
 
 Here are four good reasons to read journal articles \(adapted from Chong, 2015\):
@@ -136,7 +136,7 @@ Eventually you will be able to engage in the demanding tasks of academic thinkin
 
 Cited in the Unit Notes, these resources are for reference purposes–read further in your areas of interest as you wish!
 
-Aristotle. & Smith, J. A. & Chase, D. P.  \(1911\).  _The Nicomachean ethics of Aristotle_.  London; Dutton
+Aristotle. & Smith, J. A. & Chase, D. P.  \(1911\).  _The Nicomachean ethics of Aristotle_.  London; Dutton
 
 Bondi, L., Carr, D, Clark, C and C. Clegg \(2016\). _Towards Professional Wisdom: Practical Deliberation in the Professions_. New York: Routledge.
 
