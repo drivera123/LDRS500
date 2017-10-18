@@ -1,4 +1,4 @@
-### **Characteristics of Servant Leadership  **
+### **Characteristics of Servant Leadership **
 
 ##### **Listening**
 
@@ -14,7 +14,7 @@ Healing encourages us all to do something small to show that we care with our ac
 
 ##### **Awareness**
 
-Awareness can be defined as the ability to see things are they are. This involves the awareness of self and as well as awareness of situations. Robert Green-leaf once said,
+Awareness can be defined as the ability to see things are they are. This involves the awareness of self and as well as awareness of situations. Robert Greenleaf once said,
 
 > Awareness is not a giver of solace- it is just the opposite. It is a disturber, an awakener.
 

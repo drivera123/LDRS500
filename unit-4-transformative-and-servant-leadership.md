@@ -37,3 +37,9 @@ Smith, B.N., Montagno, R.V. and Kuzmenko, T.N. \(2004\). Transformational and se
 
 Van Dierendonck, D. \(2011\). Servant leadership: A review and synthesis. Journal of Management 37\(4\), 1228-1261. [https://ezproxy.student.twu.ca/login?url=http://journals.sagepub.com/doi/10.1177/0149206310380462](https://www.gitbook.com/book/twonline/ldrs-500/edit)
 
+##### References
+
+Bass, B.M. and Riggio, R.E. \(2006\). Transformational Leadership. New York: Taylor & Francis Group.
+
+Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
+
