@@ -1,4 +1,4 @@
-Transformational leaders inspire and motivate followers to reach their fullest potential for the good of the organization \(Northouse, 2016\), whereas
+Transformational leaders inspire and motivate followers to reach their fullest potential to support the vision and goals of the organization \(Northouse, 2016\), whereas
 
 > servant leaders put followers first, empower them, and help them develop their full personal capacities” \(Northouse, 2016, p.225\).
 
