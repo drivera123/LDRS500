@@ -27,7 +27,7 @@ In the following two activities below, the primary focus is on recognizing the s
 
 ##### References
 
-Page, D., & Wong, T. P. \(2000\). A conceptual framework for measuring servant leadership. The human factor in shaping the course of history and development, 69-110.
+Page, D., & Wong, T. P. \(2000\). [A conceptual framework for measuring servant leadership. The human factor in shaping the course of history and development](http://www.drpaulwong.com/wp-content/uploads/2013/09/Conceptual-Framework.pdf), 69-110.
 
 Marciano, P. L. \(2010\). Carrots and sticks don’t work: Build a culture of employee engagement with the principles of RESPECT. New York, NY: McGraw-Hill
 
