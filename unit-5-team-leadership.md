@@ -8,7 +8,7 @@ At the end of this unit the students will be able to:
 
 1. Identify what is happening within the organization, are able to communicate ideas effectively, give power to others, and are able to move different types of people forward in achieving results.
 2. Describe how the practice of Servant Leadership affirms human dignity, increases the bond of community by fostering compassion and attention to people’s needs, and provides an environment that promotes justice.
-3. Integrate leadership thinking related to values-based leadership and transformational servant leadership that builds competency in team leadership, people development, relationships and collaboration.
+3. Integrate leadership thinking related to values-based leadership and transformational servant leadership that builds competency in team leadership, people development, relationships and collaboration. 
 
 ##### **Resources**
 
