@@ -18,7 +18,7 @@ Rowe, G. W & Guerrero, L. \(2016\) Cases in Leadership, Fourth Edition. Thousand
 
 ##### **Article Reviews**
 
-Spears, Larry C. \(2010\) Character and Servant Leadership: Ten Characteristics of Effective,Caring Leaders. The Journal of Virtues & Leadership, Vol. 1 Iss. 1, 2010, 25-30. available online directly from Regen University at:[https://www.regentuniversity.org/acad/global/publications/jvl/vol1\_iss1/Spears\_Final.pdf](https://www.regentuniversity.org/acad/global/publications/jvl/vol1_iss1/Spears_Final.pdf)
+Spears, Larry C. \(2010\) Character and Servant Leadership: Ten Characteristics of Effective,Caring Leaders. The Journal of Virtues & Leadership, Vol. 1 Iss. 1, 2010, 25-30. available online directly from Regen University at: [https://www.regent.edu/acad/global/publications/jvl/vol1\_iss1/Spears\_Final.pdf](https://www.regent.edu/acad/global/publications/jvl/vol1_iss1/Spears_Final.pdf)
 
 Page, Don and Wong, Paul T. P. \(nd\)A Conceptual Framework for Measuring Servant-Leadership, Trinity Western University, Langley, B. C, Canada.Available on Research Gate from:[https://www.researchgate.net/publication/242232213\_A\_Conceptual\_Framework\_for\_Measuring\_Servant-Leadership](https://www.researchgate.net/publication/242232213_A_Conceptual_Framework_for_Measuring_Servant-Leadership)
 
