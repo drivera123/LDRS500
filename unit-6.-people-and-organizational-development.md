@@ -20,9 +20,8 @@ By the end of the unit students will be able to:
 
 ##### Resources
 
-Kandampully, J., Bilgihan, A., Tingting, C. \(2016\).Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier. Retrieved from:
-
-[https://www.researchgate.net/profile/Tingting\_Zhang41/publication/307630061\_Developing\_a\_people-technology\_hybrids\_model\_to\_unleash\_innovation\_and\_creativity\_The\_new\_hospitality\_frontier/links/57d0e01d08ae5f03b489161c.pdf](https://www.researchgate.net/profile/Tingting_Zhang41/publication/307630061_Developing_a_people-technology_hybrids_model_to_unleash_innovation_and_creativity_The_new_hospitality_frontier/links/57d0e01d08ae5f03b489161c.pdf)
+  
+Kandampully, J., Bilgihan, A., & Zhang, T. C. \(2016\). [Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier.](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1447677016300201&site=eds-live) Journal of Hospitality and Tourism Management, 29, 154-164. 
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
 
