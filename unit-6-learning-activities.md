@@ -6,7 +6,7 @@
 
 ##### Learning Activity 2
 
-Read Rockwell, D. \(2017, March 17\) _The Anatomy of Performance Enhancing Coaching Conversations_.
+Read Rockwell, D. \(2017, March 17\) [_The Anatomy of Performance Enhancing Coaching Conversations_](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/).
 
 Upon completion, consider how you as a leader can have a conversation about goals and professional development
 
@@ -24,7 +24,7 @@ Use the categories 'Unit 6' and 'LDRS500'.
 
 ##### Learning Activity 3
 
-Read Kandampully, J., Bilgihan, A., Tingting, C. \(2016\) . _Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier._
+Read Kandampully, J., Bilgihan, A., Tingting, C. \(2016\) . [_Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier._](http://www.sciencedirect.com/science/article/pii/S1447677016300201?)
 
 This article is an example of technology use in a hospitality field and will give you ideas for how you might address constructing an employee development plan in your context.
 

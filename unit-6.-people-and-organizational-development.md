@@ -20,8 +20,7 @@ By the end of the unit students will be able to:
 
 ##### Resources
 
-  
-Kandampully, J., Bilgihan, A., & Zhang, T. C. \(2016\). [Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier.](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1447677016300201&site=eds-live) Journal of Hospitality and Tourism Management, 29, 154-164. 
+Kandampully, J., Bilgihan, A., & Zhang, T. C. \(2016\). [Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier.](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1447677016300201&site=eds-live) Journal of Hospitality and Tourism Management, 29, 154-164.
 
 Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Thousand Oaks, CA: Sage Publications. ISBN 971452203409
 
@@ -29,9 +28,7 @@ Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Tho
 * _pp. 183-185 \_Case Study_ An Exploration in leadership and \_
 * _Chapter 3 Skills Approach._
 
-Rockwell, D. \(2017, March 17\) The Anatomy of Performance Enhancing Coaching Conversations. Retrieved from:
-
-[https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/)
+Rockwell, D. \(2017, March 17\) [The Anatomy of Performance Enhancing Coaching Conversations](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/). 
 
 ##### References
 
