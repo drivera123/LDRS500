@@ -28,21 +28,9 @@ Northouse, P. G. \(2016\). Leadership: Theory and practice, Seventh Edition. Tho
 * _pp. 183-185 \_Case Study_ An Exploration in leadership and \_
 * _Chapter 3 Skills Approach._
 
-Rockwell, D. \(2017, March 17\) [The Anatomy of Performance Enhancing Coaching Conversations](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/). 
+Rockwell, D. \(2017, March 17\) [The Anatomy of Performance Enhancing Coaching Conversations](https://leadershipfreak.blog/2017/03/05/the-anatomy-of-performance-enhancing-coaching-conversations/).
 
-##### References
 
-Dewey, J. \(1944\). Democracy and Education. New York: The Free Press.
 
-Hui, C., Snider, L., & Couture, M. \(2016\). Self-regulation workshop and occupational performance coaching with teachers: A pilot study. Canadian Journal of Occupational Therapy, 83\(2\), 115-125. doi:10.1177/0008417415627665
 
-Katz, J., & Sugden, R. \(2013\). The Three-Block Model of Universal Design for Learning implementation in a high school. Canadian Journal of Educational Administration and Policy, 141, 1-28.
-
-Klinger, D. A., Volante, L., & DeLuca, C. \(2012\). Building teacher capacity within the evolving assessment culture in Canadian education. Policy Futures in Education, 10\(4\), 447-460. doi:10.2304/pfie.2012.10.4.447
-
-Merriam, S. B., & Bierema, L. L. \(2014\). Adult learning: Linking theory and practice. San Francisco: Jossey-Bass.
-
-Merriam, S.B., & Grace, A.P. \(2011\). Contemporary Issues in Adult Education. San Francisco: Jossey-Bass.
-
-Sokal, L., & Sharma, U. \(2014\). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. Exceptionality Education International, 23\(1\), 59-71.
 

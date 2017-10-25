@@ -1,7 +1,7 @@
 ##### Learning Activity 1
 
-1. Read the Unit notes on Androgogy access from the link below.
-2. In a blog post, describe your experience working with adult learners or as your experience as an adult learner. Frame your post using the six principles of Androgogy.
+1. Read the Unit notes on Andragogy access from the link below.
+2. In a blog post, describe your experience working with adult learners or as your experience as an adult learner. Frame your post using the six principles of Andragogy.
 3. Use the categories 'Unit 6' and 'LDRS500'
 
 ##### Learning Activity 2

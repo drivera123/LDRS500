@@ -19,3 +19,19 @@ Sokal and Sharma \(2014\), through their review of literature around effective p
 
 To be a transformational servant leader is to develop people and recognize that one person will never possess all the information necessary to make the best decisions, nor have all the skills necessary to run an organization by him/herself. The wisdom is often ‘in the room’ – even among the participants. We must willingly seek input and collaboration with stakeholders. This strengthens both the quality of our decisions and the buy-in of those who will carry out those decisions. Acknowledging our personal limitations as leaders is probably the single most important step toward creating a safe, enjoyable, effective and democratic environment. Transformative learning is not an individual process but rather a personal process that is carried out in ‘integrally webbed totalities’ \(O’Sullivan, 2003 in Merriam S. & Grace A.P., p.328\). Our personal growth and transformation impacts others. As a result of this course or program, you may change the way you make decisions which in turn, affects all of the people in this web differently than they may have otherwise been impacted.
 
+##### References
+
+Dewey, J. \(1944\). Democracy and Education. New York: The Free Press.
+
+Hui, C., Snider, L., & Couture, M. \(2016\). Self-regulation workshop and occupational performance coaching with teachers: A pilot study. Canadian Journal of Occupational Therapy, 83\(2\), 115-125. doi:10.1177/0008417415627665
+
+Katz, J., & Sugden, R. \(2013\). The Three-Block Model of Universal Design for Learning implementation in a high school. Canadian Journal of Educational Administration and Policy, 141, 1-28.
+
+Klinger, D. A., Volante, L., & DeLuca, C. \(2012\). Building teacher capacity within the evolving assessment culture in Canadian education. Policy Futures in Education, 10\(4\), 447-460. doi:10.2304/pfie.2012.10.4.447
+
+Merriam, S. B., & Bierema, L. L. \(2014\). Adult learning: Linking theory and practice. San Francisco: Jossey-Bass.
+
+Merriam, S.B., & Grace, A.P. \(2011\). Contemporary Issues in Adult Education. San Francisco: Jossey-Bass.
+
+Sokal, L., & Sharma, U. \(2014\). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. Exceptionality Education International, 23\(1\), 59-71.
+

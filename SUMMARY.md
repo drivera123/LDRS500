@@ -32,7 +32,7 @@
   * [Unit 5 Learning Activity](unit-5-learning-activity.md)
 * [Unit 6. People and Organizational Development](unit-6.-people-and-organizational-development.md)
   * [Unit 6 Learning Activities](unit-6-learning-activities.md)
-  * [Unit 6 - Androgogy notes](unit-6-androgogy-notes.md)
+  * [Unit 6 - Andragogy notes](unit-6-androgogy-notes.md)
 * [Unit 7. Leadership Ethics](unit-7-leadership-ethics.md)
   * [Unit 7 Learning Activity](unit-7-learning-activity.md)
 * [Unit 8. Women in Leadership](so-what-now-what.md)
@@ -43,6 +43,4 @@
   * [Unit 9 Learning Activities](unit-9-learning-activities.md)
   * [Unit 9 Notes](unit-9-notes.md)
 * [Unit 10. Conclusions](unit-10.-conclusions.md)
-
-
 
