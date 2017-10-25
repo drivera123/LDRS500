@@ -24,9 +24,9 @@ Northouse, P. G. \(2016\). Leadership: Theory and practice, seventh Edition. Tho
 
 ##### **Journal articles**
 
-Avolio, B. & Gardner, W. \(2005\). Authentic leadership development: Getting to the root of positive forms of leadership. Leadership Quarterly, 16, 315-338.
+Avolio, B. & Gardner, W. \(2005\). [Authentic leadership development: Getting to the root of positive forms of leadership.](http://www.sciencedirect.com/science/article/pii/S1048984305000263?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb) Leadership Quarterly, 16, 315-338.
 
-Wang, G., Oh, I. S., Courtright, S. H., & Colbert, A. E. \(2011\). Transformational leadership and performance across criteria and levels: A meta-analytic review of 25 years of research. Group & Organization Management, 36\(2\), 223-270.[http://gom.sagepub.com/content/36/2/223.full.pdf+html?ijkey=DK8XJiNcnahuU&keytype=ref&siteid=spgom](http://gom.sagepub.com/content/36/2/223.full.pdf+html?ijkey=DK8XJiNcnahuU&keytype=ref&siteid=spgom)
+Wang, G., Oh, I. S., Courtright, S. H., & Colbert, A. E. \(2011\). [Transformational leadership and performance across criteria and levels: A meta-analytic review of 25 years of research](http://journals.sagepub.com/doi/pdf/10.1177/1059601111401017). Group & Organization Management, 36\(2\), 223-270.
 
-Wong, P. T., & Davey, D. \(2007\). Best practices in servant leadership. Virginia Beach VA: School of Global Leadership and Entrepreneurship. Retrieved from [https://www.regent.edu/acad/global/publications/sl\_proceedings/2007/wong-davey.pdf](https://www.regent.edu/acad/global/publications/sl_proceedings/2007/wong-davey.pdf)
+Wong, P. T., & Davey, D. \(2007\). [Best practices in servant leadership. Virginia Beach VA: School of Global Leadership and Entrepreneurship](https://www.regent.edu/acad/global/publications/sl_proceedings/2007/wong-davey.pdf).
 
