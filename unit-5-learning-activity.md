@@ -20,18 +20,20 @@ In the following two activities below, the primary focus is on recognizing the s
 
 ##### **Learning Activity 2**
 
-1. Read Chapter 11 in _Cases in Leadership_ and the article - _10 Characteristics of Effective Caring Leaders_. 
+1. Read _Character and servant leadership: Ten characteristics of effective, caring leaders_ \(Spears, 2010\). 
 2. Prepare a 400-word reflection in response to the instruction below and post to your blog:
-3. Describe the internal and external leadership actions a team leader should take when coordinating a group project in an organization.
+3. Integrating some of the characteristics outlined in the article, describe 2-3 actions a team leader should take when coordinating a group project in an organization.
 4. Use the categories 'Unit 5' and 'LDRS500'.
 
 ##### References
 
-Page, D., & Wong, T. P. \(2000\). [A conceptual framework for measuring servant leadership. The human factor in shaping the course of history and development](http://www.drpaulwong.com/wp-content/uploads/2013/09/Conceptual-Framework.pdf), 69-110.
-
 Marciano, P. L. \(2010\). Carrots and sticks don’t work: Build a culture of employee engagement with the principles of RESPECT. New York, NY: McGraw-Hill
 
 Oliver, S. \(2006\). Leadership in health care.Musculoskeletal care,4\(1\), 38.
+
+Page, D., & Wong, T. P. \(2000\). [A conceptual framework for measuring servant leadership. The human factor in shaping the course of history and development](http://www.drpaulwong.com/wp-content/uploads/2013/09/Conceptual-Framework.pdf), 69-110.
+
+Spears, Larry C. \(2010\) [Character and Servant Leadership: Ten Characteristics of Effective,Caring Leaders](https://www.regent.edu/acad/global/publications/jvl/vol1_iss1/Spears_Final.pdf). The Journal of Virtues & Leadership, Vol. 1 Iss. 1, 2010, 25-30.
 
 Zaccaro, S. J., Rittman, A. L., & Marks, M. A. \(2002\). Team leadership.The Leadership Quarterly,12\(4\), 451-483.
 
