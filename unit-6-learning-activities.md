@@ -24,7 +24,7 @@ Use the categories 'Unit 6' and 'LDRS500'.
 
 ##### Learning Activity 3
 
-Read Kandampully, J., Bilgihan, A., Tingting, C. \(2016\) . [_Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier._](http://www.sciencedirect.com/science/article/pii/S1447677016300201?)
+Read Kandampully, J., Bilgihan, A., Tingting, C. \(2016\) . [_Developing a people-technology hybrids model to unleash innovation and creativity: The new hospitality frontier_](http://www.sciencedirect.com/science/article/pii/S1447677016300201?) \(requires login to the TWU library\).
 
 This article is an example of technology use in a hospitality field and will give you ideas for how you might address constructing an employee development plan in your context.
 
