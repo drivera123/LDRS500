@@ -35,7 +35,7 @@
   * [Unit 6 - Andragogy notes](unit-6-androgogy-notes.md)
 * [Unit 7. Leadership Ethics](unit-7-leadership-ethics.md)
   * [Unit 7 Learning Activity](unit-7-learning-activity.md)
-* [Unit 8. Women in Leadership](so-what-now-what.md)
+* [Unit 8. Women in Leadership](unit-8-women-in-leadership.md)
   * [Unit 8 Learning Activities](unit-8-learning-activities.md)
   * [Unit 8 Notes](unit-8-notes.md)
   * [Trusted 10 worksheet](trusted-10-worksheet.md)
