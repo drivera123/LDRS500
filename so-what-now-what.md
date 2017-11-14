@@ -14,7 +14,7 @@ By the end of this unit students will be able to:
 
 Northouse chapter 15 Gender and Leadership
 
-Nugent, J., Pollack, A. & D. Travis. _The day to day experiences of workplace inclusion and exclusion_. \(2016\). Retrieved from [http://www.catalyst.org/system/files/the\_day\_to\_day\_experiences\_of\_workplace\_inclusion\_and\_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
+Nugent, J., Pollack, A. & D. Travis. _The day to day experiences of workplace inclusion and exclusion_. \(2016\). Retrieved from [http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
 
 ##### **References**
 
