@@ -1,4 +1,4 @@
-###Unit 8 - Notes
+
 
 I credit Torild Skard, a psychologist, former Member of Parliament in Norway and Senior Researcher at the Norwegian Institute of International Affairs for inspiring me to use the metaphor of a labyrinth. In _Women of power: Half a century of female presidents and prime ministers worldwide_, Skard \(2014\) makes the point that  a ‘glass ceiling’ is too simplistic; a labyrinth is more descriptive of the challenges that women in leadership face.
 
