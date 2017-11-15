@@ -8,11 +8,13 @@ A great leader is not just telling the follower what to do, but building up thei
 
 ##### **Learning Activity 1**
 
-Watch the video [What is Ethical Leadership?](https://www.youtube.com/watch?v=ks2QGoIq5nA)
+1. Watch the video [What is Ethical Leadership?](https://www.youtube.com/watch?v=ks2QGoIq5nA)
+2. Read Avolio and Gardner's \(2005\) article [Authentic leadership development: Getting to the root of positive forms of leadership](http://www.sciencedirect.com/science/article/pii/S1048984305000263?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb)
+3. Create a new post on your blog and answer the following questions:
+   * What are the moral implications of leadership behaviour?
+   * In light of the video and article, how can you enable your organization to grow and flourish?
 
-After you watch the video, articulate what are the moral implications of leadership behaviour and also elaborate on ways that you have found helpful as presented by Avolio and Gardner's \(2005\) journal article [Authentic leadership development: Getting to the root of positive forms of leadership](http://www.sciencedirect.com/science/article/pii/S1048984305000263?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb) and can recommend to enable your organization to grow and flourish.
-
-Post this to your blog using the categories 'Unit 7' and 'LDRS500'.
+Use the categories 'Unit 7' and 'LDRS500'.
 
 ##### **Learning Activity 2**
 
