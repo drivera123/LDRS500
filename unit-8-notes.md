@@ -27,5 +27,7 @@ Kaley, M. \(1971\). Attitudes toward the dual role of the married professional w
 
 Nugent, J., Pollack, A. & D. Travis, \(2016\). _The Day to day experiences of workplace inclusion and exclusion_. Retrieved from [http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf](http://www.catalyst.org/system/files/the_day_to_day_experiences_of_workplace_inclusion_and_exclusion.pdf)
 
+Skard, T. (2014) Women of Power. Bristol, U.K.: Policy Press at University of Bristol
+
 
 
