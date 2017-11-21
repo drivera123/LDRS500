@@ -25,6 +25,8 @@ Part of the solution of leveling the playing field for women in leadership is be
 
 Again, review this drawing in context of diversity. It is most common that we replicate our world and we trust people who are like ourselves.  Is this true of yourself? If so, what can you do to increase diversity within your trusted network?
 
+There is no required blog post for Learning Activity 3.
+
 **Conclusion**
 
 If as a leader we have a high visibility stretch assignment with access to senior leaders, who would you ask to complete it?  Likely your trusted 10 or level 2 maybe. And as shown above, this is likely not going to create diverse teams or give opportunities to women or others.
