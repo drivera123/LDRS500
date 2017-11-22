@@ -18,7 +18,7 @@ Organizational Foresight and Stewardship downloaded from [https://www.td.org/Pub
 
 Malgeri, J. \(2010\). Organizational foresight and stewardship.Public Manager,39\(4\), 39. Order through [interlibrary loan](http://www8.twu.ca/library/libreq.htm).
 
-[Southwestern Airlines \(A\) Stanford Business School Case HR1-A](Southwestern Airlines %28A%29 - Case Study..pdf)
+[Southwestern Airlines \(A\) Stanford Business School Case HR1-A](Southwestern Airlines %28A%29 - Case Study.pdf)
 
 ##### 
 
